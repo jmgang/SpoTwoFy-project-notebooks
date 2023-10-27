@@ -1,0 +1,885 @@
+name,popularity,duration_ms,track_id,artist_id,artist_name,num_artists,album_id,release_date,playlist_id,playlist_name
+Kathang Isip,73,318814,3WUEs51GpcvlgU7lehLgLh,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,4nQxblVnnFPehg9ujzdJ8L,2017-06-23,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Hanggang Kailan - Umuwi Ka Na Baby,2,261866,5UhpceEr5XmbVwyoIUIRnh,1EUmQM6xgUQLUkJVcvSdey,Orange & Lemons,1,0S0yaR1MiuHfyAZPAtChVc,2005-03-24,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Buwan,71,343446,5f9808hpiCpuNyqqdXmpF2,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,1,2CF1utwLM2yXHMZhwFGVY1,2018-06-22,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Prinsesa,62,267293,2S80c51YXgJQhkhX603fMA,3nZa8vRD64ueq3d0JNYTsl,6cyclemind,1,1Im5BTDBghgM0NG75SaiC3,2007-01-15,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Maybe The Night,68,217197,1yDiru08Q6omDOGkZMPnei,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,6LhZ3QMHGJeTes9cCTxK8e,2017-10-27,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Laro,52,320573,0FOYt3VRWweAWgN1relGqN,3Hvxz2oZPYuo61ChHKcqQI,Autotelic,1,4bU263JJqschDhYZRgbnt7,2016-09-30,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Midnight Sky,0,244426,24bmXekGRqVFRlPYdfzyJr,30mZI7Hw2MhoarTVYxfyZM,Unique Salonga,1,60qph1sDjhgZtPR4IEnu5Y,2018-08-13,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ligaya,65,269733,5Ro6MdZGgce4PEuaFCJYPq,7374lH6kwx9uQATYQ9H3Cp,Eraserheads,1,0HDclsvr13EmV3DBMSVWPX,1993-12-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Leaves,71,310708,6wdCelHrPh7UfliNjwRTUv,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,5Yl1Bi501CuE72jaVK4e3y,2017-03-31,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Sino,1,280426,0x2VgHoxUxKFbIUqQur8Fe,30mZI7Hw2MhoarTVYxfyZM,Unique Salonga,1,60qph1sDjhgZtPR4IEnu5Y,2018-08-13,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Your Song,3,168493,3OpGUlDmRUXh0NkIYWoIlD,2XHTklRsNMOOQT56Zm3WS4,Parokya Ni Edgar,1,0kV35wyXIJKk04VRG0DdF4,2003-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ride Home,59,326885,1fXHTDYsJiFOjVWITaFp1j,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,308xacxloeHSt2tzLCWli0,2017-01-23,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Home,53,333622,0dCDBADaqgcQ62LdyRsejn,2JI8ViuZDBybY6Xd9ujUrb,Reese Lansangan,1,2ckgN1jJObKrLisIuVso10,2016-10-29,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Bukang-Liwayway,37,260240,1EJQZaE23L5ZK52nPycC16,4eKq7eArL96wSQjaaMg9Ic,Munimuni,1,0wlV4A2q8N2ubZJpJeqDTi,2017-03-17,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Balisong,0,219493,2RTR3zmXPKRgLM8TO0UfLI,1ZTdxfZTeztyAgKUJVLxAI,Rivermaya,1,7ysprwUPbgdMAfYMDarCGk,2010-05-18,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Mundo,73,349713,4u8RkgV6P4TLi89SmlUtv8,4k9wp4ipHdA1bu1T4x1ZTG,IV Of Spades,1,2p6QlBCrnKwUFC0wPN1kfV,2018-02-14,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Oo,0,239000,7gWKGNeHjIDUkNreiYYNdm,3wbCeEPAW6po7J46netxMT,Up Dharma Down,1,2XZd988bbXkKBzaVklQbcb,2006-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Pagtingin,70,227370,5l9g7py8RCblcvbZgGQgSd,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,7xCcuTA3abKwxj8HwgxP7R,2019-05-12,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+SUNRISE,49,213674,3pO8AS9mXlI85OsHbJa4Jf,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,0jaGLy6bI1pjrc2gbkyxbJ,2018-06-29,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Binibini,0,274626,1lLsX23uu48KNM1NnDZ50N,7ymgfUyJFViyg1qFo4M2nH,Brownman Revival,1,2rjnUPO5bpFi7Y1gUG0kwY,2007-12-04,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Para Sa Akin,58,186240,0MqkYdGBzHx7lnaFvo7doR,0t7vWPRBcVv4xBEHPZHSWA,Sitti,1,0JPSXvzFg02DSytNE16MSw,2006-01-25,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+So Slow,0,275906,6F4Scj944RJCZPgcGuAqym,0jarApAsbmiCkYhz0590mE,Freestyle,1,1UeL9KHbWPUf203QjU6NvN,1998-09-26,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ako Na Lang,0,204814,6JFzAzZsDY1r8Xx0ULCpfI,45n4dyhe8nXULBDb6wHSXe,Zia Quizon,1,5u8URNxTRwpkB4fTYVwFMP,2011-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Truth,0,262478,1mAy2SZrv3fTqGpJCnkTwM,0c7d9V8rjfT6tzojfBfRf5,Bamboo,1,6rOq3avTNJ9aRaW1bmAlLN,2006-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+When I Met You,2,259413,1t7AA4xxqEseapeIJCiQ5l,4RA4PC3WHM9OHZLExirTcU,APO Hiking Society,1,25NWcQxX3c34YyHlsxed7H,1982-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ihatod Tika,23,255250,6gvahJrX8NhdnH81gZkOY3,62zC91nHpGsDw9oWhwyDZf,Jerika Teodorico,1,2saEvJCay0DbBWXQa3O3O8,2019-12-14,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Yakap Sa Dilim,0,189706,36B2coUVkMCZ995TlS07Ok,1EUmQM6xgUQLUkJVcvSdey,Orange & Lemons,1,69D4cExSX1pZpjc6ySwers,2008-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Make It With You,20,209782,2Mo4pOpCYXOu33856sMQLh,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,3cHbJm4cKnGephP4UYxIEv,2019-12-13,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ikaw At Ako,61,287971,1vzxlhQ3dujloZsqeO3Wei,2zFBNsALb4M2FhKl98wcvd,Johnoy Danao,1,7aLnwr1Jr5xfdmmKKTeBZN,2010-12-08,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Bibingka,58,306066,3nmRSlzR7xtAo95GjfIahZ,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,4fvqIgslOvrYh0aQWwWOK4,2016-10-20,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Kahit Ayaw Mo Na,1,243015,58grXgbCj7t5ulr0TGLIr9,5HIZU0JzM0AgfItVOm4E08,This Band,1,2sGiNJNhNMJbn56l0BE0R0,2018-11-02,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Kung 'Di Rin Lang Ikaw,66,267759,2BgD4nRyx9EZ5o8YEnjRSV,"['4qFxP3qN9GsnZDOkAE6x2m', '0rZRTXEmmPmx6gt92tBqIc']","['December Avenue', 'Moira Dela Torre']",2,15ufxdU6r8niuSmA9nu3ly,2018-07-22,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Araw-Araw,72,313951,4rG3h1QwgjSSWz8EIjCFrm,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,7xCcuTA3abKwxj8HwgxP7R,2019-05-12,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Sila,63,326000,2IMODbij0lZ5CuAjZi0IDE,0jKQrxK2zHqxyOAyIMrUQt,SUD,1,0qwujayb77utSpftsXjdP3,2015-07-31,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Pwede Ba,66,342806,2pGH2MRfqXyFJtVPVBZ7Gx,29zSTMejPhY0m7kwNQ9SPI,Lola Amour,1,652wi7TL70B3QnNE2wwDSN,2018-06-15,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Masyado Pang Maaga,61,306204,0luyrm1L6gjtoLekHOf67t,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,75Y2NZzYQyYpxusG8e0ZeM,2019-11-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+'Di Na Muli,0,260599,2PO6blDCnOFWxudKu0XnmV,5cYJYBMg1n71v7cvthr1SO,The Itchyworms,1,7djBOaRI4ItJ9Q9j1haJ4n,2018-06-04,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Imahe,70,321817,65sEZZaxTjLMD8vNgPoMz5,28B54RKpJrEmDoGSTjsfY6,Magnus Haven,1,04KG42EaTfjaPbYHQ6wI3h,2018-11-30,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Kung Wala Ka,68,242800,4JSDhJVmo2UqdF7nxbyenn,6Ww3OMFzCaO33ulKh1LBFN,Hale,1,4iaCi771IT9I2xwtnXnjlx,2004,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Mabagal,3,226727,07JZJ9YJRaiUAz9Bv8wgwH,"['5yVM85m9yNcHO6o0vaaVxW', '0rZRTXEmmPmx6gt92tBqIc']","['Daniel Padilla', 'Moira Dela Torre']",2,662p02ErqQk9DvBL38lqH7,2019-08-02,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Binhi,0,216774,0sNZsYY8LSCCM4tC2y0zR1,7uDdl5V5AETSFY7K3muu22,Arthur Nery,1,3H8htbv4nP3HIjpOCbxm67,2019-10-25,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Hung Up,0,196923,4R7Wwquqb9c5Nzco5Gy1Uo,7uDdl5V5AETSFY7K3muu22,Arthur Nery,1,3H8htbv4nP3HIjpOCbxm67,2019-10-25,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Antukin,67,289226,4jq5J39hJ28RmDhNp1QkYk,6l880dxsvN2x5wiceaG6D0,Rico Blanco,1,2IlKvs2GxtFMFEIIunQCXU,2008-05-15,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Tulog Na,1,238283,0SXASazFDcMabUee9uP9TL,5I3uAFbAOhuVSKdrcG5mgy,Sugarfree,1,5K9KzgsrA3b2rRX5XYKGqk,2004-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ako Naman Muna,10,327058,35yw6wTQcItHtyrbCAQV9L,7yaaxrkMOWJZXpIYHkppDH,Angela Ken,1,2B1YkkWaxGUQ4yOioli1ZX,2021-03-05,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Binibini,66,221538,2X5AFygz5SDYlXagyPw8kX,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,0oJLtle44OSumLZj1WDEf0,2021-03-26,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+With A Smile,68,278173,1NopgVCMVhCKIm64tF7auX,7374lH6kwx9uQATYQ9H3Cp,Eraserheads,1,1IalzI8USuu4PB679HVV5C,1994-11-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Your Universe - Acoustic,51,240186,5RfpJJnfTXkIXRG4f1hudc,6l880dxsvN2x5wiceaG6D0,Rico Blanco,1,254ElpW3Ad4qf073WbscLv,2010-03-15,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+214,67,273200,7gZ3kWNtIxFgxjsm5OTVMB,1ZTdxfZTeztyAgKUJVLxAI,Rivermaya,1,65GkUxR6lYlCiYP4mqyZl1,2001,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+241 (My Favorite Song),0,272640,1qeqGIFBg8GTb6etWGskIM,1ZTdxfZTeztyAgKUJVLxAI,Rivermaya,1,7ysprwUPbgdMAfYMDarCGk,2010-05-18,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Paraluman,4,312320,5Hm2MJQ4ECvQmH5QWCMQrR,1DlYnIiliftt6R21Y5NOW2,Adie,1,1WPqdSZcLnQQFhCGK3kJk6,2021-03-26,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Luha,0,309589,0bkD3c7Z6JUkJ0yERbFLUN,1DlYnIiliftt6R21Y5NOW2,Adie,1,79TyfSBVDasaBj5GXPcBf0,2020-11-16,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Inday,0,233043,2VU87QNhNLZUtn3kWCrY8s,7LvDTuFCBv08xm6u1pOMK0,TJ Monterde,1,5A1c35YNZxIMB5chd9YvPi,2021-07-30,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Dodong,0,187928,5IBZ8aDaVVB7nvZvkZNtI0,1mcqfNCReSFxun2vIWvC28,KZ Tandingan,1,2gtV62NF2WRIwIHnTdpfgv,2021-07-30,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Pagsamo,4,297001,34YfLWuoxLEcvJQNxdI9P2,7uDdl5V5AETSFY7K3muu22,Arthur Nery,1,2a4tsCtI450vuuBKJ3nSP2,2021-10-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Dungaw,0,209000,0gDzFm0j00WYab5fuFbHW8,1DlYnIiliftt6R21Y5NOW2,Adie,1,7FHxzV6W61BJ9irw8ejxmJ,2021-07-16,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+"Malay Mo, Tayo",0,274291,0cMcFcm3YvB8o1yKkYNv0a,7LvDTuFCBv08xm6u1pOMK0,TJ Monterde,1,401eCisGwwn6mkEi5A21Iw,2019-11-15,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Lifetime,65,171527,3X9c4tBzSdGhlO4Fx3WYgW,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,277CpjwmcdLZsHwXpj9D8H,2020-06-03,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Habang Buhay,65,244067,0zANeX4R6uWb82gCQAguOD,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,7Mp9hdsWS0vbxKvYkT77hS,2021-09-17,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Pano,78,254400,08MFgEQeVLF37EyZ7jcwLc,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,1HJ34zQqSqNvZeO2W6dE01,2021-12-06,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ikaw Lang,77,263500,16iRlyUMJVPqz62DlomMre,5GVk1KCKa1tdHRev4bMw7V,NOBITA,1,1nft8RTZE2QYeDPPNEnCBx,2020-06-12,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Come Inside Of My Heart,78,246396,3Eb5sztvEMa0Mqnb8DUAlU,4k9wp4ipHdA1bu1T4x1ZTG,IV Of Spades,1,5mGR6qKnpILzSzq1yyAUXk,2019-01-18,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Your Universe,63,238466,7vWHppvllFJXdXf0xplZum,6l880dxsvN2x5wiceaG6D0,Rico Blanco,1,2IlKvs2GxtFMFEIIunQCXU,2008-05-15,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Mahika,80,201951,47sq83n5WN22ZzYnGn8aTy,"['1DlYnIiliftt6R21Y5NOW2', '4qPhnQfRgdgcZEdXgENOnr']","['Adie', 'Janine Berdin']",2,3WaVt2pLL12vKhAwQgKld4,2022-05-11,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Isa lang,76,269256,0HAG6nIiEKd75yGpovuSJQ,7uDdl5V5AETSFY7K3muu22,Arthur Nery,1,09S77IK5S0vxVF0DfwSohF,2021-12-17,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Happy w u,70,280714,0EA8jl8Wje9ALRKC8Qlzyt,"['7uDdl5V5AETSFY7K3muu22', '7Hb2cm4pIeCUKwfzutKyjp']","['Arthur Nery', 'Jason Dhakal']",2,3wGtsGy8caFXddQMJau2kb,2020-12-22,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Tahanan,74,293727,5CUQnKjA6nlteCnxMKsjIu,1DlYnIiliftt6R21Y5NOW2,Adie,1,77pn87cuqQjBr9mb5H3mPE,2021-12-08,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Dungaw,67,209000,3XlzKAS2zostN3UiBJvLW6,1DlYnIiliftt6R21Y5NOW2,Adie,1,5urhaJ6pLevxWWqb2LfQ5N,2021-07-16,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Kabado,62,246304,7oLe1cVRqLpoH2NozJ78mh,1DlYnIiliftt6R21Y5NOW2,Adie,1,4QKhoKIlxDjVcMgDznCt7A,2022-08-12,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Sa Susunod na Habang Buhay,72,288189,3PgjBOoA5OytNGkglObpOd,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,0U3q2NgWn97Fsns6dg7CzD,2020-02-28,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Higa,74,245760,7gfrASeOt73YWvpIv1fU8E,7uDdl5V5AETSFY7K3muu22,Arthur Nery,1,6oZQZu4rTUF0A8PtpZeLFF,2019-10-25,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Malay ko,2,237115,5u9O8r1jjEEOKXjgbLqYKG,5yVM85m9yNcHO6o0vaaVxW,Daniel Padilla,1,463Cj2KO7ttzDOeYS9uFlj,2018-10-13,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Dulo Ng Hangganan,69,328303,7h4W9blGxYCkKJ3dxPZ84j,4k9wp4ipHdA1bu1T4x1ZTG,IV Of Spades,1,5mGR6qKnpILzSzq1yyAUXk,2019-01-18,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Nobela,69,291506,3vGkyQlCw8LklNip0ZUELC,70ljCILl0aVXitf3K39YvT,Join The Club,1,7kzETZloUVbyQLuqDnLPVV,2016-04-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+o ninanais,61,252214,0wu1deoRFwktnfD6dTt9KE,7uDdl5V5AETSFY7K3muu22,Arthur Nery,1,1X5tEgzP3ie9ViLe68LJNA,2023-02-17,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ligaya,72,248800,4IeuTj1pEHuL9vJSiEqEfR,31fsDbpNPKe346urriO4ma,mrld,1,0ccUyUkrIynFO5USku5IHH,2021-10-06,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Pelikula,72,204693,663vZfMh88Uo2bfTx6wiE4,"['09Xydf4dlkr29dH99DmsvQ', '7uDdl5V5AETSFY7K3muu22']","['Janine', 'Arthur Nery']",2,4Ufwb1ZIfcSK4GKGzfZipb,2021-07-02,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Pasilyo,82,270250,0uZFcsx96wzbixsULmrg8o,4bLLB1dbsRVUTcMpnDGDO2,SunKissed Lola,1,4shoxv60vMxSDq40tp5cSK,2022-10-28,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Yakap,70,178947,3h8uWt8HNyDNubPSEBgTPG,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,0HNCZzy2tqjuLZJuTDGdAW,2022-07-22,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Rainbow,67,345155,1cknB5OmLMuJFmdDzQpCIv,6ZgBJRjJsK1iOJGKGZxEUv,South Border,1,4d8LGjRzdKQH7EbODTbntX,2005,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Paninindigan Kita,69,312234,5d9Rka4T0szdC1MobhtXrV,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,1hz1zGc3c7U5G7mIazQ2vW,2022-05-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Huling Sandali (Tayo Sa Huling Buwan Ng Taon Official Soundtrack),66,343017,6rIx9meOtOHDoo6ryRUdHv,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,7eXlJM2M5i3iDd8xgd0qwr,2019-12-20,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Uhaw (Tayong Lahat),80,241185,47OFMuRu5lzJHRbtEXPBbs,6Dp4LInLyMVA2qhRqQ6AGL,Dilaw,1,35qpGQN1On4Un7ZUdTVQgD,2022-12-16,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Huwag Ka Sanang Magagalit,51,294880,3lCMZOGuHppxbkJN7yJCLk,30mZI7Hw2MhoarTVYxfyZM,Unique Salonga,1,2kgaM8FzgUo4gKoYmKu6ns,2020-03-27,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Unang Sayaw,70,278008,4iRRAvxPPWXQp3mV1rAbPF,5GVk1KCKa1tdHRev4bMw7V,NOBITA,1,05VgPoz2XrqlgnnOYBaPsk,2021-08-18,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Sawa Na,57,235277,0LoXmqWDjLVi6uHh25DtaP,1DlYnIiliftt6R21Y5NOW2,Adie,1,6RpuSdCfPG66ygsuZb64xq,2021-10-08,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Fallen,79,201806,4mc3rUoMwwiNTHA4al9nNd,29zSTMejPhY0m7kwNQ9SPI,Lola Amour,1,65mubteFOgv2qZeSWMdNl7,2021-06-25,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Mundo,49,302658,2rxLYcS2ui5Mq68Ku0O4Vo,30mZI7Hw2MhoarTVYxfyZM,Unique Salonga,1,3FQdFfAFJehEPSBzZdAHgG,2018-12-25,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Huwag Kang Matakot,52,238179,27BjdZeYEDpUN6Ijdf7hJP,2JI8ViuZDBybY6Xd9ujUrb,Reese Lansangan,1,0iV16jZ6rawupkK0oFvdmS,2019-12-06,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Bright Like the Sun,36,205771,4R8DEiyiXgXrtSADIZ1kgN,2zFBNsALb4M2FhKl98wcvd,Johnoy Danao,1,7EjF3yeOw39IL7ISiH7lrk,2021-04-02,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Nangangamba,71,210354,1dcNEEtODRVZEevQ20Cgmy,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,4kHntHygZZcKMRXGE2k1Fw,2020-08-07,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Sansinukob,56,193583,7jOqzJjLxMTg6yScO5nYDb,6Dp4LInLyMVA2qhRqQ6AGL,Dilaw,1,3jXW9PJLrAvYhBQMrQTVti,2023-03-24,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Abot Langit - Ricovered,54,177692,17FlJCEmLjIEHIfdhP960V,"['6l880dxsvN2x5wiceaG6D0', '4bOVj4CTZ1WzSIiWRG9b3n']","['Rico Blanco', 'Maris Racal']",2,23EBcDqjGPESxImYjrbJak,2019-06-08,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Still The One,57,214273,7hOIMt1MIleUUigFAr8mCk,51KbY36mrjHRQwvSbel74l,Jesse Barrera,1,6DfwjLAEKAA4Au2WkNYLaH,2022-07-15,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Naaalala Ka,26,222280,1r3FjfLe48WoOaa3zjpWSn,"['3pTaNQJ7TAU4yL7KEZp5sF', '6p1eu4fgMqHerFKUTwzXgy']","['Nyoy Volante', 'Mannos']",2,123nGQaKUWQ0H1IQ5m1r9R,2008,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Kahit Maputi Na Ang Buhok Ko,50,199933,2bUuOJMH9U83ikPmsfuu0l,2fonBGBLc7lUoikMqms5Zl,Noel Cabangon,1,2ZGmJtrmLTvpa2jO8NMAoU,2009-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Paniwalaan,16,212746,4O2OsvLmc6dQhuyiQpbZd6,1PI4WlIlSXjbueFblPqWnT,Blue Jeans,1,56eX00zb5JM80D4job5kJa,2011-10-20,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Nais Kong Malaman Mo,45,216280,2hUsVGl6Di0q3YLukUjZ18,1WHYTMWSXn7ix7PAO82FEX,The Boyfriends,1,6OgCQ3W8jZbgrIFKPrqzrJ,2001,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Bakit Labis Kitang Mahal - Acoustic Version,6,321666,7iqnAYOqaP9OHxZuIou4GR,2OQT6k9fZDNLzYouDhqpKB,Dingdong Avanzado,1,6R5atGKAy91zwbBPBtA31e,1995,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+paruparo,46,227263,0oug9t7drnkDuDpiDatvei,3BQ7MYNeB0wMPtHYPWvu1C,syd hartha,1,5yMcGhC4JxjcK3K0H8FRLD,2019-10-31,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+dahan-dahan,60,264341,3pT7wGF5w6Jhgj7w08dCeQ,29zSTMejPhY0m7kwNQ9SPI,Lola Amour,1,0xWLRLBLyorsbEwOeWzklC,2022-10-12,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ulap,63,405738,0yBycfuTYOoDrvfP5wY2Ux,7dFzqx2qyelGPiBKmdSEOT,Rob Deniel,1,0LfDCKJ0MSBuR9CxJcS8tf,2020-09-13,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ikaw Lamang,71,306466,0bhzB5PBUVqZSux5Y7t5ED,4nGp682WMiKS4X217kPw8C,Silent Sanctuary,1,6MC4GloSqK2sSTLeYImDV3,2007-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Pangarap Lang Kita,68,194946,09WPbmLdcBhJPcJwEJc1Yv,"['2XHTklRsNMOOQT56Zm3WS4', '4OxMtvmCYCgJHjueLFwJHr']","['Parokya Ni Edgar', 'Happee Sy']",2,0EAM9ux5yMNKsdjcAV5Lg0,2010-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Walang Iba,59,268693,7sbCGaQ050jET6mQpcpimT,4flyhH0Zv4Dub2HzZQN7tZ,Ezra Band,1,3RLoOQMhkHWLPgRndEE0zs,2017-03-03,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+TAKE ALL THE LOVE,70,206181,2v6jmF6VQWS96x6tSg05IC,7uDdl5V5AETSFY7K3muu22,Arthur Nery,1,4EJLfrjbTDyhhMU1AcYDPb,2021-04-23,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Huwag Kang Matakot,59,189680,6q8Hzgy0AUALt14m5hUb1e,7374lH6kwx9uQATYQ9H3Cp,Eraserheads,1,3PHIP06HdZkoQkYsdejC53,1999-05-18,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+tila tala,67,281296,4ESVeOSa7asoWhkAg6aTB2,3BQ7MYNeB0wMPtHYPWvu1C,syd hartha,1,5leaLgCdTTc6idyVEdBEGP,2018-03-14,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Just Like a Splendid Love Song,50,279170,5e2YxCroSZ6TdecwSPxRL3,1EUmQM6xgUQLUkJVcvSdey,Orange & Lemons,1,0qidOeYKx0lX4TfCWjK86z,2018-06-08,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Paki Sabi,70,264024,0BKZ6nfJM8pksG3NiZcxDS,4bLLB1dbsRVUTcMpnDGDO2,SunKissed Lola,1,0eSx2ysOi54l7XhIrzWEDf,2023-05-05,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Janice,67,235161,0BewsYUbEIKdJmdap9oI7V,6Dp4LInLyMVA2qhRqQ6AGL,Dilaw,1,1jUJQ4XUDTbGTq1hR33fR6,2021-07-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Raining In Manila,83,291070,0mtkRIAOueeXqHpyahIbtJ,29zSTMejPhY0m7kwNQ9SPI,Lola Amour,1,3F0QPdZE5LgQuJgSpiWsvy,2023-06-14,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Now,42,284973,5OYHEYxwbuXtfsQx0pj4go,5elcNQkZ6FCZA3grSOMngY,MYMP,1,52586h8hVhRIC9Rf8VxRAk,2008,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Bahala Na,73,228688,0kDeE8TezXDY1QadpjAQQq,2owtRYReKCG1n2AAS5AcpS,Kenaniah,1,38K1I3Ij268DtPqJqYcY6U,2022-07-27,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+"Babalik Sa'yo (from ""2 Good 2 Be True"")",70,229711,2e7iqtA42EPXTtiiAlblC1,0rZRTXEmmPmx6gt92tBqIc,Moira Dela Torre,1,5Sw8579gMyFd8JcKaeEbXx,2022-07-22,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Palagi,74,218051,0sqnYgWOw9DMc6jRgkcB2m,7LvDTuFCBv08xm6u1pOMK0,TJ Monterde,1,4IO4IBKrCHtJVckqsdH6XH,2023-07-06,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Nahuhulog,63,227298,0R6lC6F082eap1AJd8W54d,6EigliA66uumHSob7cOG1y,Jed Baruelo,1,07p7jUJyKz9qVwieHNpxs8,2022-05-13,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Gusto feat. Al James,82,260000,6t4krDdBmRmcRH7mb8wPRL,"['67IN4cLJ7798gUapyZlmac', '2G7VQ1kVhVfNagytlousgm']","['Zack Tabudlo', 'Al James']",2,5x5yKLZt6MF5oznNY42pYK,2023-05-26,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+panaginip,70,332406,1AuxZd50Dpaz0cCWphYryh,1CFjJMSXKmctvTXBA6uQkE,iluna,1,1nDqiuWaIdg3553bRee5bA,2019-12-18,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ang Pag-ibig,74,287647,639Wg7NFfgbwjSwDphqgvz,7dFzqx2qyelGPiBKmdSEOT,Rob Deniel,1,7lheyrZDUh2R6N2mBWXnqP,2023-03-03,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Kundiman,70,339053,6Al0RruBBzC6ft8u1p78hG,4nGp682WMiKS4X217kPw8C,Silent Sanctuary,1,6MC4GloSqK2sSTLeYImDV3,2007-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Baliw - 2021 Remaster,58,218266,22UHq6BMRkUkhRJfZOENJr,0jKQrxK2zHqxyOAyIMrUQt,SUD,1,6xlKQHrZDSR1n52nZuG6L9,2021-08-27,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Dumaloy - 2021 Remaster,56,259586,37w0Klo4bOTw6A0xzWFB5C,0jKQrxK2zHqxyOAyIMrUQt,SUD,1,6xlKQHrZDSR1n52nZuG6L9,2021-08-27,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Demonyo (Redefined),62,273708,1EyDyYmB9lrAaiLS1WcA4c,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,1,7sprCBdpxhkhpntzwa2Dwq,2018-03-09,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+You'll Be Safe Here,62,344800,4whLOE7hwNIAykoMcSZmvO,1DlYnIiliftt6R21Y5NOW2,Adie,1,32jPh5iI4WfK1bbSrPkBZM,2022-03-04,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Fall,56,244653,4SQ3HwsAiGTikY7gOAybwH,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,7xCcuTA3abKwxj8HwgxP7R,2019-05-12,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+The Day You Said Goodnight,73,291320,08hFNg8Oz3lvaAms7qrIif,6Ww3OMFzCaO33ulKh1LBFN,Hale,1,3rYydzqOp83YUYh4EXjrbk,2005,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Dating Tayo,70,239480,1l7TuyIge9siMw39a0dqXd,7LvDTuFCBv08xm6u1pOMK0,TJ Monterde,1,3BNVpFNizGDG0IxfsEYhXU,2014-06-16,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Wag Mong Aminin,33,223664,6DfIMNXCy4ZJIfAjAlut9t,543f0NvGig5Moo9XROTUur,Ebe Dancel,1,0fpIXHtUbb4hzezdXPUoCq,2020-10-09,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Captivated,65,219949,39SQ0CjIineoa2mbiJpZdk,4k9wp4ipHdA1bu1T4x1ZTG,IV Of Spades,1,5mGR6qKnpILzSzq1yyAUXk,2019-01-18,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Blue Sky,68,286960,5KFFqtixyLrREHz3iiU9jw,6Ww3OMFzCaO33ulKh1LBFN,Hale,1,3rYydzqOp83YUYh4EXjrbk,2005,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ikaw Pa Rin Ang Pipiliin Ko,69,262068,3LvrJEPQ61Vvj1t3Edg20X,61nn6nOoLWjVC1ER2qFAvN,Cup of Joe,1,6P8VL5hDXBJODIAOBuPJV4,2021-07-02,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+I Ain't Perfect,60,262608,7lD4bwbBCqukPke3Xt1Ncs,4k9wp4ipHdA1bu1T4x1ZTG,IV Of Spades,1,5mGR6qKnpILzSzq1yyAUXk,2019-01-18,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Saan?,79,206500,61DuXKQqvXkxcrAIiNLIgR,6AvnL2gWjNYs1hRVJx4huK,Maki,1,2USw0nRD3YRnfofRyufJnR,2023-03-31,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Celeste,54,199636,1ax06geCh4xRi4dGBs5p9D,2AcrkelR47hApTQirQhv6F,Tothapi,1,4Hp38oiTO22R7onwSjX8ju,2022-10-21,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Tugon,40,286000,5BxtHRTyatV1gCBumnHSN2,3Y4E0sWmWrd7930e3F3I55,Project: Romeo,1,2UHkbQewwJ8ibEmf519wnF,2023-06-24,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Luna,56,304067,49Jtz38lJ7OuVVvln5EdZB,4bLLB1dbsRVUTcMpnDGDO2,SunKissed Lola,1,1fZfkWnHZPQwBzMf3vf27A,2023-08-04,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Nasa'king Damdamin,56,306666,06P7DXhDqVcS3JsOBbv4vk,7uDdl5V5AETSFY7K3muu22,Arthur Nery,1,4OZQUIyeVadURWCM4UruRy,2023-05-19,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Abot Kamay,31,156613,4X1LB3GYXod4xSJ1zjHQrd,1EUmQM6xgUQLUkJVcvSdey,Orange & Lemons,1,7tS4pmc37UAjpjWdBF9WdX,2008-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Yakap sa Dilim,70,188040,6uDYCYObYXJXoMnCzz8083,1EUmQM6xgUQLUkJVcvSdey,Orange & Lemons,1,4E2MHUH6EUY2IDfwI4YNTv,2006-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Hanggang Kailan - Umuwi Ka Na Baby,74,261866,69u8qQcaA3o0A7Ko87juqp,1EUmQM6xgUQLUkJVcvSdey,Orange & Lemons,1,1Pjond44g3GY0emy3LfcCl,2005-03-24,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ikaw Ang Aking Tahanan - 2022 Remaster,42,225088,0GOlgSkBlLWOtXBNhickp5,1EUmQM6xgUQLUkJVcvSdey,Orange & Lemons,1,1wTdQQNUnadYJmrxdJiRUO,2022-04-08,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ang Pag-ibig Kong Ito,50,248733,6sh323D4gyLV9k4DyeRk6n,2kZThDGZcHl4klYYFk0v8n,Moonstar88,1,5tb7EcFFukdIjAFQWFS4GS,2002-06-24,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Ewan,55,175986,734NcRJGGPAz2bDibBY4rD,4RA4PC3WHM9OHZLExirTcU,APO Hiking Society,1,1TK2UZV6Dnkw6Ys4t05pGh,1980-01-01,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Palibot libot,35,237381,0ZLBTH1S25saZvzsQGikVl,6l880dxsvN2x5wiceaG6D0,Rico Blanco,1,2mkalN2oIYh3xyAetHJfUp,2022-09-12,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Lihim,79,246346,2K0CH6BtfBtY7wMnsKIuzo,2Ev7vtPI38BE2kQvwmH4ce,Arthur Miguel,1,2FIBgr9TXQpqItmTNIT89U,2023-07-28,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Leonora,77,234052,1K0rybxoxW5svDYwXezXyN,61OfH8eB8aJIc9T98cecNT,Sugarcane,1,3jJ8JEOq8xL9DWum9cMpIq,2023-03-31,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+ERE,84,284812,0SuQMjb2TleiKg1ebQSDnX,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,1,5Rg4hF4geeE5e01y7Z1JfD,2023-08-04,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Eroplanong Papel,69,303880,0dJPIIlTmVM0lambbFgAYq,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,2xDMXQrLcUxzsAdpdlLPZh,2017-03-20,3t5SbtjVj2yGZ8YW82ydjH,Chill OPM
+Panalangin,0,212573,59bwRfN5gprboZBISPo42V,4RA4PC3WHM9OHZLExirTcU,APO Hiking Society,1,4PbzEgZJREiNdSXj592GMm,1980-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Passenger Seat (Acoustic),0,273066,61sJQh19AcTBrX7P8LWLi0,0AvtzKTYleNqdJXoZasQWG,Stephen Speaks,1,1tMhhFaV9EuD5rQKG9nQJA,2001-09-04,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+You're Still The One,74,212200,1wb4P4F0sxAQ2KXrRvsx6n,5e4Dhzv426EvQe3aDb64jL,Shania Twain,1,4UMe0Ods7kygK6OISasZe9,1997-11-04,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Bawat Daan,12,300240,0wUSZjJVblGKntOqBSWMdo,543f0NvGig5Moo9XROTUur,Ebe Dancel,1,4acHD3ykZw3DYLcLW1Mqv3,2015-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Won't Last A Day Without You,66,232533,42CX3VhPsCG75BFp07r9Vj,1eEfMU2AhEo7XnKgL7c304,Carpenters,1,1nA6Exnq2mWD8678q3E4Ov,1972,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Through The Years,55,262079,6Rk2hVIgI9Fh6hvZT6n0ky,4tw2Lmn9tTPUv7Gy7mVPI4,Kenny Rogers,1,2o4ZbNsv2tjlYkAnbBKzrP,2018-09-21,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Harana,2,182200,3gyEt1vswIEbpQqBs18Lha,2XHTklRsNMOOQT56Zm3WS4,Parokya Ni Edgar,1,29tJR2oXdGAFHMQkcgPUmn,1997-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+All Out of Love,63,241373,2lmcH6prYo3BlR8LfRUJc3,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,1Z0JbC9RPMJNxE82vTQcIX,2018-02-02,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+You And Me,77,195493,0815caqt2Lytro5EIzMufT,5PokPZn11xzZXyXSfnvIM3,Lifehouse,1,2hOY4rDu51XSBvtwfWgSmz,2005-03-22,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Heaven,81,243360,7Ewz6bJ97vUqk5HdkvguFQ,3Z02hBLubJxuFJfhacLSDc,Bryan Adams,1,2o2G49EPi4lua5zgxUKhLL,1984-11-05,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Isn't She Lovely,70,199386,3NlLmKBJozwoi0k03Feb1N,7guDJrEfX3qb6FEbdPA5qi,Stevie Wonder,1,1vQrNEAdt2eHCXAvdIs1M2,2002-10-29,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Even the Nights Are Better,68,237106,09bRmFRViBORKQ2miwp04P,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,0jWQH4FmSo5CUbRnMvvMoL,1982-06-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Upuan,53,276029,3k7SKhwbvE2lAisLx3jZWl,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,48g1v0eb7EajOw0t135HrW,2021-05-07,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+You,57,232840,0zdu3eVfd6iRip1pcTy7eO,1eEfMU2AhEo7XnKgL7c304,Carpenters,1,5jUgQdPrsH66Uy7V0f6pE8,1976-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Sa'yo,67,253360,3WLDRtRzbKDNZW5AZaAvk0,4nGp682WMiKS4X217kPw8C,Silent Sanctuary,1,0fWuyWoKTJty03n7xpCrEe,2013-11-08,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Binibini,68,221538,55RMhrPQYA6vLu5YMgXxFD,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,7IW9irtFutjRET02MjOjdW,2021-10-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Ikaw Lamang,2,306466,2v5VIWMjZxeiG52KckiXxS,4nGp682WMiKS4X217kPw8C,Silent Sanctuary,1,08SEZDvRXrrNs1C2y73MLi,2007-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Grow Old With You,50,75656,4FqZpYMyvSVVe7LxILMLyH,40JlNF1w2OiSOyj1nC4y0I,Joseph Vincent,1,4HO80mQrcj1iwMtlPGO58S,2018-10-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Forevermore,2,280293,0Q9jC6LNRtrgBRYeq7h4pS,31oMMIBDMM2Z1RQO7u8irE,Side A,1,2C8m7OF9BpsQ14n9NcEVz1,2004-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Synesthesia (Bonus Track),0,259066,2E9xsudYVeGHnfrYqHFFaQ,7lIVjtsgz0y1oRQFBAVNzq,Mayonnaise,1,0YXZ1T0fxf69W28LyqL5MZ,2010-08-16,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Rainbow,1,345155,3ueq4reab02CypseErxvwS,6ZgBJRjJsK1iOJGKGZxEUv,South Border,1,0LEOxu8WvRqGmZ5I9KCnTo,2005,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Need You More Today,0,233728,761frfZtZ8I2g70UsjFfBK,3XEHRbR9NMWfNzQ6TQMS9M,Caleb Santos,1,4TyVEjoScAou6qVjhXyYfp,2016-12-02,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Don't Know What To Say (Don't Know What To Do),0,165400,17tcPIrHqmEbyBJOFHFozK,5uRUbTUQysRUR7PUy7pimM,Ric Segreto,1,0EtACqQ3jZOa98hnbRx1Nb,1982-05-03,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Heaven Knows,62,265866,54RYErRBNUQ32jvtwVYFwM,2IJxOGPJDJzf6lLQqa84jl,Rick Price,1,4s7GQbB6X1mSzt1TJptuRn,1992-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The Way You Look at Me,61,207786,1C3wg8sCIPqpNQx0wAL4DC,4U78sK2D3zASSB6oSR38GQ,Christian Bautista,1,0qEwvzXNVsPFK7eftFej7Q,2004-03-25,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Out of My League (Acoustic Version),0,246238,2mKDNKSgMZbzqe0bonMC4W,0AvtzKTYleNqdJXoZasQWG,Stephen Speaks,1,0FI6mZWz2VFdHiB1N0SaFv,2003-04-22,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+It Might Be You - Theme from Everyday I Love You,16,252969,4FdQYoWFym37QDQ2GkEHi1,1t2caVgyabZrVDAlmMGraV,Michael Pangilinan,1,0obyXODEHnssLgwFovpusL,2015-10-21,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Tell Me Where It Hurts,66,253013,4sYpTI5RPkhX2OWfrmjNl3,5elcNQkZ6FCZA3grSOMngY,MYMP,1,5ak2XNLAZyBKcUuvtZImhZ,2005,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"Ako'y Sa'yo , Ika'y Akin Lamang",8,312062,6ZXCB6jR3kRtWPDHCKplZd,5yVM85m9yNcHO6o0vaaVxW,Daniel Padilla,1,0Zbnh0qJGEq5qpVu30VSEe,2012-05-27,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Ngiti,0,212840,4qo16c55htVlZLi0cWxoHN,6GbCVaJ6iTA0OnZaOiDpl0,Ronnie Liang,1,2i2WCgsO9pUvxKkFEL1T1P,2007-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Alipin,1,263546,23YKjuTD2esIoc2ICqTLxZ,2TnJoEY5ctCfKaCwosowyY,Shamrock,1,2gk2n4QVbkF6xEExoTKV4m,2005-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+One Last Cry,62,295357,3l9OCOG3Vt6c2lxeMyGSIY,6k0IBR0lU42s2GYpNX7kA9,Brian McKnight,1,2LftuOQxTIDRfHYOGaCJJG,1992-06-23,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Gitara,1,242826,1ycpU8beNm9bXKvy7s25Jl,2XHTklRsNMOOQT56Zm3WS4,Parokya Ni Edgar,1,0SudJuJEQweUzqF3hzeRGx,2005-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+With a Smile (feat. Kelly Badon),62,264413,6XmskR1cMfgys1W7dExmgi,"['6ZgBJRjJsK1iOJGKGZxEUv', '32pTJUDIqu5vvX5McsyU26']","['South Border', 'Kelly Badon']",2,7tfDmiKEApFiZmT5MzIN1o,2005-11-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Ang Huling El Bimbo,67,447333,135ggzbjOogZ75IQ0LQi8r,7374lH6kwx9uQATYQ9H3Cp,Eraserheads,1,6JbcJM51TZIX8nkjns3M4U,1995-12-21,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Especially For You,62,223013,1tJDzsQQoaZdBy5SPeyPsm,5elcNQkZ6FCZA3grSOMngY,MYMP,1,6szygdDziSYH4cyRJS0jVA,2005,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+More Than Words,50,224458,5i1KGKG4g6EBkPEhsT49F7,40JlNF1w2OiSOyj1nC4y0I,Joseph Vincent,1,1aN0OBwcpDjrggdgGSi6Jv,2017-01-27,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Power of Two,0,309498,0pIcavpnI5CfkwyHztuBlb,5elcNQkZ6FCZA3grSOMngY,MYMP,1,2bLoVowyZNosgVxjwylK4m,2011-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Moment Of Truth,63,226253,37LNThlFJaNmi9SeLrv8H6,043r4OwwUAYREkBLK5jAiV,FM Static,1,2yuA6JcakppoD7xbiJmOix,2006-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Jopay,62,270594,5W1v9jC51rDMKevEjqgKZ4,7lIVjtsgz0y1oRQFBAVNzq,Mayonnaise,1,2TVD825YxuC58o0M6sOgxK,2019-11-21,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Alapaap,64,263000,0GGfPhGuWC2JGc7hlvjLXa,7374lH6kwx9uQATYQ9H3Cp,Eraserheads,1,1IalzI8USuu4PB679HVV5C,1994-11-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Sa'yo,63,352445,19qvp23a0iXjzS72nqOi8u,4eKq7eArL96wSQjaaMg9Ic,Munimuni,1,0wlV4A2q8N2ubZJpJeqDTi,2017-03-17,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Maybe This Time,48,199493,6N1cU1xqRBvlXyxg5sn5kp,6CcUcpjf1L8JEXQ2MByOo7,Rustic Rousers,1,0rqviKp5LCI47sAbTSTgpy,2014-04-22,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Dream Girl,61,229586,3rWBerJZHd5IvS6o3dQEk7,3Je8tRazTtqZxGkbeJDGL8,Kolohe Kai,1,3m89meycBx0T7hYBhj2kkq,2009-09-25,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Say You Love Me,44,266013,0BcWTp4eJXr0z4917PmGQn,5elcNQkZ6FCZA3grSOMngY,MYMP,1,6szygdDziSYH4cyRJS0jVA,2005,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Crazy For You,55,276040,3OnAwD7nI2Y6yx1lurFNzz,5elcNQkZ6FCZA3grSOMngY,MYMP,1,3s1khGalH2s1KQFAYHpz37,2006,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Angels Brought Me Here,57,239306,6lzIABwQGhMa3Xbspb098s,5PjekOABtfU2Kwo0AHVmci,Guy Sebastian,1,5e055E2MQy4SspHknPO3Km,2003-12-08,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Forevermore,40,286986,2Lys7ZWbIbZUNeAvy8wAu2,2C9n4tQgNLhHPhSCmdsQnk,David Archuleta,1,6D8RhW0T27LWuHVRc3MxCf,2012,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Tuloy Pa Rin,0,272973,5NUC4eoQRqhkrIu8AzSqdL,0vkER0y96fNRbGEs6wLZxR,Neocolours,1,1aAe6xaE7T2UxaITu7aJAP,2004-10-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+When You Say Nothing at All (Live in Nashville),61,215850,5sp2ZYNA1EwmC6CA3CGxiq,2qNrJcE9LjzPdiXbrjkqFa,Music Travel Love,1,6nX90rs53KthZ7qEqSUrQP,2019-08-02,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I'll Always Love You,54,231706,6pCyRqhnf9kJnqxhJ1L9sl,2XKBOnP3qXHP2FpzKplAYh,Michael Johnson,1,1DxnK2IpTzpxiDWLZ1xNdK,1979-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Give Me Your Forever,76,244800,4mzP5mHkRvGxdhdGdAH7EJ,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,7IW9irtFutjRET02MjOjdW,2021-10-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Huwag Mong Pahulain,46,203636,5meq0hLEyVqeq0ieTq3EUY,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,7IW9irtFutjRET02MjOjdW,2021-10-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)",38,257359,1cx2NcSnJYdr3kvHWmX7fF,"['2JSjCHK79gdaiPWdKiNUNp', '3PhoLpVuITZKcymswpck5b', '2aXiJJHJei5BmCykxI37y0', '7guDJrEfX3qb6FEbdPA5qi']","['Dionne Warwick', 'Elton John', 'Gladys Knight', 'Stevie Wonder']",4,3C20zCOVCXIb9xr0Z6wcCG,2014-03-03,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Every Breath You Take,67,251573,0SNGe4xksgp7CGnY5kMXOJ,5NGO30tJxFlKixkPSgXcFE,The Police,1,0CTCk1eshEadFqZ4NBfe9N,2017-10-27,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Without You,67,272626,0aW5JH6RnfTv5cGvPS3cca,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,3tbuKVVtZTGT7iwZo60sN3,1991-07-19,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Lost In Love,69,233866,6MfVSA5iKBPHzo6RGARjL0,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,3fB2z5YtmKvSCu77Z3nTnW,1980-02-25,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The One That You Love,63,259000,3FDAd5vW4P7xe1GBNOLyfD,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,1aEMnQLoZHDjibEDcisTMJ,1981,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Lonely Is the Night,64,249066,6gAhuDvn8Ef6P710UMze9W,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,5aH4HCsNua1doApLj5cb8J,1986-02-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Two Less Lonely People In the World,57,238773,28dAkHMn5LZI85O1UxIu6C,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,5PXeBHFjvr8EykHfFxJMje,2003-05-29,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Can Wait Forever,57,309146,1CCGBDcSx58GfzAVYA5pAW,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,1szGVsmiZJRyOAGOVk0mCY,2014-06-24,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Just as I Am,46,283000,6t3AWR3OsMKJGLc5ti1FoM,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,5PXeBHFjvr8EykHfFxJMje,2003-05-29,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+(They Long To Be) Close To You,46,220706,3PP9n2LaJwOWB7l7FErmWt,"['1eEfMU2AhEo7XnKgL7c304', '0MvSBMGRQJY3mRwIbJsqF1']","['Carpenters', 'Royal Philharmonic Orchestra']",2,4NjqLEe5Rz11HB9aK5VLc2,2018-12-07,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Top Of The World,45,179120,5ylU2GruSTLu4R9iJMIYmb,"['1eEfMU2AhEo7XnKgL7c304', '0MvSBMGRQJY3mRwIbJsqF1']","['Carpenters', 'Royal Philharmonic Orchestra']",2,4NjqLEe5Rz11HB9aK5VLc2,2018-12-07,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+How Deep Is Your Love,0,243933,3jTKA7CKqIxlxa8vMO0wlj,1LZEQNv7sE11VDY3SdxQeN,Bee Gees,1,3HU2ckiHfS63f1HDdQ7XVz,1977-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Here I Am (Just When I Thought I Was Over You),66,230400,38mMrNPAJKXMBK2l9actEA,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,1aEMnQLoZHDjibEDcisTMJ,1981,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Mamma Mia,3,215266,22NN4BS1AlqVbyKIWExgON,0LcJLqbBmaGUft1e9Mm8HV,ABBA,1,0C36RlW2Fa0C7n1JnWBBMP,1975,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Dancing Queen,56,233440,1rMfDvE2C8ne8UZj847rKM,0LcJLqbBmaGUft1e9Mm8HV,ABBA,1,34lTW6LuORpuIiYfqsetuq,2012-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Nothing's Gonna Stop Us Now,81,270333,3X7uFMzJrEE0sxn62qd8Ch,0kObWap02DEg9EAJ3PBxzf,Starship,1,3nCQjsOzTmnWM6gnjIaT8J,1987-07-27,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Umaasa,79,335624,4AULw1VRyJP17zMvwgTIUs,0DpLoyGVbhOHNR3ht2oO9y,Calein,1,5CoCHo5Uln3nDpd1q2aewW,2019-06-28,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Yakap sa Dilim,0,188040,1RGsWrMclCCgKFsQaj6X5D,1EUmQM6xgUQLUkJVcvSdey,Orange & Lemons,1,6CJt6Orq8PLXFFAjvD8wyD,2006,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Bumalik Ka Na Sa'kin,69,216386,5ABJ0rNmVmLsyiPxOEwe9e,4nGp682WMiKS4X217kPw8C,Silent Sanctuary,1,0fWuyWoKTJty03n7xpCrEe,2013-11-08,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Kundiman,1,339053,0087fDVeNhuyMtST91RMjv,4nGp682WMiKS4X217kPw8C,Silent Sanctuary,1,08SEZDvRXrrNs1C2y73MLi,2007-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Halik,1,222680,0SzvXb3BAWgTHACbIXGNPa,4GBFKKuwmZUnAJt6nBal7A,Kamikazee,1,0HYAcVSUVkfxzHKgHu6DqR,2012-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Pangarap Lang Kita,1,194946,2Hyctbbu32vH8L4kJfVi0O,"['2XHTklRsNMOOQT56Zm3WS4', '4OxMtvmCYCgJHjueLFwJHr']","['Parokya Ni Edgar', 'Happee Sy']",2,4GAo8Jpsiw7iKopdVwCUcY,2010-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Huling Sayaw,2,295413,7L8GQLm6e7cGoMMUAgWCVp,"['4GBFKKuwmZUnAJt6nBal7A', '2vTbuBRo7ACOZ3JsCnaL7S']","['Kamikazee', 'Kyla']",2,0HYAcVSUVkfxzHKgHu6DqR,2012-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Narda,1,284986,1OaKrd3kWUOrltf6hoTZjk,4GBFKKuwmZUnAJt6nBal7A,Kamikazee,1,1QMMXG50CdKyrCsZFMmymj,2006-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Kisapmata,66,280946,4N0XG7hGoVnUKI2kuRGN1u,1ZTdxfZTeztyAgKUJVLxAI,Rivermaya,1,65GkUxR6lYlCiYP4mqyZl1,2001,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Magasin,62,248840,1lan3CApvveTezmBBGzsGu,7374lH6kwx9uQATYQ9H3Cp,Eraserheads,1,1IalzI8USuu4PB679HVV5C,1994-11-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Hinahanap-Hanap Kita,57,358133,3BqsUeCJGuMijPts9ynOzy,1ZTdxfZTeztyAgKUJVLxAI,Rivermaya,1,65GkUxR6lYlCiYP4mqyZl1,2001,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Tuwing Umuulan At Kapiling Ka,52,283493,61jPZwzRkdQ0dZP3bDtyTX,7374lH6kwx9uQATYQ9H3Cp,Eraserheads,1,2DIpgoeZAbwk3wF1qSDj8v,2004-01-23,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Kailan,44,194333,66LwDCA8wJpTNXXonCMplI,7374lH6kwx9uQATYQ9H3Cp,Eraserheads,1,1IalzI8USuu4PB679HVV5C,1994-11-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Ikaw Ang Aking Mahal,65,201000,4laerjyB5dOSvTirYj1AQ6,1JygQfeB7OmzophGsgNwSb,VST & Company,1,0Ulo4ajKQx45f22i8SveON,2009-06-25,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Di Na Muli,67,260599,6JYIB3AEh1VtcqVcDDLC7p,5cYJYBMg1n71v7cvthr1SO,The Itchyworms,1,3ZHDOgwnd6f26MyLuXCS3U,2019-04-04,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Midnight Sky,64,244426,53Vvr1kQkkwM0gbPSV3s4D,30mZI7Hw2MhoarTVYxfyZM,Unique Salonga,1,0oEXZAhZrEhLUtgKcMaxPg,2018-08-06,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Before I Let You Go,66,289266,220IyLzKO1Y0Gxt4pTU5eZ,0jarApAsbmiCkYhz0590mE,Freestyle,1,23urE9jm4wugYqmxANnDut,1998-09-26,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Baby Blue Eyes,56,220013,5j929KlzL6RcXeX2LD4dgl,1NU9Em6e8dDo36Js6nEo3t,A Rocket To The Moon,1,6VH5MF1nAVOTGbRyHdYDtV,2009-10-12,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Ewan,0,175986,58lmkRQMpm7xNrFWgVx5yj,4RA4PC3WHM9OHZLExirTcU,APO Hiking Society,1,4PbzEgZJREiNdSXj592GMm,1980-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Sa Ngalan Ng Pag-Ibig,65,285138,00mBzIWv5gHOYxwuEJXjOG,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,7xconhHQKj7Be4P2KvUmFz,2017-04-29,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Bulong,63,270233,5nMKJJ5Rl6X1yn58aVeICO,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,6anqXAk4NZxdkUwvpfUqsB,2018-04-08,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Akin Ka Na Lang,0,183760,4Yp8lnGcIde2SWAqrMM3v9,5cYJYBMg1n71v7cvthr1SO,The Itchyworms,1,6WzFODPnZ5SW1qTvTELSxW,2006-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"This Guy's In Love With You, Pare",0,191773,6L0Hy30YLzupOdrhZzdfo4,2XHTklRsNMOOQT56Zm3WS4,Parokya Ni Edgar,1,1eJKlb2Rax3jKEhrYvE0h8,2002-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Huwag Na Huwag Mong Sasabihin,61,249080,4mOjjXKDOR1sel6APULUaN,4OjU5UP0GFWeniBC82sGBY,Kitchie Nadal,1,7beVKW0o7iRoM0eRT3kGfk,2004-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Beer,1,364106,6mQzZ2aRnKSNgckAehBgwD,5cYJYBMg1n71v7cvthr1SO,The Itchyworms,1,6WzFODPnZ5SW1qTvTELSxW,2006-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Migraine,65,267560,7sW3f7PqDV7BQ7qqeVBJIA,2kZThDGZcHl4klYYFk0v8n,Moonstar88,1,0rw3b1VJPAMs9zq4ncP43K,2008-04-10,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+You'll Be Safe Here,41,256120,1ajqJZxNzUHmHf8sBkJBds,09rLA0cKyHsr41JVjhgJ2O,ST. WOLF,1,3wFLbEnMlDcAyyxj8ANZBG,2019-02-19,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Magbalik,69,326813,5zMR44ZH4KVZj4FlhTj3SE,4HOEnLufwAqJ2qoJPVnL01,Callalily,1,3tIU2WCVDgPwnG4MraWwQ6,2006-07-17,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Torete,0,264202,3nQtkvFMNkRwxjKVAlGPcG,2kZThDGZcHl4klYYFk0v8n,Moonstar88,1,2CZhWHzzLkNUtfONjbKOy1,2001-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Sundo,1,243653,2OqQDFY4MgzkAoAZ67CscA,6MXu7TWZnmykwkXiRJeUMh,Imago,1,2WNYwZg6JlIjSkQGq0fggk,2007-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Binibini,0,274626,2wM7hjeO69ca2EjJMRyx8q,7ymgfUyJFViyg1qFo4M2nH,Brownman Revival,1,6f0gWSWpcBJulZbvuHKisA,2007-12-04,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Sana,0,280146,3WgYEnpYw6n1o3JOuHPUxF,3wbCeEPAW6po7J46netxMT,Up Dharma Down,1,79lTnARkFpPsL8KJpV9UKI,2009-02-05,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Tadhana,77,222446,6FIEuf1JIzmCtach0gXpeG,3wbCeEPAW6po7J46netxMT,Up Dharma Down,1,1QpFitywD6FWjFWvTmLOw9,2012-12-07,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Walang Iba,7,268693,4EVnxUFwAUlgIRmzRotDSp,4flyhH0Zv4Dub2HzZQN7tZ,Ezra Band,1,77ZkVwowfs27AEXl6GHiET,2017-03-17,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+How Sweet It Is (To Be Loved By You),64,177773,2zF8ro2hX0aEYaqXQdEKW1,3koiLjNrgRTNbOwViDipeA,Marvin Gaye,1,1kYeM6oy6I8tK7668jM7Hw,1965,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Here Comes the Sun,6,141653,4h9DsTf9n0cizUc0x3ljHP,470WlqN9HSRDGNaMufeHHF,Imaginary Future,1,42TfoBfETVrKwCXZ9nBkTc,2016-11-30,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Love Grows (Where My Rosemary Goes),76,174760,5Ts1DYOuouQLgzTaisxWYh,1NRzxuPpdGushT8YmF5NAa,Edison Lighthouse,1,4XDWk7zU6KDgLaqLxEYi8y,1970-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Buloy,0,279546,6Ea3eag9NDekfl130zFPtq,2XHTklRsNMOOQT56Zm3WS4,Parokya Ni Edgar,1,3O938XtV5tBLuV4CiW55ys,2004-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Take on Me,89,225280,2WfaOiMkCvy7F5fcp2zZ8L,2jzc5TC5TVFLXQlBNiIUzE,a-ha,1,1ER3B6zev5JEAaqhnyyfbf,1985-06-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"Together In Electric Dreams - Remastered 2003 / From ""Electric Dreams"" Original Motion Picture Soundtrack",65,232666,0Ytxje4D5iXTHN3MOCC5jS,"['6ne5YmZH7oCXcZUBsY66sn', '6jU2Tt13MmXYk0ZBv1KmfO']","['Phil Oakey', 'Giorgio Moroder']",2,2VL7fCZeDWVJAWpIhlRoDm,1985-07-29,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+We Built This City,78,296080,6OnfBiiSc9RGKiBKKtZXgQ,0kObWap02DEg9EAJ3PBxzf,Starship,1,0YCraVqAWvJHiBYP2AXgV6,1985-09-10,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Dying Inside to Hold You,55,219400,1S4vILROGmgYIbk9hyPKLy,7JLwBH0X2G8tgHceqvOu5B,Timmy Thomas,1,2BkC2kGXdUtkU5gzZ37Klo,2012-06-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+With Or Without You,83,295515,6ADSaE87h8Y3lccZlBJdXH,51Blml2LZPmy7TTiAg47vQ,U2,1,5y6wlw1LnqFnQFruMeiwGU,1987-03-03,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Open Arms,72,202173,2w4EpqGasrz9qdTwocx54t,0rvjqX7ttXeg3mTy8Xscbt,Journey,1,43wpzak9OmQfrjyksuGwp0,1981,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Just the Two of Us (feat. Bill Withers),78,438493,1ko2lVN0vKGUl9zrU0qSlT,"['05YVYeV4HxYp5rrWalvuE1', '1ThoqLcyIYvZn7iWbj8fsj']","['Grover Washington, Jr.', 'Bill Withers']",2,1lKYaRbV0AayVPss9i4oOp,1985,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Faithfully,68,267080,57ebBLITHpRgRKGrlbxMZS,0rvjqX7ttXeg3mTy8Xscbt,Journey,1,2EFUNYmwxe0AOGxBORrfaw,1983-02-22,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Don't Stop Believin',86,250986,4bHsxqR3GMrXTxEPLuK5ue,0rvjqX7ttXeg3mTy8Xscbt,Journey,1,43wpzak9OmQfrjyksuGwp0,1981,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Uptown Girl,83,197706,5zA8vzDGqPl2AzZkEYQGKh,6zFYqv1mOsgBRQbae3JJ9e,Billy Joel,1,3R3x4zIabsvpD3yxqLaUpc,1983-08-08,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Who's Holding Donna Now?,65,267733,66rdGSb6FMm0neFXxmJdPQ,6is2U7I1jlI8PjxNZOHIMV,DeBarge,1,13xiHt25Hn4WZ6OLzhK1n8,1985,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+You Got It All,53,250933,23x0iKY1oRBQVM8ka2s2bF,3AHq6rutf72JF0ul8GB6G2,The Jets,1,1J0KuFjzTYeVLLV5Jqtan9,1998-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+In My Dreams,61,270226,5ZeKZBB57EnctaXih6hJvE,55vs7NT1KxcFjbMC4y202E,REO Speedwagon,1,5Yd9XNS5qG8edw1eBNHdok,1987-04-07,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Straight From The Heart,2,211826,7uBxi4jHZqgWAjqLEl1KcF,3Z02hBLubJxuFJfhacLSDc,Bryan Adams,1,1hUiT5wFSraneBf4aNpbL3,1983-01-18,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The Man Who Can't Be Moved,78,241373,3nqqDo8CcCLke3ZoTgiOKf,3AQRLZ9PuTAozP28Skbq8V,The Script,1,1r5J0N6Ep181K0i8YuTYgO,2008-07-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Breakeven,77,261426,285hMzLhJwHVLe9QT9qilk,3AQRLZ9PuTAozP28Skbq8V,The Script,1,1r5J0N6Ep181K0i8YuTYgO,2008-07-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Iris,87,289533,6Qyc6fS4DsZjB2mRW9DsQs,2sil8z5kiy4r76CRTXxBCA,The Goo Goo Dolls,1,4UMjBXcRqIgMZ1XumU2x5T,1998-09-11,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Let Me Be The One,62,312346,4enEJGj42a9Nk9Gh7DNhWL,6DiAVYfSzZi8h1fGuTD6LI,Jimmy Bondoc,1,6sFyORSgKHCSeYLMmNHJyj,2004-11-29,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Incomplete,67,274226,3w8Mw9GHYepoTWOSdiyosj,6x9QLdzo6eBZxJ1bHsDkjg,Sisqo,1,0nyora4kbjBGE4d1B9gxnm,1999-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Dilemma,81,289160,0ARK753YaiJbpLUk7z5yIM,"['2gBjLmx6zQnFGQJCAQpRgw', '3AuMNF8rQAKOzjYppFNAoB']","['Nelly', 'Kelly Rowland']",2,4HUUHHXBXImwksfbSPqE7q,2002-06-25,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Stickwitu,73,207506,2lgz3yy1AyoceOVOOBmiOS,6wPhSqRtPu1UhRCDX5yaDJ,The Pussycat Dolls,1,53zV9rZ5yfWgigsmuJtYpG,2005-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Kiss Me,84,208680,754kgU5rWscRTfvlsuEwFp,0lJlKQvuM2Sd9DPPyUXcHg,Sixpence None The Richer,1,0PrcwzkQVEy4y6JPvT5bix,1997-11-22,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+After the Love Has Gone,70,278040,3cfnGXJ9bmiWvFqEO6ff8B,4QQgXkCYTt3BlENzhyNETg,"Earth, Wind & Fire",1,4RLVTxnuVN5ZWZqBFnaaQt,1979-06,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I'll Be Over You,74,229880,1WeoeHh0TSzsApyJ6Q8OOK,0PFtn5NtBbbUNbU9EAmIWF,TOTO,1,2FsaIC8jrXvWGIfokVZ4Jg,1986-08,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Foolish Heart,69,219720,4mxkQkZSX1BWgIYh5Q2Jt9,5xQKoGD7Ql92fWd1uWwKkf,Steve Perry,1,0laWXQxeNNyr3N6waUu4tw,1984-04-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I'm Never Gonna Give You Up,0,210066,65VsHGLOqnCdJjk50vMCfX,"['3BucZwouCkpiGi2UxqfWn9', '3PVEp8pKlj9DvorrrGKOxE']","['Frank Stallone', 'Cynthia Rhodes']",2,4Glgfy0k3rQu0WI8nt618S,1977-12-13,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+You're the Inspiration - 2006 Remaster,76,229240,36lkJSDyMEZoWTqtRj8Q8q,3iDD7bnsjL9J4fO298r0L0,Chicago,1,1ICKrl6sDjJD1YdR9VDfPR,1984-05-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+If Ever You're in My Arms Again,66,255720,4TIkesxpN5caX6XpsiirnH,49iKbKGqgn8OESkW5WduX0,Peabo Bryson,1,5SUJuwK3WUmX1OxrJUiw6n,2005-03-22,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Glory of Love,75,258333,1eyq8cjUQ2daFthW2PC2GM,5xWPOujQqd4wXyB08slZ9Z,Peter Cetera,1,1O2sEdKLsSHROEyYgUQmnb,1986,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Always,64,288493,2TQaMcc3BEAF5Srn7FCipl,2YdVmtVBpIrv0N6WiBzSqm,Atlantic Starr,1,5gK0fkRx9h3OP8opU2sFpr,1987-03-24,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Just Once - New Version,66,269280,0rKPoDE9Bm4OcZeyHrHZnV,5bTTx0CRvZj1kRJwUsWWYo,James Ingram,1,6ZYynOoi9YEBlSCUPE5Dlg,1999-04-12,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+All My Life,63,183826,0fqP1OK8UuiVK4WdsYCeY3,35U9lQaRWSQISxQAB94Meo,America,1,47oeiAp77ElEEL05d0t0Is,1979-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Sometimes Love Just Ain't Enough,50,265386,5MAYZWb9ptYw0G3bqWf5lC,"['2dgfCEMSVETFp29mRpiFpz', '5dbuFbrHa1SJlQhQX9OUJ2']","['Patty Smyth', 'Don Henley']",2,14cEah80u4Q1QdcwuvTaEC,2014-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Right Here Waiting,78,264333,4LFwNJWoj74Yd71fIr1W8x,0grdhNhiRLFBaFVyybqsj6,Richard Marx,1,0Zf6FJVyK6qUxmg1WMNruG,1989-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Make It with You,72,192200,7wWw7hBmErNg9u5w6Xx0vy,70ZTdbPEcEugBNay4MvxfL,Bread,1,2eTrV6WUTJtKFzg5iznPJ7,1970,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+How Am I Supposed to Live Without You,73,255666,3RMeOetCdXttthQK0clPuz,6YHEMoNPbcheiWS2haGzkn,Michael Bolton,1,5g9LXOhTPW9Iow6GZPRg2D,1989-06-27,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"Endless Love - From ""The Endless Love"" Soundtrack",0,265986,2GBYWH1FHy0MjKD0ep2t2Y,"['3gMaNLQm7D9MornNILzdSl', '3MdG05syQeRYPPcClLaUGl']","['Lionel Richie', 'Diana Ross']",2,69CqA30FbyDY14jrG1t73s,1981-02-17,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+For the First Time,44,268640,3549krhOebPMbTaSIroyGc,3Y3xIwWyq5wnNHPp5gPjOW,Kenny Loggins,1,68ZonGoyvksZu4sqqNXect,2002,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The Old Songs,39,250093,7AbWKUY1dlXKmyGTVu4qqT,6SuhlH2L1NB53bBscBqAdu,David Pomeranz,1,0a87wgQQ0zSk6s7K288jiD,2006-09-26,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Miss You Like Crazy,0,234280,1fDmIkJoVxPge6hAxwJIM9,5tTsrGPwQRWUsHR2Xf7Ke9,Natalie Cole,1,1Fz5HW0oy2HuSLMleCLzlx,1989,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+King and Queen of Hearts,44,260893,75UoXjRBibZdgsBdXxSpd1,6SuhlH2L1NB53bBscBqAdu,David Pomeranz,1,0a87wgQQ0zSk6s7K288jiD,2006-09-26,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Every Woman in the World,52,209066,3QVF04HFQTAXWcVVB8YrCU,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,6zZghuoEsUmlwvfII4m1z4,1983-08-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Got To Believe In Magic,42,248000,7nlDAJZuqDpNx7fRcN6Vgy,6SuhlH2L1NB53bBscBqAdu,David Pomeranz,1,0a87wgQQ0zSk6s7K288jiD,2006-09-26,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Ocean Deep - 2002 Remaster,57,315666,4EcVaop8xvGsniLQTCnyyC,2nvKpWcP8etYTq4JrRiUiy,Cliff Richard,1,6m8NKmLeq4QDv1GTGK6WpF,1983,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Starting Over Again,0,253520,4By7qbekwaNdRiGwAHWRiH,5tTsrGPwQRWUsHR2Xf7Ke9,Natalie Cole,1,1Fz5HW0oy2HuSLMleCLzlx,1989,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+In Your Eyes,60,200640,1nHN3m6EzCzKAmDgwoLBMD,4N8BwYTEC6XqykGvXXlmfv,George Benson,1,4QZ7wq0y0io4KdNDqF81y8,1983-05-18,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Born For You,42,235600,6hgZBE0upBMJiyqpdM88JH,6SuhlH2L1NB53bBscBqAdu,David Pomeranz,1,0a87wgQQ0zSk6s7K288jiD,2006-09-26,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Ever Since the World Began,61,222053,2yx6DUrIIGXSAwrvfBrTKQ,26bcq2nyj5GB7uRr558iQg,Survivor,1,4PT9VulQaQP6XR1xBI2x1W,1982,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Through the Fire,65,288653,7gh2v4IHnxdiwSgA6xluhe,6mQfAAqZGBzIfrmlZCeaYT,Chaka Khan,1,08yanJqA75TPyDowCXvvPU,1984,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+You Decorated My Life,0,218133,3LUouz9YT9gvLmTPjc1gUh,4tw2Lmn9tTPUv7Gy7mVPI4,Kenny Rogers,1,4QWiLPlZ63fP3gmcN97HGt,1979-10-10,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Nothing's Gonna Change My Love for You,75,242678,0vB4Vd6PtkJSEnWsmqATnZ,4N8BwYTEC6XqykGvXXlmfv,George Benson,1,23HV3deh17hOFNg3OKmGnW,1985-01-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Where Do Broken Hearts Go,68,277600,7tLtIZclwLWk54PFAyDv5T,6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,1,5Vdzprr5cOqXQo44eHeV7t,1987-06-02,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I'll Never Love This Way Again,0,212026,34YDWNAnbMUmnun2KWLEMJ,2JSjCHK79gdaiPWdKiNUNp,Dionne Warwick,1,0860KSGW3D53I8U4MuN83E,1979,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Every Now and Then,56,262293,2q4CJqgmkZmnUlgcvjsWFo,4QQgXkCYTt3BlENzhyNETg,"Earth, Wind & Fire",1,1num92a5GVrzsjg9mcALXO,1987-10,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Lost in Your Eyes,68,215146,6PMDILZiYo4YzMBbE0dGK9,18jZvCsW1PJ4FDQ5gEXuKp,Debbie Gibson,1,5PnwSSRbLcCLpNMe2LFhOC,1989-01-10,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Anything for You,0,224373,6erX1jyOxcjUXnsEQp8aTU,"['5IFCkqu9J6xdWeYMk5I889', '18xgcedCGxFbqLbIQn5R8F']","['Gloria Estefan', 'Miami Sound Machine']",2,14ftOUL2ZHl11HSStuYUHx,1987,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Cherish,0,238933,3aphZHgE73kSPFKiPJRNpk,3VNITwohbvU5Wuy5PC6dsI,Kool & The Gang,1,52ZOtET6twyVA0ZBlDG2RP,1999-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Hello,71,246933,6HMvJcdw6qLsyV1b5x29sa,3gMaNLQm7D9MornNILzdSl,Lionel Richie,1,5U0NU0T1JKIJwgq2ZDWb2T,1983-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Lady,65,231866,5Pj5zrq2nbKcAekH1AxbrO,4tw2Lmn9tTPUv7Gy7mVPI4,Kenny Rogers,1,5Cum33m0MK39JjWvbGO8bQ,1993-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+(Everything I Do) I Do It For You,0,393640,76qB2ZEZlEJAMqMqUjKusp,3Z02hBLubJxuFJfhacLSDc,Bryan Adams,1,0RhmLffWf3oRr6ahOS6G47,1991-09-24,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Eternal Flame,68,235666,5g3ZD7PmrEQlQZKDW91yGG,51l0uqRxGaczYr4271pVIC,The Bangles,1,7mpaRCyqIZ5Tj5wTB5612U,1988-07-17,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Don't Dream It's Over,0,236933,6avxJ3kn6rkPE21X4fyg7q,7ohlPA8dRBtCf92zaZCaaB,Crowded House,1,0dAD49L0BeGHuxXeyjEq4o,1986-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Wonderful Tonight,0,225026,4qmHeQBYieqj3VMAPascsE,6PAt558ZEZl0DmdXlnjMgD,Eric Clapton,1,5L3heXJfh1liiYsZyFZ22G,1977-11-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Time After Time,81,241333,7o9uu2GDtVDr9nsR7ZRN73,2BTZIqw0ntH9MvilQ3ewNY,Cyndi Lauper,1,1FvdZ1oizXwF9bxogujoF0,1983-10-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Carrie,73,272133,29wJiSQcze8HEmxkUQykyp,7Js6Lde8thlIHXggv2SCBz,Europe,1,5Jkd47JEaCU1g4DcGBnHm3,1986,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Africa,87,295893,2374M0fQpWi3dLnB54qaLX,0PFtn5NtBbbUNbU9EAmIWF,TOTO,1,62U7xIHcID94o20Of5ea4D,1982-04-08,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Come What May,55,238560,387BBXRpp5CiLmwHLiJjw8,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,0jWQH4FmSo5CUbRnMvvMoL,1982-06-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Just Another Woman In Love,51,176333,48iBpOmxXi0h6rcq0jYVoP,7d7q5Y1p2QWS4QRAhTQR5E,Anne Murray,1,22GHFC2haztPAslfounJp2,1983,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Beautiful In My Eyes,60,249493,5o8gWPZxr4GZFslU85YMmu,2VrP5BkyzDhY43dWMlaYjD,Joshua Kadison,1,1EEVf5UBSD4YlE1NBQXLfW,1993-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Valentine,60,196266,6qWGRBzQMq6DXovBZMSE9d,"['2NzWRNaaLByHyI3wpuec8P', '3P33qFNGBVXl86yQYWspFj']","['Jim Brickman', 'Martina McBride']",2,6BeGhF9toWqHVpmtYFGTpH,1997,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+If You're Not Here (By My Side),50,265480,1V1X4WvjJUomAk58FJPEeI,3Edq1eT7m7GX0PvHW7yEDF,Menudo,1,4dWLbIe5qAFIP3GFnbTTXL,1999-07-27,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Just Fall In Love Again,62,171640,6aBiU9lFd3BhtggI7aeqBI,7d7q5Y1p2QWS4QRAhTQR5E,Anne Murray,1,7lzKMo3MHAz8Xuc0LBA4tG,1979,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Exchange of Hearts,65,214373,2NLpJyhdn1WMgLZWgOTnLp,13vi392E4vdrP8SV0ahXIb,David Slater,1,5h40Qw5rySDTQPXoc5O6Yg,1988-07-03,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Make It Real,37,259066,4fafKRVKjFXguZIilT9JwK,3AHq6rutf72JF0ul8GB6G2,The Jets,1,14cEah80u4Q1QdcwuvTaEC,2014-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Will Be Here For You,34,273400,1ctgPprqWlp40a4K2wTfyF,5aBxFPaaGk9204ssHUvXWN,Michael W. Smith,1,5vUTcslBFv3t0b6fmCvPdj,1993,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Lucky,75,189613,0IktbUcnAGrvD03AWnz3Q8,"['4phGZZrJZRo4ElhRtViYdl', '6aZyMrc4doVtZyKNilOmwu']","['Jason Mraz', 'Colbie Caillat']",2,04G0YylSjvDQZrjOfE5jA5,2008-05-12,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Till I Met You,0,200773,4bmwSpkKu2HRWn1jlhOpdX,0ntzbBdKbiyPx06Xscs9UI,Kuh Ledesma,1,3niozdLvLI1MFN6QL4lGjr,2010-09-13,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Paint My Love,51,231000,5hj5mKPbazrXJE62rNtOps,7zMVPOJPs5jgU8NorRxqJe,Michael Learns To Rock,1,2V1PI6IQ7b6B6EWFlV1Nmv,2019-06-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Back At One,71,263666,6mwA6YiKDjAUG8kWvRRUPh,6k0IBR0lU42s2GYpNX7kA9,Brian McKnight,1,0ZnKlkQrZb1xDbT8bmPSjo,1999-09-21,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Angel of Mine,67,250173,1AM1o0mKbgAK5oMpY8B3Z7,6nzxy2wXs6tLgzEtqOkEi2,Monica,1,6mIyViyBHV4eoQqI4JZByh,1998-07-13,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Want It That Way,70,213600,6e40mgJiCid5HRAGrbpGA6,5rSXSAkZ67PYJSvpUpkOr7,Backstreet Boys,1,1NslKOZobWxINFaFkLol3r,2001-10-23,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+My All,69,230933,3RSpK5Y0y5tl25qvssrwJ6,4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,1,7aDBFWp72Pz4NZEtVBANi9,1997-09-16,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Sleeping Child,46,210600,0uMBzF4XYgZHfHr4sCM4J9,7zMVPOJPs5jgU8NorRxqJe,Michael Learns To Rock,1,5kvsuD2SqIcuuU2jA9Tig9,2010-02-19,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+On The Wings Of Love,0,246080,5e8Od5m4mMLblfBHK36c4T,5qUHCOUsvVKUpVrMMmztMK,Jeffrey Osborne,1,0QBNxOIQHwu66oobvV5uGZ,2003-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+After All (Love Theme From Chances Are),0,244946,6SVGZeLQ2TOrMmLnWPFenB,"['72OaDtakiy6yFqkt4TsiFt', '5xWPOujQqd4wXyB08slZ9Z']","['Cher', 'Peter Cetera']",2,3YIX9PT8tcXuKCVDywqjmW,2005-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Terrified,0,236773,6vtOX9riyVzwJxj2SYTuES,"['5oWOx0BBDSMoFB8JDrjQre', '4ISvSAA85lr3lDwpMEBNgS']","['Katharine McPhee', 'Jason Reeves']",2,1PLVcKy1l5tb5mcxNYjKo1,2010,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"It Might Be You (from ""Tootsie"")",45,259200,1asbauP5iqBr21MTpWDdNS,3JhRHqCi8HEzkJVWt19LtN,Stephen Bishop,1,6c45uEijyva8zwRMtP8j4O,2007-12-23,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Stitches And Burns,0,261640,2VGFj3aOub12LU2g1IJSpx,1Oi99c5Uoxbg8nJT8WprBw,Fra Lippo Lippi,1,0D42kQ1DttYKqFAL4DnIaP,2012-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Forever,0,264800,3HXEItH4mF7rVcr9m2MtuL,3Y3xIwWyq5wnNHPp5gPjOW,Kenny Loggins,1,5xY88ZyGU8oRraqDD6ThQX,2002,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+What About Love?,0,221106,7JmsQwxDlC89imxewJcnHO,34jw2BbxjoYalTp8cJFCPv,Heart,1,1VEQ2mal6ULVnEbk04b6Gp,1985-07-06,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+How Sweet It Is (To Be Loved by You),0,214133,2RwFdFIN9JAyVUzevwkzez,0vn7UBvSQECKJm2817Yf1P,James Taylor,1,4mMlhHLgeVQHymeJPzP93p,1975,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Ipagpatawad,0,241040,6Zj3BPdOPcVg6IOLoCZeTG,6ty99gP6NrhgCOkMF2ONpy,Janno Gibbs,1,3T4VbQI5NUBP6TY9Dro1QQ,2010-09-03,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I'd Rather,61,259693,5oDM9YSQIlhuWa0awHF4Z2,19y5MFBH7gohEdGwKM7QsP,Luther Vandross,1,0aVESmFxjOVvMHghkCrj7c,2006,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I'll Be,71,266533,5K7AMlpc4796JRWXb26nCV,0L6Gwm0JDrgIQJfjarWSUR,Edwin McCain,1,1JB1Zvcddt81PiipQQC319,1997,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Don't Say You Love Me,55,279106,0wbWUdfexByPnIcfLOefMu,1VbWUxZTRNY2gw3qZ1tg9W,The Corrs,1,1z8ikMQ0VmMJDPmeiKY3o5,1998-10-17,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The Way You Make Me Feel,58,297400,541jTq3SOEELKvcfA0jHI0,3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,1,3OBhnTLrvkoEEETjFA3Qfk,1995-06-16,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Best of My Love,56,219933,6UjlpJhUqOQqv0hrb38IDI,64CuUOOirKmdAYLQSfaOyr,The Emotions,1,30OwtFBugzMGsAYhXzEBEP,1996,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+A Thousand Miles,0,237493,5y69gQtK33qxb8a24ACkCy,5ILrArfIV0tMURcHJN8Q07,Vanessa Carlton,1,7D6BFTArx2ajtkKRVXIKO2,2002-04-30,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Together Forever,0,205533,76QJgXPE3oc1cnkE4PFHEn,0gxyHStUsqpMadRV0Di1Qt,Rick Astley,1,6N9PS4QXF1D0OWPk0Sxtb4,1987-11-12,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Never Gonna Give You Up,11,213573,4uLU6hMCjMI75M1A2tKUQC,0gxyHStUsqpMadRV0Di1Qt,Rick Astley,1,6N9PS4QXF1D0OWPk0Sxtb4,1987-11-12,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"It Must Have Been Love - From the Film ""Pretty Woman""",80,258786,6kvoHl80mfCVTv7XnZkjQn,2SHhfs4BiDxGQ3oxqf0UHY,Roxette,1,3dWX1xFUaalRlaaVpe4EPF,1990-05-20,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Thank God I Found You,0,257293,26XozheKTFSXpGb917XBKG,"['4iHNK0tOyZPYnBU7nGAgpQ', '3zTOe1BtyTkwNvYZOxXktX', '6V03b3Y36lolYP2orXn8mV']","['Mariah Carey', 'Joe', '98º']",3,1LP5YqFfPu7OPZkbPlktqS,1999,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Listen to Your Heart - Swedish Single Edit,48,314893,2W4HHauPXqsxTGgCMwGwaq,2SHhfs4BiDxGQ3oxqf0UHY,Roxette,1,1nQK4dpultSS3YeHfYrgEW,2006-10-18,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Too Much Love Will Kill You - Remastered 2011,65,259213,0W1uTK6I97CbjFKAVtRGfK,1dfeR4HaWDbWqFHLkxsg1d,Queen,1,391ScNR3xKywWSpfDwP3n0,1995-11-06,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Want To Break Free - Remastered 2011,73,198773,1MsBRSbt5dqJSw3RxXtvCM,1dfeR4HaWDbWqFHLkxsg1d,Queen,1,5RS9xkMuDmeVISqGDBmnSa,1984-02-27,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Don't Stop Me Now - Remastered 2011,85,209413,5T8EDUDqKcs6OSOwEsfqG7,1dfeR4HaWDbWqFHLkxsg1d,Queen,1,2yuTRGIackbcReLUXOYBqU,1978-11-10,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Another One Bites The Dust - Remix,41,260839,61FHPHXfnA0SG9sGjkrHNo,"['1dfeR4HaWDbWqFHLkxsg1d', '7aBzpmFXB4WWpPl2F7RjBe', '3EiPgpJshyfFf6EaUP2b4W']","['Queen', 'Wyclef Jean', 'Pras Michel']",3,2BY5L3fpnj4pEduW3T1qN7,1999-11-09,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Bohemian Rhapsody - Remastered 2011,83,354320,4u7EnebtmKWzUH433cf5Qv,1dfeR4HaWDbWqFHLkxsg1d,Queen,1,1GbtB4zTqAsyfZEsm1RZfx,1975-11-21,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+You Changed My Life In a Moment,46,179760,7t5e5pqcOpMg3R7tKizh0A,3FhuHzOES6VGS9WW1wDymV,Janie Fricke,1,4zYm3Xtuo4THiGoppYpH1y,1978-03-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Suddenly It's Magic,48,304626,4Zqg5ki17X4xwTISJvWhBb,3ELt3k2T7MzGfFo59iDeEg,Vesta Williams,1,3XnUPZfAo7KHF4Jjn1avEi,1986-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+25 Minutes - 2014 Remaster,62,264000,7z3DihhdVRFn7kn4paPdgV,7zMVPOJPs5jgU8NorRxqJe,Michael Learns To Rock,1,4oCSKLvBrG13DKEXtkkkY9,2014-05-11,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Love Moves in Mysterious Ways - Live,58,267786,5EvsytirpNFGyK88Zm7IoK,2tQbSWgZLIB8MXMnsXVRro,Nina,1,66a4sphHBAshn0R7a8q2W6,2007,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Kahit Maputi Na Ang Buhok KO,63,205346,1ZQIagXD5ku6N7LD6kLa0C,5xWPJKDLLSDaz7K7tSMTFu,REY VALERA,1,4xtmHEQ3g7JYcvR2USQhRn,2008,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Lintik,59,263493,6Pdjal5UmVNsjaMB5Jnmke,7ymgfUyJFViyg1qFo4M2nH,Brownman Revival,1,0offM8tER7mhrYhJXh6dn2,2005-07-25,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Ikaw Lang Ang Aking Mahal,57,232013,2lnDNgTDt5Ouu5dCpvjvsF,7ymgfUyJFViyg1qFo4M2nH,Brownman Revival,1,0offM8tER7mhrYhJXh6dn2,2005-07-25,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Rosanna,75,331200,37BTh5g05cxBIRYMbw8g2T,0PFtn5NtBbbUNbU9EAmIWF,TOTO,1,62U7xIHcID94o20Of5ea4D,1982-04-08,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The Final Countdown,79,310333,3MrRksHupTVEQ7YbA0FsZK,7Js6Lde8thlIHXggv2SCBz,Europe,1,5Jkd47JEaCU1g4DcGBnHm3,1986,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Bed Of Roses,76,394400,1zng9uqqXoPkmU05nsAlsw,58lV9VcRSjABbAbfWS6skp,Bon Jovi,1,2FbviTPUjgJJUxsGM1sGDq,1992-11-03,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Thank You For Loving Me,67,308933,577MNC3o3L0lNIzx9abqOk,58lV9VcRSjABbAbfWS6skp,Bon Jovi,1,0Q9SljCrM0CL0bR23MuP69,2000-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Your Love,59,223093,6YFYYxoLH9Aoasz0unIXiK,2NzWRNaaLByHyI3wpuec8P,Jim Brickman,1,3hixafLGeEB3TwJCQCXb6a,1999,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+On This Day,1,255506,56A0zbb8pv9Q2igFRPrKwe,6SuhlH2L1NB53bBscBqAdu,David Pomeranz,1,4mx3tRrmMxbfDmZnKFawqu,2001-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+My Love,73,231760,5p0ietGkLNEqx1Z7ijkw5g,5Z1CCuBsyhEHngq3U5IraY,Westlife,1,6P1sBa0T1fRooA0UTAQfOu,2000,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Sinta,60,403285,41SE77LHNAj911kYih7kmZ,51dRRpVbvYJNPe5fYQunm9,CLUBS,1,3ca7EeHKEMsCBqdHb1LnXS,2021-07-24,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Saving All My Love for You,71,238466,1lx8ddGT5wCD6W2xmLeRKG,6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,1,2MH37enG6IPvNK5QFLyKes,1985-02-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Lips Of An Angel,75,261853,40LQiUUUKXVGyNs09lHVjW,6BMhCQJYHxxKAeqYS1p5rY,Hinder,1,2SmDuZSWtjukp9gkG2mcBQ,2005-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Tayo Na Lang Dalawa,52,185066,468iB1VWvEy9ln8M9zdde6,7lIVjtsgz0y1oRQFBAVNzq,Mayonnaise,1,4V1wdlWzWsSPbgXrgipsPS,2014-04-20,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+So Slow,63,275906,5tg4Rr2rArQJKiH2hcaJph,0jarApAsbmiCkYhz0590mE,Freestyle,1,23urE9jm4wugYqmxANnDut,1998-09-26,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Your Love,38,325186,2U7cnTug2AaI7HUUoNQnCZ,2f6fH7aJRhBYGGLrQobGwN,Alamid,1,7mwUAC9lNnJAVACzeiLTQW,2005-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+All by Myself,36,291600,65ANSaYbBQK6z8fOl0TWVd,2ekjTXgjxbWwBX5lTAj4DU,Eric Carmen,1,7KRJ8x3IpetRApZ8LGS2Pi,2009-02-09,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+As Long as You Love Me,21,214333,2NF5cvSM4d7EF6mNlb9erS,5rSXSAkZ67PYJSvpUpkOr7,Backstreet Boys,1,7KRJ8x3IpetRApZ8LGS2Pi,2009-02-09,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"Baby, Come To Me",65,215386,65bvH7egzl7h9f7uJmqGV4,0JxChc2w5fwTGbXKfc4cRd,Patti Austin,1,6j8fP0fRB4TqeJiNJdSVlU,1981-12-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"Because You Loved Me (Theme from ""Up Close and Personal"")",75,273666,28UMiBhn383n9S7GL4tsxD,4S9EykWXhStSc15wEx8QFK,Céline Dion,1,2vk0n8aeQSO74VtQBbNDPR,1996-03-11,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The Best of Me,56,245760,3FUJGbUvwM8IooDXaY8mN1,0SgQK24WzZf2pXBXYqHJYF,David Foster,1,61nRYw38onfZeQ2pjlrYp5,1986-06-11,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Breaking My Heart - 2014 Remaster,57,245000,2VpR03e5F7a86Ibj9zF6sh,7zMVPOJPs5jgU8NorRxqJe,Michael Learns To Rock,1,643oZFUaO731jy4EcmICWi,2014-05-11,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Build Me Up Buttercup,69,177533,6sPOmDulFtLzfX25zICNrC,4GITZM5LCR2KcdlgEOrNLD,The Foundations,1,3j1kw5l2mEeKCUuXXwjhWp,1968-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Can't Help Falling in Love,82,182360,44AyOl4qVkzS48vBsbNXaC,43ZHCT0cAZBISjO8DG9PnE,Elvis Presley,1,7xe8VI48TxUpU1IIo0RfGi,1961-10-20,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Can't Stop Loving You Now,0,249573,1DC0kF4bxBA2XxtITfPEBI,7curvAOD60XbwIXO5a7m6G,Matthew Fisher,1,3bHciVqDZvBqJdGDYcOnRh,2018-02-09,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Can't Take My Eyes Off You,64,221373,7oHymG8r14Iv9zn5hFTNax,17XXKfRBMCWvLrqGoNkJXm,Engelbert Humperdinck,1,2zQM1HOK5OnDGF1SSWExnE,1968-08-03,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Forever,53,240600,6IEXakKkSG8Zg12Yna1BHz,"['3wNylAjJX1PiCpMKx8Lrfp', '4LTJwj8UNLy3ApvH7XUiiq']","['Regine Velasquez', 'Martin Nievera']",2,3StIAY7YIGHZM9soYMaa3G,1988,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Greatest Love of All,71,291400,6yJxCltgtmGxIgKOS6ndnu,6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,1,2MH37enG6IPvNK5QFLyKes,1985-02-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Having You Near Me,58,245773,5hks7kSQAJ1SOfQwkdBZUy,4xXCRXOfQKQ2gjWxNhNzYW,Air Supply,1,3fB2z5YtmKvSCu77Z3nTnW,1980-02-25,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Hey Jude,67,238854,1eT2CjXwFXNx6oY5ydvzKU,3WrFJ7ztbogyGnTHbHJFl2,The Beatles,1,1Ye7yrA7vAlQnoooj8yDXb,2006-11-17,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Hold Me 'Til The Morning Comes (with Peter Cetera),39,287733,4FsDRscuV5c1N9h279BK34,"['7ceUfdWq2t5nbatS6ollHh', '5xWPOujQqd4wXyB08slZ9Z']","['Paul Anka', 'Peter Cetera']",2,07pet93bxXuQQJRXl2CUMW,1998-09-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Hopelessly Devoted To You,0,185360,5QgFvAiE7oGCBLt20wYYb4,4BoRxUdrcgbbq1rxJvvhg9,Olivia Newton-John,1,3ku54lKW19XjXwhNkNdtzZ,1978-09-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+How Do I Live,57,242186,1PJ1JyZJg3aZgZQfg3ciWn,3XlIhgydjvC4EniPFZT20j,Trisha Yearwood,1,2C0OBNu8hYwn5vxWUainU5,2013-04-09,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+How Do You Heal a Broken Heart,57,309684,4Kmoch57WhaCR1QVj7UppD,7yADpoaILAc0QX4MNdbK0e,Chris Walker,1,42b2URAkD3LwjCAldykka6,2019-09-07,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+How Many Hours - 2014 Remaster,52,285000,1BPcb44h7TUnXN5BnErVU2,7zMVPOJPs5jgU8NorRxqJe,Michael Learns To Rock,1,3VelZgA1y5BQmvhWpxABBv,2014-05-11,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Believe I Can Fly,16,321093,0MsJcRNjnyhvpFNUJD4tun,2mxe0TnaNL039ysAj51xPQ,R. Kelly,1,7KRJ8x3IpetRApZ8LGS2Pi,2009-02-09,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Can't Believe My Eyes,47,270933,0SGmLeJNAXPqe4xYy0Do0U,04MqpcuzAkwpwIcLV1MlyE,Russell Hitchcock,1,38XzFsW09uz26xmaizGLr6,1988-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+If,69,155773,40W8Mm9t3ZO1iNQlls35lL,70ZTdbPEcEugBNay4MvxfL,Bread,1,1X5oLLoyljROH4eCIae1PO,1971,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+If I Ever Fall in Love Again - Duet with Anne Murray,56,219800,6sO4QAufnZX4GCSSgygZMA,"['4tw2Lmn9tTPUv7Gy7mVPI4', '7d7q5Y1p2QWS4QRAhTQR5E']","['Kenny Rogers', 'Anne Murray']",2,7C82zuexmeO0qC35qV8Vd9,1988-05-02,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Finally Found Someone (feat. Bryan Adams),67,221973,2WthqeuPLwn0CHwCMrlt6L,"['7jmTilWYlKOuavFfmQAcu6', '3Z02hBLubJxuFJfhacLSDc']","['Barbra Streisand', 'Bryan Adams']",2,5m0V4PrFdpsqtLXNgsnprE,1996-10-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Knew I Loved You,73,250360,6nozDLxeL0TE4MS9GqYU1v,3NRFinRTEqUCfaTTZmk8ek,Savage Garden,1,3w69KK7uEA8OsKuW3OeQcC,1999-11-09,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I'll Always Love You,60,243173,7LvaVLo0nrubwqsz1GxRSF,2XKBOnP3qXHP2FpzKplAYh,Michael Johnson,1,6bCVzrXczEq3aMuZaRhiYG,1997-08-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I'll Never Go,51,237466,4A6EKWl2y81cZeJTOX6ASy,7AHpFP0xNP91wke18WOSgl,Nexxus,1,1qK1l0oSVPz3IayQG63HlK,1995-03-25,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Swear,72,259853,4WUnM4KNZ0kjp0CUeoyOnS,1B8ySGDAiXTCvnJNH4HSCG,All-4-One,1,4L5ZA0GukWNWjsk9b7HHDy,1994-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Will (Take You Forever),59,239133,6ZSZQoRMIgetNOV3VK53o8,695W5F2Ih8dYahLdjVOIoH,Christopher Cross,1,7nYqXHYWVVe9FZZGLlMq9v,1988,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Just Tell Me You Love Me,53,216466,221bffk5Wt9jbxUog7HhLQ,2EmwLmcnlzIDxGfj0KvoDQ,John Ford Coley,1,5JsGZntkqzl2hgG5NbKBd6,2011-08-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"Oh, Pretty Woman",78,178933,48i055G1OT5KxGGftwFxWy,0JDkhL4rjiPNEp92jAgJnS,Roy Orbison,1,2jTbcSPVTBRAoc3mHU6hy0,1962,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The One You Love,60,274560,4uvARnZIajUDXWXPifhK3B,3vMWY1bUrmYoSoEWLiQWOZ,Glenn Frey,1,1vgK8Yq0G3E3MO4MzI4BJJ,1982-06-09,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+On My Own,63,290840,5HrVgmO1govSOrPUehW1VV,0ty0xha1dbprYIUAQufkFn,Patti LaBelle,1,5wESpjGUZ1QKY2DziNM5fN,1986-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Out of the Blue,60,244466,5LRZlufnAFqWw2WVUuudSd,7zMVPOJPs5jgU8NorRxqJe,Michael Learns To Rock,1,1dW7iWMMhRzMLLGrLjL6tO,1999-08-30,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The Past,50,210240,1QPG2ye3d9L25rfxX14mTI,0NyzfcGDZZ6GM25EBG9BYK,Ray Parker Jr.,1,2Ss0bgfsc0C28aI189JMAo,1987-08-25,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Please Be Careful With My Heart,55,213746,45rb416BfJdrMNzBzBvlh6,"['3wNylAjJX1PiCpMKx8Lrfp', '1EHAbA1GMYOfkh9ds9eNfS']","['Regine Velasquez', 'Jose Mari Chan']",2,3StIAY7YIGHZM9soYMaa3G,1988,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Someone Who Believes in You,50,253893,2YWaALZKQOZadouDuxaYHq,04MqpcuzAkwpwIcLV1MlyE,Russell Hitchcock,1,38XzFsW09uz26xmaizGLr6,1988-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Sometimes,72,245066,1UI0l2L66HJ9AtoEOlHzv4,26dSoYclwsYLMAKD3tpOr4,Britney Spears,1,3WNxdumkSMGMJRhEgK80qx,1999-01-12,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Somewhere Down The Road,59,243400,06Bby5F2R1sVBggPrSH0xr,3alW3LYQS8K29z8C8NSLIX,Barry Manilow,1,5H5uV8GE33U2cYn9C2D5lo,1981,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Suddenly,64,234706,65h7Qhxl2WfW31Bl6sjWAI,5IDs1CK15HegSAhGEbSYXo,Billy Ocean,1,0gNeqVQyUq6SYzVSq7Suuo,1984-09-12,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+That's Why You Go Away,68,253093,2ccW4vFSVKRgVjkZzvdjRw,7zMVPOJPs5jgU8NorRxqJe,Michael Learns To Rock,1,1dW7iWMMhRzMLLGrLjL6tO,1999-08-30,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+There's No Easy Way,64,227293,7ePEIbrsRXk9En7noiLAo7,5bTTx0CRvZj1kRJwUsWWYo,James Ingram,1,28XSg8Y5N9pwKrSrMiwmbs,1983-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Till My Heartaches End,64,249333,25sIjg6llErMXRnoALTRSq,4UEbuAbIRXr2F2S3nm4uok,Ella May Saison,1,5r7fblst7rGQrZ7XTetUdw,2006,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+'Til They Take My Heart Away,65,258530,3tpHf0q2BjkEB4ghENFoIo,7G59UCL4vdAm0sphETr1X2,Clair Marlo,1,7b1MNUpHa2L2vuchGeniWG,1989,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+To Love Somebody,19,181640,7igGssjFOduVFvSCUvuBok,1LZEQNv7sE11VDY3SdxQeN,Bee Gees,1,5hmjXq17QzShhOvKoCT4kZ,2023-02-05,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Tonight I Celebrate My Love,67,211000,7JOyY9GA3P2Evx50oetDKb,"['49iKbKGqgn8OESkW5WduX0', '0W498bDDNlJIrYMKXdpLHA']","['Peabo Bryson', 'Roberta Flack']",2,2tM4mgvIwXse9Ty1i59yVE,1983-07-22,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Un-Break My Heart,26,271466,6OvaCogrbFxzzIwM7hENOi,3X458ddYA2YcVWuVIGGOYe,Toni Braxton,1,7KRJ8x3IpetRApZ8LGS2Pi,2009-02-09,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Weak,71,291906,71EHOyEOhNx1SzTebRRyng,2NmK5FyrQ18HOPXq1UBzqa,SWV,1,2BBrAtWY0c6dPio5b2JYFK,1992-10-27,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+When I'm Gone,51,263560,6yo9CPGPPLkTMOUfLroiRJ,34E3csCxpXunPGEkOVVX2g,Albert Hammond,1,1OAzetlr7Cp9X5VDPBHRZT,2017-08-25,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Without You,10,201120,7pPTlChOir0LLaWAXXoyjo,3RTzAwFprBqiskp550eSJX,Harry Nilsson,1,7KRJ8x3IpetRApZ8LGS2Pi,2009-02-09,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Tiny Dancer - Remastered,0,375866,5fP7YHDNkIwh3F7zPPgEdB,3PhoLpVuITZKcymswpck5b,Elton John,1,3kUqS4YNcnNNlYoUMAeqNB,2017-11-10,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"Rocket Man (I Think It's Going To Be A Long, Long Time)",84,281613,3gdewACMIVMEWVbyb8O9sY,3PhoLpVuITZKcymswpck5b,Elton John,1,2ei2X6ghPnw7YRwQtAH075,1972-05-19,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Have Nothing,78,289160,31er9IGsfFbwqy1pH4aiTP,6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,1,7JVJlkNNobS0GSoy4tCS96,1992-11-17,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Will Always Love You,80,271093,4eHbdreAnSOrDDsFfc4Fpm,6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,1,7JVJlkNNobS0GSoy4tCS96,1992-11-17,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Wanna Dance with Somebody (Who Loves Me),84,291293,2tUBqZG2AbRi7Q0BIrVrEj,6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,1,5Vdzprr5cOqXQo44eHeV7t,1987-06-02,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Feels like the First Time,53,192520,3DHWxeWr4uh19MklWjLpR0,6IRouO5mvvfcyxtPDKMYFN,Foreigner,1,1OU7zJvUfgxxPHgkTClt1M,1977-03-08,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Aphrodite - Aphrodite (Album Version),58,236541,3TN0iGCBNNPbuqD7DyAe7A,03KZ3tIgA3DSCU4o8PahVG,The Ridleys,1,4prgRUxaRi1OHVtCMrCbK2,2019-12-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Languyin,50,264253,0Yb0T1IVTzNBSZu790EvDL,3Hvxz2oZPYuo61ChHKcqQI,Autotelic,1,4bU263JJqschDhYZRgbnt7,2016-09-30,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Takipsilim,44,297812,2lTCcfrukFA5bQ9bpJkNNG,3Hvxz2oZPYuo61ChHKcqQI,Autotelic,1,7e15Y3dQtCqbfTlLuuQUME,2018-06-29,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Runaway,65,265133,6csX1JjmeoLhGqMBXGnZF0,1VbWUxZTRNY2gw3qZ1tg9W,The Corrs,1,4acB71ZhsfYGdTdqdbpzLK,1995-09-26,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The Gift (feat. Collin Raye & Susan Ashton),55,224400,4syRWjlQqS2FokBP34KSzz,"['2NzWRNaaLByHyI3wpuec8P', '4AwLiAGc1rRLrCepj5rdTI', '2YXvdYU3uqlbLRHLI5SFFi']","['Jim Brickman', 'Collin Raye', 'Susan Ashton']",3,0cGrUJkW4rUKKUPXFQRUGs,1997-09-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Destiny (feat. Jordan Hill & Billy Porter),57,227773,4pN1vkOPYK78Ab8mrUU206,"['2NzWRNaaLByHyI3wpuec8P', '0OOhKEKPDRy8UrlykRWG2i', '3sjUEh7eXUEL5oZLAEZXD4']","['Jim Brickman', 'Jordan Hill', 'Billy Porter']",3,3hixafLGeEB3TwJCQCXb6a,1999,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Please Forgive Me,70,355640,03EnOL1O9EKi9CFNmPyrCm,3Z02hBLubJxuFJfhacLSDc,Bryan Adams,1,4vWdSsgQzazxS7ndj9VcnO,2005-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Estranghero,73,186610,6HVT2c1ZZdhH1nGFb4AxUJ,61nn6nOoLWjVC1ER2qFAvN,Cup of Joe,1,4RVn8ciIB4E7FMEBbmLpNc,2022-06-10,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Sinderela,63,248894,4MsOWApwFYowURf1CsztXP,61nn6nOoLWjVC1ER2qFAvN,Cup of Joe,1,75CKoVyanOM8WDOVpvNhcv,2019-04-05,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Mananatili,64,231724,683vYd6JzbsguUFrX5VeG9,61nn6nOoLWjVC1ER2qFAvN,Cup of Joe,1,5xJmMjAm9YSLcZJ0wwAiaL,2022-04-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Wherever You Will Go,78,208600,5QpaGzWp0hwB5faV8dkbAz,5aMmmNxw4vgpc5XC6hK0zp,The Calling,1,2Ir1mtE8K61cCNY5WQyKGV,2001,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Bubbly,76,196226,1lkvpmrCaXK8QtliFDcHBO,6aZyMrc4doVtZyKNilOmwu,Colbie Caillat,1,7a8mrq83VEf0PoFh6pvtsb,2007-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Unwell,70,228706,6Bm6qUCSatPAqkQllFL7oA,3Ngh2zDBRPEriyxQDAMKd1,Matchbox Twenty,1,7fv4OVYUiixcwCGDRwvcH8,2002-11-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Wake Me up When September Ends,82,285653,3ZffCQKLFLUvYM59XKLbVm,7oPftvlwr6VrsViSDV7fJY,Green Day,1,5dN7F9DV0Qg1XRdIgW8rke,2004-09-21,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Against All Odds (Take a Look at Me Now) - 2016 Remaster,78,206360,63CHa6rmamv9OsehkRD8oz,4lxfqrEsLX6N1N4OCSkILp,Phil Collins,1,7yZHLfxqiGPbSQLrVJljah,2016-10-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+21 Guns,77,321093,64yrDBpcdwEdNY9loyEGbX,7oPftvlwr6VrsViSDV7fJY,Green Day,1,1AHZd3C3S8m8fFrhFxyk79,2009-05-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Love Hurts - Single Edit,69,232120,5g1rzUEyVFNr2i4ifEjlVN,6fvN9GmMCVKb5LY0WsnjFP,Nazareth,1,5naYBHiMro7E0MVPmhhYHP,1975-04-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Never Gonna Let You Go,52,254800,2G9eWzsXMhtIFepkY71FVd,65c5si0ePAwkOCn4M35Ho7,Sérgio Mendes,1,0O49TrEjUGebVhcjMdwxk7,2004-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Baby Come Back,0,253780,4Q4egUdAp67KY8lZLQ88JK,0fgtHVpOPfXb07S8Jx443z,Player,1,3SkCOHbLF9Lhu7czw9EJKQ,1998-11-11,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The Closer I Get to You,59,280800,1UdoFJDUHWu4oWH5JlwmDP,"['0W498bDDNlJIrYMKXdpLHA', '0HU0U9kdXEHZVxUNbuQe8S']","['Roberta Flack', 'Donny Hathaway']",2,4n3wZOUmVSSkxXvSeu94AN,1977,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Love Will Keep Us Alive,0,243426,2PMWFioIvUQOgrlayDGpfO,0ECwFtbIWEVNwjlrfc6xoL,Eagles,1,0gOMkjTX1TjsCspiadQDTo,1994,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Can't Fight This Feeling,75,294773,5WwqdeavrQrbeAMDxGawse,55vs7NT1KxcFjbMC4y202E,REO Speedwagon,1,35KafpmKh0nDLzBLV75MpR,1984-11-05,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Keep on Loving You,76,200293,4rcHWl68ai6KvpXlc8vbnE,55vs7NT1KxcFjbMC4y202E,REO Speedwagon,1,0X4ZNTZw7SYgrp5rlBQC3N,1980,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Live My Life for You,63,261906,47RAxX2yfiZWmsNKLvjQON,28pS8WVbFstY0o1SrqCf8I,Firehouse,1,58YDbRSyKuN0hUAPBS7Ywv,1996-10-04,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Love of a Lifetime,63,286573,2kDH08boXJyhKMl5hnZbrE,28pS8WVbFstY0o1SrqCf8I,Firehouse,1,1qO6xwjpMSZ5qLexoXs43T,1990-09-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The Next Time I Fall (with Amy Grant),63,226133,7zSDDsIlks515d0tZGM64x,"['5xWPOujQqd4wXyB08slZ9Z', '72Nhcx7prNk2ZCxhx0Y5es']","['Peter Cetera', 'Amy Grant']",2,1O2sEdKLsSHROEyYgUQmnb,1986,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"Endless Love - From ""The Endless Love"" Soundtrack",57,266266,0FGxAEMIE5GhyFqFMHRWaO,"['3gMaNLQm7D9MornNILzdSl', '3MdG05syQeRYPPcClLaUGl']","['Lionel Richie', 'Diana Ross']",2,1W1b52vaEcE3wfWk4WQH6q,2003,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+More Than A Woman,73,196213,2cX2coZS1PYBfPs8wgbdWE,1LZEQNv7sE11VDY3SdxQeN,Bee Gees,1,4vAhQeeWkSjVn0p5GAaLBx,2020-12-11,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+To Love Somebody,63,247973,4ye6YRG07XMpZZ9Y9tNTt6,6YHEMoNPbcheiWS2haGzkn,Michael Bolton,1,7g7nFMPWmFfk70ZvhTs0TT,1992-08-31,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Do I Have To Say The Words?,58,371200,5zDVyVBJoE0NVUmYcyvTny,3Z02hBLubJxuFJfhacLSDc,Bryan Adams,1,6Rk2VghhfqeYrgKxS21eBh,1991-09-24,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Tell Me,57,240666,5ONZUcFHtslSBavtrUJ8p3,"['31oMMIBDMM2Z1RQO7u8irE', '74ZrVPO9hBg3o6j7g0OZ6u']","['Side A', 'Jun Reyes']",2,1ybbXhOGoaqW8qn3QqCcSz,1994-09-23,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Nothing to Lose - 2002 Remaster,36,238000,18xQYPx62DwnjtOzS6zs1Z,7zMVPOJPs5jgU8NorRxqJe,Michael Learns To Rock,1,6djBSSIMY9olm5qEZBsgsV,2002,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Laughter In The Rain,0,168306,7baEqeZB8yuAqhMqG6qepN,5N6GwJzOcOY5kv8p0NjhYL,Neil Sedaka,1,0Zkdg8GH6pthI7sXlmwlFZ,2016-07-07,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Love Me For What I Am,63,210266,0cRuocQnySYHxzgva3k2ai,1eEfMU2AhEo7XnKgL7c304,Carpenters,1,0ESCnyuOCpztPojn8m0uqi,1975-06-06,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Ipagpatawad Mo,0,212000,4x6naldQkgHQqbDWaYdYHp,1JygQfeB7OmzophGsgNwSb,VST & Company,1,0qFWT397hjpWz7swjRRF2f,2008-09-18,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"Awitin Mo, Isasayaw ko",58,277706,5xFIkvs3t1jhuTUJ5tydte,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5vVTtFFqkTf0PaY2PXiglc,2012-05-16,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Magsayawan,55,187000,1osglvsccU0oGsHPYHjyuR,1JygQfeB7OmzophGsgNwSb,VST & Company,1,6gtDwgUmbV3QS22nkScqVD,2008-09-18,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Disco Fever,51,215826,60pJ6HcDBU2YqyjOsjcNoB,1JygQfeB7OmzophGsgNwSb,VST & Company,1,5vVTtFFqkTf0PaY2PXiglc,2012-05-16,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Rock Baby Rock,49,241000,2i8FEE8sse2lAWlMfDKuu7,1JygQfeB7OmzophGsgNwSb,VST & Company,1,6gtDwgUmbV3QS22nkScqVD,2008-09-18,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Habang Buhay Kitang Mamahalin,43,186000,6dUHWtqSbiyQq1vusP0pxR,1JygQfeB7OmzophGsgNwSb,VST & Company,1,6gtDwgUmbV3QS22nkScqVD,2008-09-18,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Hindi KO Akalain,36,198000,2QalsrcmPhvT02zaLhoUMG,1JygQfeB7OmzophGsgNwSb,VST & Company,1,6gtDwgUmbV3QS22nkScqVD,2008-09-18,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+More Than Words,2,334040,2SbsvihBJmgNKZ4qkXFWrp,6w7j5wQ5AI5OQYlcM15s2L,Extreme,1,7GOk2a0toWcEMGEm8uKLyz,1990-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Parting Time,0,209666,4SyjpeEgD8jJbj23Srq79S,6TW5QY1SQ78SdvbemwC4FN,Rockstar,1,0pBUddkJ2pWqcLTGR6pnlT,2010-01-06,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Can't Cry Hard Enough,57,191960,4c8jWog32ctnWEuonvOy7j,1N44gnWQ3IFoH1SCDJ9uB9,The Williams Brothers,1,5uavTPp1f90ay4dPCUxgwe,1991-04-26,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Victims of Love,53,227026,3iGK3VkBMYgN58bgZ3r8wc,3vloXIUVp9vu701BiQkX3B,Joe Lamont,1,4KoQfGoONrtYzKTUuK93Be,1985,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+No Arms Can Ever Hold You,47,226466,0cPFJDvhUKiQZZ2IGtImj9,2Pawr6MMX9VBIQ9oUHg7jc,Chris Norman,1,3cjK4z81sBIfmLdgxvin4N,2003-06-30,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Man in the Mirror - 2012 Remaster,64,318680,3c7Ctlw9MKlIQPxRH3fOTt,3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,1,3Us57CjssWnHjTUIXBuIeH,1987-08-31,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Where Are You Now,62,233853,082KyGrUIooHcyyElugozU,6fvN9GmMCVKb5LY0WsnjFP,Nazareth,1,5rtW1DEsBzYQp9kpB4t1W7,1983-06-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Wind Of Change,82,312360,3ovjw5HZZv43SxTwApooCM,27T030eWyCQRmDyuvr1kxY,Scorpions,1,3dLKM8bD8R3H3XnSOXGjTF,1990-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Babe,68,265973,5W7YROOF6bFfBexY81LFjt,4salDzkGmfycRqNUbyBphh,Styx,1,0RhPpU4BvtF44qdvFnGQuh,1979-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Everybody Wants To Rule The World,90,251488,4RvWPyQ5RL0ao9LPZeSouE,4bthk9UfsYUYdcFyqxmSUU,Tears For Fears,1,3myPwaMYjdwhtq0nFgeG6W,1985-02-25,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I Want to Know What Love Is - 1999 Remaster,83,304786,1JLn8RhQzHz3qDqsChcmBl,6IRouO5mvvfcyxtPDKMYFN,Foreigner,1,4oQhDQDKMeI6IMlwpXt3j8,1984-12-12,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Hard to Say I'm Sorry / Get Away - 2006 Remaster,72,304213,07TnWCHrFkvF61GzJuLVt0,3iDD7bnsjL9J4fO298r0L0,Chicago,1,4NmlDrnZOd3ejob9PoiOd9,1982-06-07,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Sweet Child O' Mine,17,354520,7o2CTH4ctstm8TNelqjb51,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,1,3I9Z1nDCL4E0cP62flcbI5,1987-07-21,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+The Search Is Over,57,252613,1M3xrSPzPcKkCnXGHFPKaw,26bcq2nyj5GB7uRr558iQg,Survivor,1,7t6t815Z23bjBVU4Qon6HD,1984-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+I'll Be There For You,53,346586,67YIAxlMlfSNmbnt83zGKh,58lV9VcRSjABbAbfWS6skp,Bon Jovi,1,7CNtnpBoG1lsUBWwpnJjwv,1988-09-13,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+When I Look Into Your Eyes,64,239866,1yJWqYYDQge60nZKdLyiZU,28pS8WVbFstY0o1SrqCf8I,Firehouse,1,5XUrP0lz9D0I8qkly4uvQy,1992-03-31,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Til Death Do Us Part,55,326826,57DRDn3OKZyKQniRNAjYIQ,3nLYJvqbEzs5kg2TlprxIG,White Lion,1,49q8hRnhM6xM5PD5tQSGxb,1991-03-26,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+You're All I Need,61,265160,4C8qZRxrteBY9F8r2oZrV3,3nLYJvqbEzs5kg2TlprxIG,White Lion,1,49q8hRnhM6xM5PD5tQSGxb,1991-03-26,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Jump - 2015 Remaster,83,241599,7N3PAbqfTjSEU1edb2tY8j,2cnMpRsOVqtPMfq7YiFE6K,Van Halen,1,3REUXdj5OPKhuDTrTtCBU0,1984-01-04,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Alone,78,218733,54b8qPFqYqIndfdxiLApea,34jw2BbxjoYalTp8cJFCPv,Heart,1,56dfEbntfVTMCxjrjggL1e,1987-06-06,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",76,298760,225xvV8r1yKMHErSWivnow,7Ey4PD4MYsKc5I2dolUwbH,Aerosmith,1,4f7HKjBnjpMsDBDTHYV890,1998-06-23,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Waiting For Your Love,0,291586,2dwyCkPH66frM73rf1Mpn4,6V7pNWhlJpD0s0bMdB1PU9,Stevie B,1,2GbqknApdBxosrm31FPfwb,1998,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Fixing a Broken Heart - Solo Version,63,212333,6Kld4dUHU3Yh1zNjZJenEb,3ZM2MAAydv9t5hF3wOhqZd,Indecent Obsession,1,3nJKDXcwAlVfuvXAdh9dlU,1993,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Honestly,54,242293,4NBxoKAY9PR2PdfNnmVRkN,6q72NwO3LCZ2WNKkDKy5va,Harem Scarem,1,2dJCA94x49HdrvyYsBxx5c,1991-08-20,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+If You Leave Me Now,79,235373,0KMGxYKeUzK9wc5DZCt3HT,3iDD7bnsjL9J4fO298r0L0,Chicago,1,4asBn7hzIq2Ka7rDzJN24P,1976-06-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Beauty And Madness (1993),0,281240,03G3noXh5tRmRovUVy6jD6,1Oi99c5Uoxbg8nJT8WprBw,Fra Lippo Lippi,1,1YqJH3PPJJmIHGsVqPY7N5,2003,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Skyline Pigeon - Piano Version / Remastered,35,234093,4bli168vzpjzvkqHXn0EJ8,3PhoLpVuITZKcymswpck5b,Elton John,1,45F4Pmp3EJi3T6qYonm4Ml,2017-11-10,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+That's What Friends Are For,44,255760,13vqqi30qvTpWVC9JSC2aM,"['2JSjCHK79gdaiPWdKiNUNp', '3PhoLpVuITZKcymswpck5b', '2aXiJJHJei5BmCykxI37y0', '7guDJrEfX3qb6FEbdPA5qi']","['Dionne Warwick', 'Elton John', 'Gladys Knight', 'Stevie Wonder']",4,45F4Pmp3EJi3T6qYonm4Ml,2017-11-10,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+It's My Life,83,224493,0v1XpBHnsbkCn7iJ9Ucr1l,58lV9VcRSjABbAbfWS6skp,Bon Jovi,1,0Q9SljCrM0CL0bR23MuP69,2000-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Always,0,353106,4C4hOK5BTwWMHU9WMuvapH,58lV9VcRSjABbAbfWS6skp,Bon Jovi,1,5jEvO5IF1AaP9OkxbxPp4H,2010-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+You Give Love A Bad Name,0,223146,6ZL4qgWupW4LQjfuvv4KaU,58lV9VcRSjABbAbfWS6skp,Bon Jovi,1,5jEvO5IF1AaP9OkxbxPp4H,2010-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"So Close - From ""Enchanted""/Soundtrack Version",63,226840,3XFkhxO5jo2hBOWNzIQ9UB,6z29S0IoiBJpSMP8plyCj7,Jon McLaughlin,1,3juYz5KfvUJYunlI3caxIc,2007-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Total Eclipse of the Heart,81,267360,7wuJGgpTNzbUyn26IOY6rj,0SD4eZCN4Kr0wQk56hCdh2,Bonnie Tyler,1,0VJI3wpebzRyVHq0eZQidb,2009-03-26,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Girls Just Want to Have Fun,83,238266,4y1LsJpmMti1PfRQV9AWWe,2BTZIqw0ntH9MvilQ3ewNY,Cyndi Lauper,1,1FvdZ1oizXwF9bxogujoF0,1983-10-14,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+"(I've Had) The Time of My Life - From ""Dirty Dancing"" Soundtrack",62,289066,4BFMQ15vXr626UOoZL8bUI,"['1XE70WwxhnrXNAJYQQ9ygx', '1BwHztAQKypBuy5WBEdJnG']","['Bill Medley', 'Jennifer Warnes']",2,2Ll0rYVkAHV0QT7P2vknQc,2004-07-02,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Walking On Sunshine,82,238733,05wIrZSwuaVWhcv5FfqeH0,2TzHIUhVpeeDxyJPpQfnV3,Katrina & The Waves,1,1UQG78YJjaBySRMh0A8Uw7,1985,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Stayin' Alive,79,285373,3mRM4NM8iO7UBqrSigCQFH,1LZEQNv7sE11VDY3SdxQeN,Bee Gees,1,5YHZaCxCuuK81h4Fimb9rT,1979-01-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Stand by Me,82,180055,3SdTKo2uVsxFblQjpScoHy,3plJVWt88EqjvtuB4ZDRV3,Ben E. King,1,18Fj7coTfyMi7mEPXIweN7,1962-08-20,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Sandalan,61,236106,0oSpCoA0I9wg2UAKT4XGTX,3nZa8vRD64ueq3d0JNYTsl,6cyclemind,1,0YydJV3mc5KkCZhqnSvzjO,2005-10-17,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Upside Down,62,324693,1JC4niMbshPlor1BPagn2L,3nZa8vRD64ueq3d0JNYTsl,6cyclemind,1,1Im5BTDBghgM0NG75SaiC3,2007-01-15,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Ikaw Nga,55,276653,7f51xBVcnZD31QdWLADKYh,6ZgBJRjJsK1iOJGKGZxEUv,South Border,1,3481AMZTaNxatiibp5Xi8W,2009-06-01,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Maybe Maybe,63,313500,0HAciULA3lNbyp0kCBrJnC,29zSTMejPhY0m7kwNQ9SPI,Lola Amour,1,5eawUz4lU3YG3j79LhubBG,2017-05-16,7z8RUxwjKBMSEuLc65i3MF,chill OPM & old songs
+Binhi,70,216774,092cPwFlwBXdB3QF3X469W,7uDdl5V5AETSFY7K3muu22,Arthur Nery,1,6oZQZu4rTUF0A8PtpZeLFF,2019-10-25,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Without You,62,180579,17Ux4yT9fdJ8VFSPNgxZPC,4zrB9WV6Z0iKKnGb1Pj0P2,AJ Rafael,1,6ISDySfxUPnC2y5axWCY3u,2011-06-07,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Sino,73,280426,2xCkiGqGMkAIg6fQTag51C,30mZI7Hw2MhoarTVYxfyZM,Unique Salonga,1,0oEXZAhZrEhLUtgKcMaxPg,2018-08-06,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Anghel,47,211875,2ddfSfk2aep5aoNXVUOhq0,1YlibpAvhJBbMZMBwN1KGv,The Juans,1,3TvO2eqaYYjgzackJSY5rX,2022-03-17,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+"Dito, Sa Ilalim Ng Buwan",62,245225,3FuZUeJbuejOfpbvuqp8QL,2Ev7vtPI38BE2kQvwmH4ce,Arthur Miguel,1,3fUtcIhaW5dA1hlpn4Wv2M,2021-12-15,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Kabilang Buhay (Acoustic),50,435541,68tQlRbElNdTmkLjndBzNC,"['4slXciON4jYY6mqE9LjSFx', '11W91yRxIo7Mw75LClgrGx']","['Bandang Lapis', 'Lyca Gairanod']",2,5aP8ZXSAl20oF9a8kgEdLV,2021-02-26,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Can't Get Out,12,245217,5PjjypAmfFPp5Axknx5mJ9,6iWghHqk07KYuZWB21Ff4i,Jem Macatuno,1,7KShP8LdkytN2aPDIbIkR8,2019-11-15,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Sana'Y Di Nalang,63,339184,30iQzlBfK9kN20Hb4jh0Da,4slXciON4jYY6mqE9LjSFx,Bandang Lapis,1,0nzsB2yiwT44BkwV1Xo06m,2020-03-06,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Nang Dumating Ka,65,379804,7Kh9hYahcc7CY9ySWAhbfe,4slXciON4jYY6mqE9LjSFx,Bandang Lapis,1,0pKql5M2xJjgryZLA9H4T9,2021-02-14,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+MAPA (Band Version),55,270411,0QQoU68nnBRWJqr9ak3mnS,"['3g7vYcdDXnqnDKYFwqXBJP', '4DAcJXcjX0zlQAZAPAx4Zb']","['SB19', 'Ben&Ben']",2,63OIQhMqDpmCRZO0d8Phfu,2021-06-27,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Dance With You,64,244321,7bUvgvAf0tdQIty95lV5wf,"['117XFtbZPnCI1EYKjYZWJc', '5xOvrnVpLjzfGi69GDlzQY']","['Skusta Clee', 'Yuridope']",2,3SIGbTYOaRM0UHA64nUtgE,2020-11-19,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Wag Na Lang,61,232380,4Qs3DkTFVG1QiOwd0BUa9o,"['7dxr6AabRWhsfYRyVJlErK', '117XFtbZPnCI1EYKjYZWJc']","['MC Einstein', 'Skusta Clee']",2,2i6J4eUkAPnOSP6MECcNNJ,2020-09-04,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Simula Pa Nung Una,63,255661,7tYjXd42SzEhrWEFQeZxNm,3bsQY9pFWVzUMxlSgGQuBn,Patch Quiwa,1,52qmX1Tbwfk9S0iyVd0JHC,2018-04-22,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Habang Buhay,69,244067,63bmIgH9sS6sX5Sc7MetGq,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,7IW9irtFutjRET02MjOjdW,2021-10-15,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Muli,70,290004,1oYQtNQUxSODedcc5hPmp9,3f0X043zSojego7Qn4Yi6U,Ace Banzuelo,1,3RKZKxaNLwRXw84ruc3f9F,2020-10-16,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Dati (feat. Skusta Clee),66,197192,7pa4kToAE3b6Gtk7fWrsLl,"['2U5mF0PZqGu6glnz55yY0y', '117XFtbZPnCI1EYKjYZWJc']","['John Roa', 'Skusta Clee']",2,6GkdhbqD0GxO1YMan6eK2b,2016-09-30,19XLgoVKRCw3EvwUHRBHv8,Chill opm morning
+Dantay,45,292414,7tQ2P3dP76bj1aSEfe8StO,"['6gcteR920pLEynlHzjSRYd', '25KaeIB4BrH1WpOG5dIV0n']","['Kiyo', 'Yzkk']",2,02qNpe3vtTVHzGytclgmWe,2020-02-14,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Repeat,71,230000,011GTFfE8rqTRMhz5g8IAW,"['2G7VQ1kVhVfNagytlousgm', '6LCHWj94a1aMMGf3L3CVhx', '4QF8kneXYqRCYtjt0Xcs5z']","['Al James', 'Rjay Ty', 'Lexus']",3,4VvCsIUWUn9vwpPaeDIymm,2020-01-24,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Esmi,0,220263,0AiUFrU3Bj0ZzYFSWoAM0O,0n4a5imdLBN24fIrBWoqrv,Because,1,2G5r2CQkrVphz50eaPic5Z,2019-10-04,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Ikaw Lang,0,241658,2kRjoaqiyeS0Faus5wKztH,6gcteR920pLEynlHzjSRYd,Kiyo,1,3EMkSD7V6DOoEAwk9pnOfa,2019-05-10,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Iskripted,42,250562,3YdrHVyjuChT3koerYnC80,"['6xcpXFMC1dMuK7ay8TX3o6', '6Wv6JLRs8Lemzp3OXkO6Gw']","['Shortone', 'Kiyo']",2,5hVLWmFZZygPwvMX81BWTB,2018-10-31,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+PANANLANDIAN,0,318858,0YLbtteFjTy3QTgcVcqeXx,4G6h14o5YEgdmiwd10cemr,esseca,1,2eKuqVMRm0R5jDx8zmlPO5,2018-08-31,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Solo Mission,51,192053,4tGi8iP2GCEx7E3D3aCE1J,3p5RE0gW2l4oFW82SgMv29,Waiian,1,6hmG8RCzYyMBLThZDn3wpc,2020-02-05,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Rest Day,43,240640,1iDzuokNWMQssiwwzK1D9a,6vCnF48qqPHgVMBEvcbgkU,CLR,1,4eBgSSaVAWcWuusJjtTBjW,2018-03-30,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+12 AM,52,176065,3GJKwh1JcmSnLmmq611qNX,3p5RE0gW2l4oFW82SgMv29,Waiian,1,0ttSMm8haQYFUR068Bbfjr,2019-06-12,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Talintala,41,278189,5vbqFLkgnvy2emjmUIYYg8,"['6xcpXFMC1dMuK7ay8TX3o6', '1aj0YiTu30AHLadfhEjljE']","['Shortone', 'No$ia']",2,3aro2SqQnCt0wQybLSA1my,2018-11-13,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Maikee's Letters,0,300893,7xJ3VASYirHyuTpxDvTVbV,3KovZIDNYgQY8chiNZo2ZF,Just Hush,1,2CezmL4N05N3YWIo4iH8jT,2018-05-25,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Urong Sulong,0,267049,2KoWHNtJrbE0WxWfQjYjyu,"['4HPuFCMUiNcV4f3ew0flbZ', '6gcteR920pLEynlHzjSRYd']","['Alisson Shore', 'Kiyo']",2,5PiVRsrfskS9xkti5BR9dL,2018-08-06,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Co-Pilot,0,250000,1RvyIKCEnk791GHf3RLNmD,"['3KovZIDNYgQY8chiNZo2ZF', '1r5cXPqjg3R4Q1FpKG1UJs', '6LCHWj94a1aMMGf3L3CVhx']","['Just Hush', 'JOLO', 'Rjay Ty']",3,4D6Cb7RTowQBTDkuCfJlwU,2018-11-09,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Panaginip,0,305986,3NUr5nNH1qJf0lysCG517Q,"['346NbiSvL3sv2HC3O1Oni4', '5PJa1X8TMPQd3ps2FDMjmU']","['Weigibbor Labos', 'Steffi Jardin']",2,17wsY2cu0vx4SM7VJ3gPeC,2019-02-07,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+LATINA,68,211406,6Fh0xf6gIgBJ5FyjAZmmI8,2G7VQ1kVhVfNagytlousgm,Al James,1,1tPqEy6tzVE1eHy0vjbW78,2019-07-19,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Miracle Nights,1,374117,3sWLOFGI7dNN6YBM1m1RKB,"['0WleeEe3UurwlNbDGhb5Yz', '58DoiT68nhZoGfdiIZiiUw', '4mHU0bUvlVfiq0oarPYlAn']","['ALLMO$T', 'L.A. GOON$', 'Peso Mercado']",3,11gmNcKrZsOdtpQWT1GDvt,2019-08-24,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Dahil Sayo,44,244138,1jRUUq9FroLzFGA583WE9u,"['021sXp6RH5MQCCp2hmal6q', '117XFtbZPnCI1EYKjYZWJc']","['Jom', 'Skusta Clee']",2,35wfOMotxRtTrCEgVyBLwg,2020-02-23,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+UP ALL NIGHT,26,198821,4174gIQuZCcJfTMT82VT8I,4G6h14o5YEgdmiwd10cemr,esseca,1,305EpxqA7N51T5qm8YaOYc,2019-02-09,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Vibe With Me,62,139180,0G5qmu4TsdUH19zdcbI9Ui,"['1SrWbIDP84JcSDr0oTBAQw', '2qm7ZmuzLVRcaQgeYxXZdT']","['Matthaios', 'Lonezo']",2,5wc853BF5VXMkP8kQGUPT5,2019-09-15,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Polaroid,0,198060,44Iv2pSC8nb5lXqJK37GxM,"['4HPuFCMUiNcV4f3ew0flbZ', '6gcteR920pLEynlHzjSRYd', '75SAo69xbkQH9d5LfLwCeZ']","['Alisson Shore', 'Kiyo', 'No$ia']",3,27N0poiwhQbw2W7P8Cfbb5,2018-04-02,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+PAANO NA,0,178200,5PnLTwuP7aTsrxwkmwb1GZ,4G6h14o5YEgdmiwd10cemr,esseca,1,7FQtuxJySQ9zhDvz79hakV,2020-02-28,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Kung Pwede Lang,51,194811,4KtAI0WOLiaeOfBT87shZG,3FwNjtXQCdxpDOXmgJQGnG,Emman,1,6z0cwwwXZ3fU7c7i7dNdl1,2020-04-05,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Hiraya,9,240927,5u86lCzdYnXQEj6Telheii,3WyQJx169swY8v3htgAqaK,Calvin De Leon,1,1H54JbPIgmMLI3Csfx52mm,2020-03-23,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Direk,0,265263,0op8nJWeyVPfDVZrSoYWaH,0n4a5imdLBN24fIrBWoqrv,Because,1,2G5r2CQkrVphz50eaPic5Z,2019-10-04,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Violet,0,267789,3QSzri9w0KQLYMRkR5711z,"['4HPuFCMUiNcV4f3ew0flbZ', '362PcuUc0mHNxt8XlM2IPq', '1f14QOvizCQAUSK9XziNPH']","['Alisson Shore', 'JMakata', 'Colt']",3,10Nq5v2chEsEPyppmSM89A,2018-02-13,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+G,0,289567,53KBJe90rbY3NDa8UMjl8G,"['6gcteR920pLEynlHzjSRYd', '5ggyFlkf7NXMnw57ArMOAW']","['Kiyo', 'Space Moses']",2,7G4Cmxnxt1cSBLXphFEE8m,2019-01-03,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Sandali,0,269217,0WRSaei4JRI1KTYhMqQh9y,0n4a5imdLBN24fIrBWoqrv,Because,1,1UeeX7O8uWEkBpgLpi1C5S,2018-06-12,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Shinobi,60,215439,21Wp6mtp5AJAbs9tIDaDaN,3KovZIDNYgQY8chiNZo2ZF,Just Hush,1,1nQ21PDk0e20AAK3YWbFCv,2017-04-24,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Hanggang Sa Huli,0,289097,3C2G7pVyr6r1JrvbLtQPIx,4HPuFCMUiNcV4f3ew0flbZ,Alisson Shore,1,3T7S3mfvgPzvHBHtw6OMNQ,2018-11-01,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+R U Aaliyah?,43,262956,5lloIPNRXna1N8Yc2Ia6Lf,"['4C6r5TXG5Y5UHCmCAP8Ref', '1fZp0b2tRREYv9LYizKq0c', '3ToraUPZK9Hncr7Kou4zok', '2qvzM4GTevp3cEcfAnCPMF', '4qzcg58jZdJ9ujEI6Cs3Ad', '3u0QiWQbfTRppgZe7P4EE8']","['Bawal Clan', 'Just Hush', 'DZ SVG', 'OJ River', 'Krissy', 'Yung Bawal']",6,4yphdLWPtcykBXf0BgOg3w,2018-08-08,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Marlboro Black,0,206913,2aBdvC7X0r68dhp7O2gY2k,0n4a5imdLBN24fIrBWoqrv,Because,1,1UeeX7O8uWEkBpgLpi1C5S,2018-06-12,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Masiram,0,306000,1WIKNaOjuMPLuwstsy2U7k,"['3KovZIDNYgQY8chiNZo2ZF', '2mR77YxEhZJXeGAYhNg0Iz']","['Just Hush', 'Paul Royale']",2,4D6Cb7RTowQBTDkuCfJlwU,2018-11-09,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Halaga,0,279320,2fqbHD3yS1yNwfCgPyvKXS,4HPuFCMUiNcV4f3ew0flbZ,Alisson Shore,1,1tKDOkJZQAB3ga1L6EVCeL,2020-02-13,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Komplikado,0,150000,2xoY28Koth2NfgzEnsVp0H,4G6h14o5YEgdmiwd10cemr,esseca,1,0EqoPl8nfx6V0aZ1YQ9kAe,2020-05-22,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Sala,0,301096,3tx1XE0dOy2rFSJgBB7acO,"['0FbygDeAj1BryQmwC1bOJq', '3LJfVlTp1Ji5n5A0nfv46A', '4G6h14o5YEgdmiwd10cemr']","['Schumi', 'R!S', 'esseca']",3,4niJ9XinmdWokA5wOqOLGQ,2020-07-03,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Nandito Na,42,213681,1UcrhQg0HiRmlOHhIkEFQR,6gcteR920pLEynlHzjSRYd,Kiyo,1,52iwum3yPBYLWiZQMqxIU9,2020-04-20,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Uuwian,0,200104,0GHR9XDrf3j7OI9GWy4915,3FwNjtXQCdxpDOXmgJQGnG,Emman,1,4nVkVB3JLkMF8WkS5RD1ck,2020-07-30,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+"Pantalan, Pt. 1",0,270602,0Fak0BCePEYQzfApLLKPIc,6gcteR920pLEynlHzjSRYd,Kiyo,1,4556ESN6fyzN3mLRq3qr8j,2019-08-10,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Di Na,0,221092,5FxylpC7xF5Fxl2Csai8Kh,0n4a5imdLBN24fIrBWoqrv,Because,1,7gdfCp5dpCCQMb5HUkXJwQ,2020-11-11,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Pwedeng Ayusin Natin To?,0,227423,0I9TYnkzJ9QfKQkwkks0sx,"['0n4a5imdLBN24fIrBWoqrv', '117XFtbZPnCI1EYKjYZWJc']","['Because', 'Skusta Clee']",2,7gdfCp5dpCCQMb5HUkXJwQ,2020-11-11,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+No Signal,0,167576,2Ohx46HR4Y0ARZsNoDjVDO,"['0n4a5imdLBN24fIrBWoqrv', '2U5mF0PZqGu6glnz55yY0y']","['Because', 'John Roa']",2,7gdfCp5dpCCQMb5HUkXJwQ,2020-11-11,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+December,0,225306,2QhX60B8ZkgcMHQyS2d6cb,0n4a5imdLBN24fIrBWoqrv,Because,1,7gdfCp5dpCCQMb5HUkXJwQ,2020-11-11,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Retrograde,0,280685,5jqXddShHnPPt5DTVxeXv6,"['4HPuFCMUiNcV4f3ew0flbZ', '1f14QOvizCQAUSK9XziNPH', '021sXp6RH5MQCCp2hmal6q', '50cO3P6YcYTVmheR2eETF4', '0n4a5imdLBN24fIrBWoqrv']","['Alisson Shore', 'Colt', 'Jom', 'Rhyne', 'Because']",5,0AzVaLASUUN5qC8lgSoFAx,2019-07-19,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Ilalim No. 1,51,266175,108nkZMJRPDIDEYP0gpD0N,"['6jdiX8imaOsKaITCkZIPEZ', '3KovZIDNYgQY8chiNZo2ZF', '0touaoSr4QOLYxBJ9lmGgK', '2G7VQ1kVhVfNagytlousgm']","['Jim P', 'Just Hush', 'Karencitta', 'Al James']",4,2bAicsUW3ui8oHhDCNP2Aj,2019-01-01,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Eba,0,218880,5DeFtXwPfcBwPQZKkG6OHE,6gcteR920pLEynlHzjSRYd,Kiyo,1,0fQ7DaR6UXWUdYi4yxNyHP,2020-12-24,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Follow The Flow,42,144000,0yyTkIj1Sn27NPDJ2Tr9kg,1SrWbIDP84JcSDr0oTBAQw,Matthaios,1,5CKWbg7laCXEaOm67qYFxK,2020-12-16,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+BMW,4,168205,62aa4ZnQGgF8gXzzvWRJhG,"['0n4a5imdLBN24fIrBWoqrv', '4ISAzgKYMuonWbDhueeoEq']","['Because', 'Leslie']",2,7gdfCp5dpCCQMb5HUkXJwQ,2020-11-11,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Usok,57,179741,0SBnIIa41RDgMC2x7xjBWv,0sNMKp05C93Igheq985SvO,Mac Mafia,1,2n79YX00iG0hUZ0UMGxOkI,2020-11-27,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+in Luv w u,59,203520,13JI0Rd4mN4R5Cp1IchjmM,"['0uD1WQbTE0pNDiJe0iGEaU', '0dtjrC0Sqbsrp3SN1bPtPA']","['Jnske', 'Ritzz']",2,5RMq4BwrFngouzttzVznU1,2020-06-05,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Unsure,34,207757,0bkIrQVGU7qhnbstWM03bJ,6xcpXFMC1dMuK7ay8TX3o6,Shortone,1,7EBQmxlz6xoaoS8iKbJMSL,2020-04-02,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Sa'yo Lamang,27,289149,2jo0BVKlW0gFlk7T7kP6zW,3WyQJx169swY8v3htgAqaK,Calvin De Leon,1,3P4zARtDvEiOBUxbb7JfWc,2019-10-26,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Soju,48,230263,0rEuyyMJVGEu17lUXABPuy,"['2lFjUncSABIy7Ru82U2SVk', '2G7VQ1kVhVfNagytlousgm']","['Austin Lee', 'Al James']",2,6ZCtksSb0WSI0ESsxbHW9g,2018-10-06,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Lala,31,252969,7er7js1rbzowJHnriVaLlC,"['25KaeIB4BrH1WpOG5dIV0n', '6gcteR920pLEynlHzjSRYd']","['Yzkk', 'Kiyo']",2,1T2c7quNACTGGb94ZkPQX0,2021-02-25,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Bagay Tayo,0,397033,2mwd0LWLBgtQBEOLG96nbU,0WleeEe3UurwlNbDGhb5Yz,ALLMO$T,1,6r5Q4HTHG4DGcZ7mrfgaRw,2018-12-04,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Ice,54,243805,5P1bLGGRdG4MjTjx3ZRQ7r,"['6Poadk0ypYVBgNL07PNYVD', '5WbLqVG6mBtABY6gKtR44k']","['Acdmnd$', 'NahmeanNamsayin']",2,3w5XFaVNe4ts8EYQkRYGpN,2019-07-15,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Oras.,27,264400,4ZbaZk6lhaVZsZKzwL0FBO,"['0sNMKp05C93Igheq985SvO', '3WyQJx169swY8v3htgAqaK']","['Mac Mafia', 'Calvin De Leon']",2,2EZc4NGiObLlUSKTN51SiU,2021-04-02,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Paraiso,8,243659,1BDGjGAWTEdhpH4aH0N9Rx,4fBrMkpNH1BKJzprol0cUg,KXLE,1,3OpMOoDqAzg73htNQEGWW2,2020-08-09,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+SAYO,0,180923,1h9VWKVdWGffeTUfGWkdvq,4G6h14o5YEgdmiwd10cemr,esseca,1,2gHZIdeKNFGL0rxdIN2ixx,2021-03-19,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Tanan,66,150296,4vzeUBBrBfZQfGNMiUe2GW,3zMIe4QuRLRn7JDkxBeENc,VNCE,1,3hOe2QCvvuAVc1C3TJTajn,2020-05-04,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Dekalibre,41,228266,5CUTOXYjpkPk7nUnU9XI8c,"['0QWvk1mfXAL80tqF3rrNA8', '4FHrW1ts0EkPM27nmHtxQG']","['Rave', 'JP Bacallan']",2,75VYgQYFFEiSHNti2EmA4o,2021-01-29,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Hayaan Mo Na,16,175812,4oUWdIflK4NBsHCvLIzAf5,2yI3yncgMlCCa9w5wrvKCq,Xion.,1,0bk1VTJAq7RjqahuUOAhAE,2020-07-20,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Isang Gabi,13,201142,3NRqe1no7Z3TJcPpaTFrTM,"['4FHrW1ts0EkPM27nmHtxQG', '4MX8TDXjG2zLcfaaYtDMJC']","['JP Bacallan', 'Kris Delano']",2,7LU72baSid3IjbKkTWaWr7,2018-04-14,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+ako muna.,6,180007,4gXlazj9zI87N5xm3U6c4p,3WyQJx169swY8v3htgAqaK,Calvin De Leon,1,55ojLFfKBrqMMm03zMadrW,2021-04-14,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Hapon,18,181354,3uEPfYhh9w7xGPznWWazjz,"['3WyQJx169swY8v3htgAqaK', '0VMff6AHKV2DLVLXemHo0v']","['Calvin De Leon', 'Matt']",2,5emuUtI9A2a2lcyosrVjw9,2021-01-28,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+245,14,179006,7uPyK8uzferFVlgMj2Qx83,"['3WyQJx169swY8v3htgAqaK', '5ANLE2tGUU9A9w2iqUPlSD']","['Calvin De Leon', 'Lime']",2,5emuUtI9A2a2lcyosrVjw9,2021-01-28,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Be Your King,24,156000,61LVJLlgcPnVWY3dakmjER,"['1SrWbIDP84JcSDr0oTBAQw', '2qm7ZmuzLVRcaQgeYxXZdT']","['Matthaios', 'Lonezo']",2,4UtpdXNOtzQm4rBOdX1Wgc,2021-04-18,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Panaginip,1,237583,4XgUJD89REmPVabBfuZQA9,4FHrW1ts0EkPM27nmHtxQG,JP Bacallan,1,2poOepfraXZrspHzVx8HVh,2018-10-01,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Laya,31,155232,1kziT3OGlPkZZVlzNnd1or,6vCnF48qqPHgVMBEvcbgkU,CLR,1,2mfRE7gR5KPerD6RnEnwS0,2020-01-17,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Mata,60,255294,2IJZBqDNxKDJWLHKMWtPAf,"['3nEqPCHcNEUY3XeLQo7YuS', '5rHDAlQhV3NgRljox2q1i7']","['Hicci', 'Jries']",2,5pZy51A4tvOCvBrK14JusV,2019-08-01,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Tuloy,25,191000,2Yw57E0pPtBAU3xsqZrK07,"['5794gAYyVyxoZKIhyN9OUq', '7rJjSgk5wJNrzFvqoqAcXe', '1kBeFZ3qUQxTi2H3OuECQQ']","['A$tro', 'GFAB', 'Guddhist']",3,0qHmkA8Mbqsi8jRExwEsKT,2021-01-11,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Anytime,63,259569,0GiqrzfvBVHmkyJEWP4kcx,"['4NslYs4dIwJjyAmfak2Yc2', '4fhejfeRXmlwh5ozRvrltW', '4G6h14o5YEgdmiwd10cemr']","['Lipip', 'Asiong De Luna', 'esseca']",3,73d8pQZqyvAkvYNiq1eCqN,2021-01-29,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Binibini,0,307788,2n7Y7zHyypRKkQoGJFobUA,4LT250S0fAe4cYqPbRk56m,Cean Jr.,1,6LXJRKXwA6iZipg4aM55GA,2019-08-14,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+7777-2-3,0,148401,64zUEsoF5NpLfFqFXFYcwI,0n4a5imdLBN24fIrBWoqrv,Because,1,6glC0u5GAIIbQ2ytfSnlDE,2021-08-27,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Okay lang yan,0,217354,34LRGRiPsEJIO1eMUvL0rU,6gcteR920pLEynlHzjSRYd,Kiyo,1,7mdUN6jWxmhp79yonLsqUA,2021-09-17,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Panalangin,50,296664,2Ac7nEO7Hn3foBPLomuAZs,"['3lFMRWaEWZlfXdBig97kks', '6agO406SH1FrizMrJkwCbz', '3PDFGpPl4ienSn5Vwisfrh']","['Nik Makino', 'honcho', 'Flow G']",3,03EgO8EPnJF65XiVOMcvWh,2018,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Babyface,0,180000,6n3Gi3BouWAH10htZvbOrg,0n4a5imdLBN24fIrBWoqrv,Because,1,2G5r2CQkrVphz50eaPic5Z,2019-10-04,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+HOYA,33,195428,0vPTT7SlWuA9CzlvqU0xmT,4HPuFCMUiNcV4f3ew0flbZ,Alisson Shore,1,2pw6arWClaSTngogFXPz13,2021-08-06,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+6AM,14,160000,4ixbcHRojzeCHb3QxoBXoR,3WyQJx169swY8v3htgAqaK,Calvin De Leon,1,5emuUtI9A2a2lcyosrVjw9,2021-01-28,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Atin Ang Gabi,38,242661,2ds0JYy1lAJWoaRX7UZCjm,"['2V7jsGL6jcBLf2lTgViqmK', '2G7VQ1kVhVfNagytlousgm', '4iQb053FxgerPAXgh9TKMh', '3WyQJx169swY8v3htgAqaK']","['Legit Misfitz', 'Al James', 'K24/7', 'Calvin De Leon']",4,5NyN7N2Q1z37dps5n1V9oA,2021-06-10,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Ligaw,43,203333,7CgEAxsgEf3L6EoSTEiDq8,"['1SrWbIDP84JcSDr0oTBAQw', '3zMIe4QuRLRn7JDkxBeENc']","['Matthaios', 'VNCE']",2,6TErTHNkA9zNz4m7quSBfO,2021-10-15,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+SMS,0,187376,7FV5xrFNBTIYAb95poW6yc,0n4a5imdLBN24fIrBWoqrv,Because,1,1ZktH0DctVibpCiBJG7nyy,2021-10-19,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Puno,42,261881,5J6yXwGvXMiFD2as2dbktt,0HrduboguaavTbDgpOflee,Luci J,1,5Cgj1b3VblULbg5jDk9CFX,2021-03-26,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Cerveza Negra,36,247000,2TCeXC47hG8ci28dugm29v,0qqMSfSyVC20duFVZOs14l,Yellin' Speech,1,2rg43pI7uqmHtmAzrTQjmh,2020-03-01,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+BACKSEAT/HINGA,0,207360,3er4vOi1Z6Fe6pPvEHaH39,4G6h14o5YEgdmiwd10cemr,esseca,1,3CGLzjH5XIF4rSQ24fvp9q,2021-10-15,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Between,36,220853,1RvnOH2nK6Nl3gOn0aaDlJ,"['4yW3zpc71yAWvetCxsE9nU', '58luRxCv3S6RP2zI9afesq']","['Allegra', 'Young Echo']",2,4DMayQ0byxfM4IYAV8o4IO,2018-11-23,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+BETTERMAN,46,290875,60jYOyxr1FHGFnofoIXPCq,"['4HPuFCMUiNcV4f3ew0flbZ', '6gcteR920pLEynlHzjSRYd', '0n4a5imdLBN24fIrBWoqrv', '2U5mF0PZqGu6glnz55yY0y']","['Alisson Shore', 'Kiyo', 'Because', 'John Roa']",4,4xyf45M38hJVUA0esmu7ks,2021-10-15,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+PSG,72,180000,0xaKCWpX4CBSqwh7CQa4EG,2G7VQ1kVhVfNagytlousgm,Al James,1,4MqzfMoVBWnM2ZyAJipzPZ,2022-01-13,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+All night long,18,372293,2XSlgi1rq1Nzbsaxe239Js,"['01vwiktCDCIBTLSecI7ENo', '5ky6H6XycpINTouvjoNJWE', '5l13YYkbKL7diKYk8GkpED', '78QhiV8ke5TmyeOM2Rm3TI']","['SOUTHVIBES', 'Kyle Zagado', 'RKteQ', 'Prince Ben']",4,09uvvRE52ygErXEolDXfRT,2022-01-22,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Pahina,51,318484,12pdrE4AfIRU8kE9TM911d,"['1UvsiRB2EarPibq6XRl9Sv', '7HJDRQAfEcFiARVehhM6qD', '4FHrW1ts0EkPM27nmHtxQG']","['Pricetagg', 'Gloc-9', 'JP Bacallan']",3,6WdVeHw4oh3n56pfi3eV3f,2019-11-16,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Anastacia,33,195239,6YdMbtVpGZzMdY1Fgueyrm,4zwOXmEUNcXczD7UR9QUDN,Ace Cirera,1,2pxAYWs9Ovffvp7yltpkGD,2020-08-04,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+S.U.K.I. (feat. somere & naila),37,199550,4g2J3dRcu0yVEbsz6sZvxQ,"['3Dr5ezvDdYsycy1gfaZWSL', '6l880dxsvN2x5wiceaG6D0', '3eyyELkOh4GFdxHjrslv7g', '3htrWBrHBVoUL0zuSFX8Ny']","['raven', 'Rico Blanco', 'somere', 'naila']",4,79eXjjKbd8mVhg8f5IN7eh,2021-03-25,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Kahapon,35,256078,75qOZl6JmiU0FCLVa3TGUk,"['5794gAYyVyxoZKIhyN9OUq', '4HPuFCMUiNcV4f3ew0flbZ']","['A$tro', 'Alisson Shore']",2,5ve7ZwSeZ9EAERxekQJeuE,2020-05-19,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+PABORITO,39,216000,3IXhldrCfWEMBu11FLPRZa,4G6h14o5YEgdmiwd10cemr,esseca,1,2OHKhNRixy8JrMDJCHiLuI,2020-08-28,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Larawan,31,156452,6ZAobtm9t32SqPMowoBgwU,"['5794gAYyVyxoZKIhyN9OUq', '4HPuFCMUiNcV4f3ew0flbZ']","['A$tro', 'Alisson Shore']",2,4bU3sftxKjpzSuOcHWDWjy,2022-04-21,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Kagome,70,238285,2BDrpeAnTxCurLt38yDSrE,1dFRlDO2Z2gjAARxHlovAS,Lo ki,1,4CIT1BsHQams5FP5RUSydD,2021-11-05,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Na-Akit,43,255399,4lYh0Rtm45wdlwtjCPDgD6,2eFq1Ymf6ppzrdKxt0OpY4,Henyong Makata,1,7Fu9eZ72pzYQLCy09wFeh8,2020-05-23,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Gudds,50,219641,4431FIgqdKZWBuRQeW6yVS,4OLOVZJrO7dUqLrDyxoPOL,Guddhist Gunatita,1,5JLcqwCTzECzBEpOm2Hd36,2022-02-15,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+No More,33,165333,4CMRBHAJiKUHHTwpgWCuLq,"['4O49GHbECmNppFvzK0WZXf', '6gcteR920pLEynlHzjSRYd']","['maeshima soshi', 'Kiyo']",2,5KhJHIvn0kQ8EO8e4CDnrQ,2022-06-24,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Wasted,43,209580,2jvjTFvab53bnS5zX05EDW,"['5KrSUjqj2SRoveNRwgm2rZ', '0n4a5imdLBN24fIrBWoqrv']","['Steven Peregrina', 'Because']",2,5HYlg9YXEoBafebpD6zFuR,2020-03-15,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Iglap,34,160641,5KCn2dxJFOP4qEIAmJDcfe,3zMIe4QuRLRn7JDkxBeENc,VNCE,1,00ZefTxzYgacdD5fUYKBOl,2022-07-08,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Turn Up,43,199065,2BhTRNRuLzMomWfhhLyPQ0,"['3KovZIDNYgQY8chiNZo2ZF', '1dFRlDO2Z2gjAARxHlovAS']","['Just Hush', 'Lo ki']",2,7s2OSZsMcKnmIisZ3oJDXF,2022-06-03,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Patiwakal,63,199209,22snY669jCK2QAI3bOfprz,10JE9C1e9BzcilPHOV57wB,Jrldm,1,6eeuevCoXB3wEou8wrnUpQ,2020-07-08,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Fade Away,29,166153,1GnokNij8qtNEAkfDtxC9g,"['10JE9C1e9BzcilPHOV57wB', '6andpWdsNFMIOgxISRp14o']","['Jrldm', 'Chyno with a Why?']",2,7jXIVln2WifntbpxWPAOQp,2022-07-15,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Cinderella,4,193548,6usG6MytT8opDQEWs59QOv,5qbaIsX7YERUnbzFrF2Bkq,Charlie Fleur,1,1F4HvGXrXcOSYt1CrgSjcn,2020-02-24,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Lagi Na Lang (feat. Gloc 9),47,257570,5PCvndHKmtBIV0TnzlLxZq,"['10JE9C1e9BzcilPHOV57wB', '7HJDRQAfEcFiARVehhM6qD']","['Jrldm', 'Gloc-9']",2,7dehJZxkqLzpBca5NMDA9F,2021-12-17,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+0916,27,213484,78tZhNRcMeicSUXtDYK2tK,0n4a5imdLBN24fIrBWoqrv,Because,1,0rLXN0EZmkAIGZRIRsTswJ,2022-08-12,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Simula,45,335294,4ItjaAW8vi55Ne4Jrw0qJk,"['3FwNjtXQCdxpDOXmgJQGnG', '1xWBSa1TYo94akyvwYs45r', '6gcteR920pLEynlHzjSRYd', '4HPuFCMUiNcV4f3ew0flbZ']","['Emman', 'Awi Columna', 'Kiyo', 'Alisson Shore']",4,35BXvmX3MeFe1iUM1yKiOD,2022-08-20,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Iladnasanwakan,49,288940,5l5iWagbnfG3QsLwC4GkRy,"['6eGQ0qPUlGBjmRgyQ84g3f', '2G7VQ1kVhVfNagytlousgm', '5ncns3fZ0Ftg9vL4dD06Zm']","['Ron Henley', 'Al James', 'Chen Pangan']",3,501z3dwmJ1Rvtm0NIvVaPu,2018-11-11,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Mood,68,230000,27kaeLB6wRVvsaORS8O96F,"['2G7VQ1kVhVfNagytlousgm', '48K8I2AZGPknyk914KtMzO']","['Al James', 'Muric']",2,1KCy0t9OekxUxwTxfIHrbA,2022-09-09,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Rainy Daze (My Key) [feat. Cean Jr.],48,247979,6BLfsqCCd8kXWPfgCQjbBN,"['5m9nDnVbCoBwQb9lnfpUhW', '4LT250S0fAe4cYqPbRk56m']","['K. Deal', 'Cean Jr.']",2,3GophQPsSCLflKQ24lWxHP,2019-10-28,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Waste No Time,37,188288,58ChbtfVLkilvYti561gck,"['1iJGfUfCh8HerbkkVH8mRZ', '4y0ZtUDyFsAnqXafcZRvIH']","['Keen', 'FTD']",2,4CHBn53NvHMhbE80kz6j00,2022-05-06,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Ano Na? (feat. Kiyo),67,162028,1r03A3l9m1XWR9iGFuGQbe,"['3WyQJx169swY8v3htgAqaK', '6gcteR920pLEynlHzjSRYd']","['Calvin De Leon', 'Kiyo']",2,03pxHCU0EdZDgV7mScIT5X,2022-10-14,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Wala Ka Nang Babalikan,40,222545,6NVLrwKcCG6bITFPg4euT2,"['4ISAzgKYMuonWbDhueeoEq', '0n4a5imdLBN24fIrBWoqrv', '6yWj0mvdzglZZDHa0FHmpd']","['Leslie', 'Because', 'NEXXFRIDAY']",3,1rszLfnApZcS3QrFXYnXDv,2020-02-16,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Bakit Why Not?,34,167374,3tdh8kN8p9vPPEFVidIYur,"['0FbygDeAj1BryQmwC1bOJq', '4ZO0HvlndussEIrQsozD2G']","['Schumi', 'Kiddo Chris']",2,4yKHM0aZd6wUKFnsDvYMpE,2020-11-20,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Marlboro Black 2,51,241818,5nQBfL9XW03WYp22NDXUb4,0n4a5imdLBN24fIrBWoqrv,Because,1,4DMjaQksbK2Ccrevh7Qy1B,2020-11-11,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Iafls,47,255059,0vM10ii2v5wofXfOvxRqJQ,6vCnF48qqPHgVMBEvcbgkU,CLR,1,0hKviepCdDxtt8cDzoQX5S,2017-05-01,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Tamis,44,237600,3YaEFxr5iAz1qc2JlUh3SN,"['4HPuFCMUiNcV4f3ew0flbZ', '7rJjSgk5wJNrzFvqoqAcXe']","['Alisson Shore', 'GFAB']",2,1yFqRu45QwlEYR2DhJAidM,2020-04-19,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+City Girl,0,188976,3L9rTnMdVeqX3CqAaGQh4E,6ogIjp0fsbUxlqy9q2rvrT,Shanti Dope,1,0NI5j63Y83dEQWItn3tHIg,2022-12-02,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Kabute,43,219097,7BrDZbId5h2w6G89tOmtTb,5Lr7OYrBSUhC4I8nGHutjd,Jose At Melodiya,1,7CzcYoimTgCtJdwNNcIdHO,2020,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Hometown Drama,24,175281,5zXPbpgwjNCzGzbCcRZlOi,"['1chB7D5MsYcqBpie4zUKL0', '1mObJ9BisiqrcaVvB7TwAC']","['TEEN', 'R!S']",2,0zTsw1Fa6xtR9w5zT4uJwg,2021-02-26,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Pahinga,67,223584,0KeZ6mv7rL5wfF7TuxSUdk,2G7VQ1kVhVfNagytlousgm,Al James,1,1YBSzwtL5iFhI26fmovaIb,2017-01-27,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+YUH,48,247636,2tLh3thrGM3g3TCNWsFxHd,"['53ve27q6YbRe2zbBn1iRtO', '3p5RE0gW2l4oFW82SgMv29']","['SHNTI', 'Waiian']",2,7pS0aoTt5f4jKCuYPNu3Fb,2022-10-08,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Favorite Song,42,201893,2BtTENfALeEbbmKcmPTjEy,"['376bLpNEB6uICCPZBv55Mo', '1X5f4TgtnFa2KMkeahgPxO']","['Jazz Ocean', 'Og Makk']",2,6IYlfFWFRtcha9twG1c30U,2022-07-10,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Pasilip (feat. Kiyo),32,193747,211fgtsRQWZkjcLWmwhwDH,"['1IFBgp2dkXquUYSNEY6hK7', '6gcteR920pLEynlHzjSRYd']","['Soulthrll', 'Kiyo']",2,6VjuRuEDhxCmUfIDpe7TM9,2022-08-19,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+3:15 (feat. Kiyo),54,224452,6ZvSJXFvvOnw58HWL3NLcm,"['3BQ7MYNeB0wMPtHYPWvu1C', '6gcteR920pLEynlHzjSRYd']","['syd hartha', 'Kiyo']",2,0k1tY6k0NzzZoAyrA6Qpb8,2022-11-25,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Puyat,50,262175,1ES5vmVyAXhHGrOBA5fHj0,"['6gcteR920pLEynlHzjSRYd', '3qRi5ZjpzMr8ABK2O1uXUr']","['Kiyo', 'YVNG PE$O']",2,6UytdqsFEiCJO44ouUqe7Y,2023-01-27,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+"Bat Ngayon?, Pt. 1",53,217286,5M4A6NDpxFt6AlWCKX3pkh,6vCnF48qqPHgVMBEvcbgkU,CLR,1,4EScEL1LnLSnr2t3Ibxu9t,2018,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Kalmado Part 4,40,268021,4X5uzkOIMIbbrAg9hp6pPd,"['2gZrkTQmIZCDWQMMXjkC4K', '4jv216sU7PweUAgU8hIRyb']","['Omar Baliw', 'Rhyne']",2,4IqwzMbDRxU6ABBPkykvS1,2022-03-04,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Puyat,31,262175,7mEy2486tJWzMYevgf6oLe,"['6gcteR920pLEynlHzjSRYd', '3qRi5ZjpzMr8ABK2O1uXUr']","['Kiyo', 'YVNG PE$O']",2,2VR6fWMPc4Db0Ar6StHZdO,2023-02-24,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Alam Ko Na,55,240013,6deBk1BSZkEO7WxvXKnqOZ,"['2Q2uIXpaRSH3Or0oT5nFXR', '3KovZIDNYgQY8chiNZo2ZF', '4oq3ZPun2GUPkUBo8BzuTW']","['DENȲ', 'Just Hush', ""Third Flo'""]",3,72zUZYts2xtMDdOS02vOSw,2023-02-04,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+lagi ka may dahilan,17,155372,0O3ckr8uB4OKNuDbL999GM,0xh04KMHGerrwFTxxdLs4V,P4bl0,1,1ml0A7eJHRcH1SFf8VfCGR,2023-03-24,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+dito ka lang,25,161144,6gkPrN8UwsZTlqwmUybybm,2zx8nVKyacp2vJXUX5S5t5,Kylu,1,33oE7U1JCVDJyThBEMerlW,2022-09-09,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+minsan lang,3,200466,4wbX7uvconeFykNzuqrHOx,3WyQJx169swY8v3htgAqaK,Calvin De Leon,1,2jWsgAPkBUJdFRwZwi9DuR,2023-02-17,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+OTW/ PAPUNTA NA,40,252000,1XVpHoDOMBTrUxq7cdEwgM,"['5DKxABYbjG07LuQ929VRST', '73jNV0uIKmFFvNK7SQ3RXu']","['yshy', 'Rajondo']",2,6EEIGyyRVcE98fItChc2Hm,2023-03-24,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Lambing (feat. Kiyo),42,221000,0daJYm6XQNjKKiIrddULNH,"['20bisCfPMhrXJH4Wv5lmh1', '6gcteR920pLEynlHzjSRYd']","['KINDRED', 'Kiyo']",2,6l0kQa5M2byUTlTE3vQPug,2023-04-14,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+UP,42,156611,1ttQjQRzVG2fitzOTRKlqp,3p5RE0gW2l4oFW82SgMv29,Waiian,1,7t2OFHE1hElW11HB4RZ1ok,2023-06-07,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+AGAIN AND AGAIN - Remix,50,163500,7i7N94FGh8jkUnBQ3YQ9eg,"['7KC9q5wx0bxMD5ABgLCoEd', '2G7VQ1kVhVfNagytlousgm', '2aqdy2BLMhGFHhRb1ZbDCF']","['MANILA GREY', 'Al James', 'MBNel']",3,6jE70xEwsFhVktsETihtVs,2022-11-13,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Déjà Vu,41,183396,0Q5CbkQzDlJO5zJ617D65g,3KovZIDNYgQY8chiNZo2ZF,Just Hush,1,3zziar3u5ksE30bOfDgd5W,2020-11-20,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Bawat Sandali,34,235102,2rWf50ROGXw8ttmOiXn4Zb,"['5DKxABYbjG07LuQ929VRST', '73jNV0uIKmFFvNK7SQ3RXu', '3WyQJx169swY8v3htgAqaK']","['yshy', 'Rajondo', 'Calvin De Leon']",3,4ZAGG2JhxLWpW78bnQS5LS,2023-06-23,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+1111,20,176658,2vkkyHrzmzDBpwD2oNtsb8,0QWvk1mfXAL80tqF3rrNA8,Rave,1,4GqEXeCVj3JaFILJ5baPfj,2022-09-09,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Medisina,30,262130,3Sgw2arDiMeDRWwXF6n0Fg,"['3WyQJx169swY8v3htgAqaK', '3KSsd7q2gnKFs74J4BEH6p', '2zRoFfKfqM5jaUysSG9EUI']","['Calvin De Leon', 'Lanzeta', 'Illest Morena']",3,0RbTlvLnKetrtWnP9oT9g8,2022-08-31,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Aminin,66,217297,58Y3alAZ4Z2zJGFJiyT9CX,"['1UvsiRB2EarPibq6XRl9Sv', '4Flrlc0Sf1QaWLbDLdvU3L']","['Pricetagg', 'Zae']",2,1nxQSlG58nXJJextcAoTzy,2023-07-21,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+SEEN,58,172500,6REJp8MTDJ5gv2MRkHNmtN,"['4HPuFCMUiNcV4f3ew0flbZ', '0n4a5imdLBN24fIrBWoqrv']","['Alisson Shore', 'Because']",2,4LZVmxON0sJjUAYhTWgj0n,2023-07-28,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Usapan,40,205263,52DeLg0Cz7xRuV5KdOISCv,"['4LT250S0fAe4cYqPbRk56m', '0n4a5imdLBN24fIrBWoqrv']","['Cean Jr.', 'Because']",2,3AdvErccAdyZ1HwjGmS0tg,2023-08-04,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Maria Hiwaga,73,187973,7rRpt0FcGdDxyhiFcSlswH,52D0Fi29GcObaFnweqsV6d,Sassa Gurl,1,6VCDr1sghqqQSje8YbYSqn,2023-06-02,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Mimosa,26,217006,29W7TPj2GAwipDZ26Zs4Ai,"['1Z3OR9ZjB9Jc5DbpFQnMR8', '1AcFiabUgchHZOQbg3Hauo']","['Bulldogg', 'Karl Alegno']",2,6BV9VCY5qGJ2nUkrFknLGb,2023-07-28,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Alter Ego,1,229254,6dWMuGuWDe8OoU0LLTpFsw,"['1P0psYK6KI4At1tmmSBRuc', '4BRKmwexoQYTk5kJHVvLDt']","['Grudge', 'NOA']",2,5XaOVHW0W5PAKVZsrqpY6Y,2021-11-06,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Us,8,216476,4WfmQPYN9ETVxGYAbAtSIQ,4FHrW1ts0EkPM27nmHtxQG,JP Bacallan,1,6C7XQczDNPM6oOfzWex3G2,2018-07-05,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+BOYM,52,258782,3ERHkuuL0oIcOtTCvByQfE,"['3kx24yhYtLIN6aUQm0DjOA', '3KovZIDNYgQY8chiNZo2ZF', '2qvzM4GTevp3cEcfAnCPMF']","['Maduming Kwarto', 'Just Hush', 'OJ River']",3,3WRCyA7CJveeMuP7D2csmb,2020-06-05,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Cold2Gold,47,165829,3hLYuPClqR9NNLsHgvyiBm,4LT250S0fAe4cYqPbRk56m,Cean Jr.,1,37qm7PqNxyQk8fMvBDpG24,2020-02-03,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Pleasure,24,184615,5L3wczhYN1RqBgbbSc61AN,3WyQJx169swY8v3htgAqaK,Calvin De Leon,1,7nUAgNbcahHmo2R8z2j4Jv,2023-08-17,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+LUV DRUG,72,198888,3oSu6uIHuwZOTyHdAZGojm,"['2WzWSpOB41g3gb78Raj6RK', '495fFEFRsZJJWAYH8N9393']","['gins&melodies', 'Eros Tongco']",2,4YQbWQV2kdQtSld9XTOCoE,2023-06-28,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Playah eya,34,218582,3PyoTeRzjYJtkaR3FiTJ71,"['7k4KUVFc27j05vXrcJ58ih', '0n4a5imdLBN24fIrBWoqrv', '6rtj7FDJ5zLdvV0SYbfnNm']","['SUPAFLY', 'Because', 'Tommie King']",3,4JnzZFvVtn9tP114AoOW3V,2023-08-31,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Tabi Ka Sakin,46,194651,70DQ5BLNKUMoeyBve5E1nW,53ve27q6YbRe2zbBn1iRtO,SHNTI,1,0L5PXZMAWfIFPLacaNsjR7,2023-08-03,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Manila,58,170103,7IxZrtE0lrlqLrAYfEKI4n,3rdJ1bFvwgZw2XZkimg5dW,Young Cocoa,1,5zmmUfJClT53OSmUOqLnHM,2021-10-20,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Gusto With Ya,66,162000,0hr2Itwh84Zn3PiRRjHTnw,2Q2uIXpaRSH3Or0oT5nFXR,DENȲ,1,3hQTzUwRIXnetrF1WrSrfk,2021-03-12,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Love Live Life,23,280879,3a2Cj8MKGFkN8kSt95aWRR,"['4HPuFCMUiNcV4f3ew0flbZ', '6ZtYpkBBZ7wfpM99Qxm0KO', '32mJinuGJRIppgtdgxUXE5', '3p5RE0gW2l4oFW82SgMv29', '0HXw2MAh588Kd52EbuTwF0']","['Alisson Shore', 'Rude-α', 'Tanayu', 'Waiian', '¥uK-B']",5,2s7sTyTb6L0aHdGhEZ4LpM,2023-09-15,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Para Sa Streets,75,194475,0szRYVD2MwFzQMs58PT1Ec,4zpGxqF6oI1h3f6Md2v42T,Hev Abi,1,62G53UzsyGd1updwIfyXLq,2023-01-13,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Pabalik Balik,45,227000,1V8rqenAYdSJby3TfJL7sW,"['5794gAYyVyxoZKIhyN9OUq', '3KovZIDNYgQY8chiNZo2ZF', '4MoXhBVA5PCWkhovfunF9w']","['A$tro', 'Just Hush', 'Ron Henley']",3,5RReqPSTHUWm94owtiDoRX,2021-05-08,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Anjela's Notepad (Interlude),27,220451,09JUZBFzXvcJBOHUEr1xwm,"['0n4a5imdLBN24fIrBWoqrv', '7n28wsd032oSLlCKsEHDd8']","['Because', 'Nicole Anjela']",2,16HKXZJ6nHqsMf2nwpGCZ0,2022-12-23,13YH7NwIxda9bws44utNfj,CHILL OPM/HIPHOP
+Tensionado,0,196693,10BtDxfJOArEZUDuvwOh7h,13VRqzYJxIUpx67aASZADe,Soapdish,1,2umcWcMjhHDFawWAZivyr8,2005-07-07,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Balisong,62,215333,4aD5i2sgbsAbSubI8cnr2p,1ZTdxfZTeztyAgKUJVLxAI,Rivermaya,1,2wcWG3MbATMobW5HVFTilG,2008-01-29,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Oo,70,239000,062z5ZMd0a0snMBZ75tOco,3wbCeEPAW6po7J46netxMT,Up Dharma Down,1,2VPXKGGUbSUbSM2ZwuW9lG,2006-01-01,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Indak,59,235121,68mEGNswpkIWu7TK6QJabn,3wbCeEPAW6po7J46netxMT,Up Dharma Down,1,1QpFitywD6FWjFWvTmLOw9,2012-12-07,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Unti-Unti,43,287426,1hkvWAHHWJslObD16ug4Nx,3wbCeEPAW6po7J46netxMT,Up Dharma Down,1,1soFNLmLx08oNlhgBtQB5g,2019-07-21,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Tulak Ng Bibig,28,299066,2mp4O7yOCZcA0VXjdYOkmg,0ZEOoQA1tnEAnEbObq8YIR,Julianne,1,67I1y5whq5cMa8cuMxcJcM,2007-01-01,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Much Has Been Said,53,323186,6Wbvl5N39iGEIrEb5lCCYz,0c7d9V8rjfT6tzojfBfRf5,Bamboo,1,6WtxsfvDpXOxoeiuQbr0mE,2006,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Grateful,14,370080,5ScYdytsbewDza1O2Adgis,0ZEOoQA1tnEAnEbObq8YIR,Julianne,1,67I1y5whq5cMa8cuMxcJcM,2007-01-01,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Magic,22,245746,1qtbdAOgVrawdpRHwb9IZC,30jFcaN8Gc1zXthGCdx41E,SinoSikat?,1,2gLZ6jy7ocZOq4Lrmpychf,2007-04-20,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Burnout,70,210426,0ZCCbW4Aym7b5QdQUKfVdv,5I3uAFbAOhuVSKdrcG5mgy,Sugarfree,1,5TgWcKNeogXr2cPNDcXZRb,2009,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Peace Man,46,179266,7zCrMKfWqhFynX0nXbiCK2,0c7d9V8rjfT6tzojfBfRf5,Bamboo,1,6WtxsfvDpXOxoeiuQbr0mE,2006,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Masaya,61,225640,6sxg4O8Nsiq9NuAiBbL3Nr,0c7d9V8rjfT6tzojfBfRf5,Bamboo,1,0E1sc92U89BlRmR5V6VIAH,2004,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+So Far Away,49,256120,5ap6NICBpwgD96OTMqmiSU,0c7d9V8rjfT6tzojfBfRf5,Bamboo,1,5rxPniKmlZ4tInodEqAZCp,2007,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Heaven Knows - This Angel Has Flown,75,241146,0Qra8Ps4tJAZPqRXyehCjc,1EUmQM6xgUQLUkJVcvSdey,Orange & Lemons,1,1Pjond44g3GY0emy3LfcCl,2005-03-24,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Tabing Ilog,54,195706,42LotTOpEfngkjuzHH3vme,2cUM0BKXb6AP3CQAYK7xOw,Barbie's Cradle,1,3LDgbm43oZ0yk3S4AC9vxk,1999-07-26,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Kung Ayaw Mo Sa Akin,47,230333,1xBT5LOnkm5k86PECE0Vu6,5I3uAFbAOhuVSKdrcG5mgy,Sugarfree,1,5d6biQVqwKsSYd4chZHyWx,2006-11-30,40NZpSnnJsBq9g0IEEcXhe,Chill OPM Band 2000
+Talaarawan,45,214598,65qee5VaBdavyP76V47Wr2,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,7xCcuTA3abKwxj8HwgxP7R,2019-05-12,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Mitsa (Salamat),50,265476,1PUWUlqe6m5HqX754lN3Bs,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,7xCcuTA3abKwxj8HwgxP7R,2019-05-12,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+"Susi (From the Film ""GOYO - Ang Batang Heneral"")",50,291983,3I572cT9kECh41bZz2xPhy,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,0kN1b2GSMi06lzG4I6yz60,2016-07-06,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Branches,46,217535,3rheINeddqah49dElHlqbZ,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,4u4B66x0l6yCVbSsedgMy6,2018-11-09,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Hindi Tayo Pwede,1,303937,6VqZS3Wmf53pbfDBVEYvnP,1YlibpAvhJBbMZMBwN1KGv,The Juans,1,2m8pNsbpAvJYe7rbRpkhFF,2018-10-26,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Mabagal,11,226727,4wJ5SjIkViEQEu95U8oyLt,"['5yVM85m9yNcHO6o0vaaVxW', '0rZRTXEmmPmx6gt92tBqIc']","['Daniel Padilla', 'Moira Dela Torre']",2,64cjwPaR72rW2Wzm9uWE3c,2020-03-27,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Huling Sandali (Tayo Sa Huling Buwan Ng Taon Official Soundtrack),66,343017,24ngpWhBOxKJtIPnzSNX8c,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,3CN06MwHmNd9UWGu424J42,2019-04-07,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Kahit Di Mo Alam,61,282094,6GIzDc4xBUeYHwubWwTrhC,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,1aUdCxhin4mQevKWVLrtNN,2017-09-17,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Fallin',52,250813,3Qa2JS1RJGQFyIu1qmALjw,"['4qFxP3qN9GsnZDOkAE6x2m', '5ebPSE9YI5aLeZ1Z2gkqjn']","['December Avenue', 'Clara Benin']",2,2xDMXQrLcUxzsAdpdlLPZh,2017-03-20,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Magkunwari ('Di Man Tayo) [TODA One I Love Official Soundtrack],55,278181,4yLc803i7qcWx4V2piWPH5,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,3PM0o72L1hzQImMRAlL8iU,2019-02-07,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+December,25,211005,3WUz3uO5sEywvaSYNz9udQ,5ebPSE9YI5aLeZ1Z2gkqjn,Clara Benin,1,5G0fMmidbFTO9qkbfiPKeP,2015-11-23,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Be My Thrill,36,191202,14vbd4xWTWo0w3UJdABCYb,5ebPSE9YI5aLeZ1Z2gkqjn,Clara Benin,1,0kaULzpPe7UGxacdVaVtOJ,2014,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Closure,36,222108,04ldhfKQYUZKBCg1TcdoAU,5ebPSE9YI5aLeZ1Z2gkqjn,Clara Benin,1,0kaULzpPe7UGxacdVaVtOJ,2014,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+"Where Have You Been, My Disco?",53,217788,23pURM1bccelxmpg6hnCro,4k9wp4ipHdA1bu1T4x1ZTG,IV Of Spades,1,59DwsdQC5h4nokX1GgDdJ7,2017-10-20,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Hey Barbara,57,232760,5RFHiLHCt7dDgKfCAdD5vj,4k9wp4ipHdA1bu1T4x1ZTG,IV Of Spades,1,4dR58Jto9zy6BOApnYD8so,2017-07-14,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Ilaw Sa Daan,57,242790,652CegYwXhnFnVz3SgGzTO,4k9wp4ipHdA1bu1T4x1ZTG,IV Of Spades,1,3cvznWGnrhG1Tiga7dqK8x,2016-10-07,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Bago Mahuli Ang Lahat,40,201146,3jAwK8aaVbzvV5mGAIDKCf,7n1YRMg8XHJMr4S5Z8zl6d,Never The Strangers,1,1WJC65SMUhiVGMmuMlOdT9,2012-03-31,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Moving Closer,54,188386,18ogtQoqULXr4eVNwsXlcy,7n1YRMg8XHJMr4S5Z8zl6d,Never The Strangers,1,1WJC65SMUhiVGMmuMlOdT9,2012-03-31,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Evidence,0,265586,3SyrcgbxVOmLnvtcfnEKf9,18B9mAtwCLjkXGMlBtH1LZ,Urbandub,1,09alhlqhTQErr4LuiES6Lf,2007-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+The Fight Is Over,0,265666,4gUrDNbKHDUpfaX4sHVYsI,18B9mAtwCLjkXGMlBtH1LZ,Urbandub,1,09alhlqhTQErr4LuiES6Lf,2007-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Walang Hanggan,51,383703,6ipu0NJW6CpYZjHnUo1xxS,4N7VMCvYd9Reh5bJLnRVzY,Quest,1,2IBmq6xrexEVDk3Vo5lrbD,2016-05-20,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Settled,41,298791,0MDI5AnC24Vns2kToH4iM9,5TPt1cZ847Fr9CWd9vAm7s,The Ransom Collective,1,1WxfzXyKhKnIyogZi6Hrlt,2016-04-11,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Tides,39,279003,5KoE6YC2zs6Xo9irRTkFhx,5TPt1cZ847Fr9CWd9vAm7s,The Ransom Collective,1,3LWiguQVKE7gAP1PsAyrwv,2017-05-20,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Laro,0,320573,0mUfY2PdHs57EG15zj1dRj,3Hvxz2oZPYuo61ChHKcqQI,Autotelic,1,6192rIsjm6EaV6OclNLHoK,2016-09-30,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Languyin,0,264253,1DFNVxtjQy2kidJnQJs22X,3Hvxz2oZPYuo61ChHKcqQI,Autotelic,1,6192rIsjm6EaV6OclNLHoK,2016-09-30,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Hanap,0,341986,4MESp8POa4gwVpNWo7mPSk,3Hvxz2oZPYuo61ChHKcqQI,Autotelic,1,6192rIsjm6EaV6OclNLHoK,2016-09-30,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Bumalik Ka Na Sa'kin,0,216386,21gD3c0BUpor0wkpagps6R,4nGp682WMiKS4X217kPw8C,Silent Sanctuary,1,4xxRoePLdITFIhrzUhmOaQ,2013-06-11,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Pasensya Ka Na,0,241029,0YyM8aEdbjGfLWPn6fdcn7,4nGp682WMiKS4X217kPw8C,Silent Sanctuary,1,38jqi8VvSax4miNL2cacD1,2015-04-08,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Sa'yo,0,253360,29xs643Q96uQLD8f7SxYYw,4nGp682WMiKS4X217kPw8C,Silent Sanctuary,1,4xxRoePLdITFIhrzUhmOaQ,2013-06-11,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Meron Nang Iba,0,240360,4r7vGTk9HCW7YDorNWoclF,"['4nGp682WMiKS4X217kPw8C', '4DWdVW78tmeOIWHqN4D2Yk']","['Silent Sanctuary', 'Ashley Gosiengfiao']",2,4xxRoePLdITFIhrzUhmOaQ,2013-06-11,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Sandali Lang,0,358840,7ys0nIOI7CN7U6rWitFMTW,4nGp682WMiKS4X217kPw8C,Silent Sanctuary,1,08SEZDvRXrrNs1C2y73MLi,2007-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Hiling,0,348933,4MD1cJDScbGTpNINWjJuhL,4nGp682WMiKS4X217kPw8C,Silent Sanctuary,1,0yCHt8KTeBzMDV1kRBhzXa,2009-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Movie,0,274906,5o0yg58LX1kXPXfuEKv46S,1tXFYQZSAswt4JLB42lpye,Sponge Cola,1,4Jfm8pzDGoeDqWKf6Q5qO6,2013-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Gemini,0,212693,2fLL9lFVduAN0QHgbQ5oSV,1tXFYQZSAswt4JLB42lpye,Sponge Cola,1,4Jfm8pzDGoeDqWKf6Q5qO6,2013-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Makapiling Ka,0,246880,7K6eh0AbHofKGzQ0qr4iUN,1tXFYQZSAswt4JLB42lpye,Sponge Cola,1,2yCy36hxBEoYLtzZXmytFk,2009-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Di Na Mababawi,0,193506,4e0rMS4w6Ssim4K4W11J8I,1tXFYQZSAswt4JLB42lpye,Sponge Cola,1,2yCy36hxBEoYLtzZXmytFk,2009-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Stay,66,235706,1jImST6hhs1EV45p78RBpM,6Xx1uQPrAF37dtVMKEmvx5,Cueshé,1,2BfekCfAeHJHeIEMWXsoXH,2005-06-09,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Borrowed Time,63,249626,4rmxojAE3CI7vuIvKVBCkT,6Xx1uQPrAF37dtVMKEmvx5,Cueshé,1,0aesFsBOaeljPfH76CsrN1,2006-08-16,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Baliw,55,218983,7cHycXGo5HnVQ5NkI3dLWK,0jKQrxK2zHqxyOAyIMrUQt,SUD,1,60jvhHVlmuAmEzdjRpkvue,2019-08-30,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Smilky,41,332016,553ahz6zeM6znoepcrEGhQ,0jKQrxK2zHqxyOAyIMrUQt,SUD,1,2Od4YkCY7ZPA2oP2x7zewy,2015-03-09,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+The Day You Said Goodnight,0,289453,57SGNDTRH3UeQ22qbrS4fH,6Ww3OMFzCaO33ulKh1LBFN,Hale,1,2aTG7rVHqmsIOKBggD0g7m,2012-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+The Day You Said Goodnight - Acoustic Version,55,328533,6CHpr3pY2MbJ5y1076UDnI,6Ww3OMFzCaO33ulKh1LBFN,Hale,1,5www5PCOdkBpuNCanxeo6L,2006-02-26,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Blue Sky,1,286995,3H74L29kR0eS6wVhnP4KrE,6Ww3OMFzCaO33ulKh1LBFN,Hale,1,472GgeFZaCdRLcL3cT0IAn,2005-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+"Torete - From ""Love You to the Stars And Back""",4,269583,4aUf4lzQ1di5JajZ4a9FuI,0rZRTXEmmPmx6gt92tBqIc,Moira Dela Torre,1,3KAsMN6MZGAzb5cEuJBoyH,2017-08-25,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Malaya (Camp Sawi Original Motion Picture Soundtrack),57,254249,6M21eWbEw74XDdoQsNIinq,0rZRTXEmmPmx6gt92tBqIc,Moira Dela Torre,1,52xu8EP3ABmpNk0LUzF3ih,2017-09-18,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Tagpuan,14,260240,0ztDBQdQmdVZvorSmIjMih,0rZRTXEmmPmx6gt92tBqIc,Moira Dela Torre,1,05rQadwAVYTpNNnBoeTuj0,2018-02-19,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+241 (My Favorite Song),0,272600,2vVW17crZs4KInids0h9SE,1ZTdxfZTeztyAgKUJVLxAI,Rivermaya,1,1LgCV39PaUNSUOhlxZ28qc,2005-12-12,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Ambisyoso,0,249520,32bk0A84NyGv70LfMsIdh3,4GBFKKuwmZUnAJt6nBal7A,Kamikazee,1,1QMMXG50CdKyrCsZFMmymj,2006-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Sanctuary,44,321666,402jy1KEfNQgyGJTTslu4v,4HOEnLufwAqJ2qoJPVnL01,Callalily,1,3tIU2WCVDgPwnG4MraWwQ6,2006-07-17,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+With A Smile,55,280546,3pGeMszs8vgG4osWUTMEk9,7374lH6kwx9uQATYQ9H3Cp,Eraserheads,1,2DIpgoeZAbwk3wF1qSDj8v,2004-01-23,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Bakit Ganyan Ka?,34,205304,2mn5o4dC90qh40fCH1VVR9,"['4mrrcDjpjUq27YEGwlisgs', '72VBk3SEsEFPF948CmkHT4']","['Gracenote', 'Chito Miranda']",2,6sSAjJBUpwobJGNJ7TVPdC,2017-10-06,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Everything I Own,10,218426,7KxZuKGOXYUT7Zyct91xma,1t2caVgyabZrVDAlmMGraV,Michael Pangilinan,1,2fI8PsKYLPMt9Gv4NVrtjk,2016-08-19,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Tayo Na Lang,5,201813,67Tw5ABy38iNp3hEpLptdX,1t2caVgyabZrVDAlmMGraV,Michael Pangilinan,1,2fI8PsKYLPMt9Gv4NVrtjk,2016-08-19,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Bakit Ba Ikaw,15,245586,0Vmk6Ebk4QBq7r0VAz2a6s,1t2caVgyabZrVDAlmMGraV,Michael Pangilinan,1,2fI8PsKYLPMt9Gv4NVrtjk,2016-08-19,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+6 8 12,50,228179,7vn7nUTvPTz81VbFtH5FeQ,30DIeQNV9s1HEXyuCpGF4l,Khel Pangilinan,1,7hAmLyavO6WcE1uA8mqmmC,2018-03-23,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Masaya,1,225697,4wIlE0wVdqBi1tFGuSAx03,0c7d9V8rjfT6tzojfBfRf5,Bamboo,1,2PgDncUHg8ZS3D11VhuhzL,2004-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Kahit Ayaw Mo Na,0,243015,5V2AX2WTOHl2FKtftvisV6,5HIZU0JzM0AgfItVOm4E08,This Band,1,4sChUazv5CQPX1V3VqVsqV,2018-02-02,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Grow Old With You,49,150306,0gP4VAQAkE2CJEFggGKsPn,6DiAVYfSzZi8h1fGuTD6LI,Jimmy Bondoc,1,3PDQAErL60m8jNhM0YwXOE,2005-11-21,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Stuck,0,282346,3kZi2PG0V1KOvHuZ41UweT,0u4G1K1CSzcp5PZ6G6FIGu,Darren Espanto,1,0CQkNGI86KUGxzwyiP0Bk7,2014-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+12:51 - Piano Version,0,243530,4iINeNmWub1EoHArvw2y0K,4qzcg58jZdJ9ujEI6Cs3Ad,Krissy,1,3RywI77KyROJ0ibjzOM3vF,2014-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+We Can't Be,0,239364,0mqJsNkF3MRtBkRhzVskVX,4qzcg58jZdJ9ujEI6Cs3Ad,Krissy,1,3RywI77KyROJ0ibjzOM3vF,2014-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Dream,38,192897,6sYfXrcec3TvnQQRjH3i7V,"['37MmapyTgG1yu06cqp4dLa', '02yssJvjMJdJ3nueVhig4j']","['Donny Pangilinan', 'ANDREAH']",2,5yfzRHjaOcMroaasGM1crD,2020-03-27,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+By My Side,4,235000,2LZm5lAOpp9PMHgbQOYUNJ,0xFiayebFotwtVktAJin2y,Carmina Topacio,1,0IeltoBNflrBRUrQr12p34,2020-07-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Kismet,0,271600,2qzxrN2smGeL33tBVs1TOP,4nGp682WMiKS4X217kPw8C,Silent Sanctuary,1,08SEZDvRXrrNs1C2y73MLi,2007-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Nakikinig Ka Ba Sa Akin,53,260638,74jVIbukOhR0Am7YXKiJMM,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,7gUQFe3Hx5cf8tWZ8XpWy5,2020-07-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Trip,37,213640,3pSFjHLjE3RB9CLE8JrqC4,3nZa8vRD64ueq3d0JNYTsl,6cyclemind,1,0YydJV3mc5KkCZhqnSvzjO,2005-10-17,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Scared to Death,5,231866,0s94Uvqb2VpofYHa5ia5TW,1mcqfNCReSFxun2vIWvC28,KZ Tandingan,1,6AjCc2sKifkw8IKxB8o5yQ,2013-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+24 Hours,48,239160,2QCclKN3S3hWdq3emjWpQQ,6Xx1uQPrAF37dtVMKEmvx5,Cueshé,1,2BfekCfAeHJHeIEMWXsoXH,2005-06-09,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Hey Daydreamer,44,223386,632JUvf30LG7QyNGq9CLGr,6yk6AUYniuCmUkf7D63AUW,Somedaydream,1,5QR896eLExDzXem0i8N0CG,2011-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+One Look,53,205200,1pPNAa4IISXg1QY0ZEveRD,5kUrUkpqUuCYX0eLEhvcQ3,Kjwan,1,6YOaCvMZqacvCIqqcCZtbs,2006-05-21,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+I,52,252680,4QbJjJiHz3p3dYK2HwXqLP,3nZa8vRD64ueq3d0JNYTsl,6cyclemind,1,0YydJV3mc5KkCZhqnSvzjO,2005-10-17,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Kunwari,40,214046,1xixJwhW5UOOnXpN7GNsPg,1tXFYQZSAswt4JLB42lpye,Sponge Cola,1,2fdzLVIFgBgRbZ5s3wd6mV,2017-11-15,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Sleep Tonight,62,289480,4TEeQqtCN2Ox4Ff7rlbtYx,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,2xDMXQrLcUxzsAdpdlLPZh,2017-03-20,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Tinatangi (feat. Chrstn),61,258040,5Pgssd39LAfVsR9gvUVwU7,"['1DlYnIiliftt6R21Y5NOW2', '2YwTbSBUyNZTdv39z5pJNW']","['Adie', 'Chrstn']",2,2blX1IaoX5oHe8dNb06MbE,2022-08-20,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+The Way You Look At Me,63,251571,2EcDqJGlgodoLW0l9EnWa5,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,0AhITlFtQQGB3X5KAqf7Ng,2023-01-27,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+G.K.Y.A.M.,61,217075,6Cxj7ww8DDqkrFHT93So1p,1DlYnIiliftt6R21Y5NOW2,Adie,1,0WhPORb8dusPb6PfpEv7X9,2023-01-27,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+I Don't Wanna Wait,47,292320,076u5BInS1j1pb9QbPfLfV,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,7GNb9klVYDVzxoZWBc34Kz,2011-01-01,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+Tulog Na,64,240320,5ZPlhCh8KnB0bEnElxm1Et,5I3uAFbAOhuVSKdrcG5mgy,Sugarfree,1,6eQSE3asJwkxro63orNwjk,2004,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+I Need You More Today,66,233728,04qDUASuSfVp6fktfsxVej,"['3XEHRbR9NMWfNzQ6TQMS9M', '1d1BeULLUX4HWNVypEUMfy']","['Caleb Santos', 'Viva Music Publishing Inc.']",2,1Le1ykkfNX7dMyUYVOf6jj,2016-12-02,3C9ydtodWsjtlTGxFd90Hk,Chill OPM Songs
+War,50,228004,1EEsKj8lQKZwaFXJ5GFsdk,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,7xCcuTA3abKwxj8HwgxP7R,2019-05-12,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Di Ka Sayang,58,254000,0V9rj37SqxF06EOV809odq,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,272Ej3MRWKl2sMQ284qyxr,2020-11-06,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Iyong Iyo,54,202941,6RUEFRLol05iSCzQaCHNK5,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,6Pa87VouOnvJGvSLYdAevR,2021-02-12,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Yakap Sa Dilim,0,188040,6AfbCoGCzurN5XZq9Cs31N,1EUmQM6xgUQLUkJVcvSdey,Orange & Lemons,1,36zJTya3TD3IX06lWmQIrF,2012-01-01,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Tuwing Umuulan,49,275027,1KKIsW5U8V85UNIadfjbWb,0rZRTXEmmPmx6gt92tBqIc,Moira Dela Torre,1,5H9mWyVNAiMdDPDuzD62vu,2015-10-13,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Pers Lab,12,200200,6cHAtW00P6dnQYvJRPTbkA,4BbAkg4m1rwDbmyfAm3MkI,Rita Daniela,1,2jnyi6ExL41JgestV4I0Y3,2018-01-03,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Pasalubong - feat. Moira Dela Torre,58,241587,2JEPz4bH3WNCvjz9rmZrpZ,"['4DAcJXcjX0zlQAZAPAx4Zb', '0rZRTXEmmPmx6gt92tBqIc']","['Ben&Ben', 'Moira Dela Torre']",2,2UZpkRsvRjW36jNVkHss7q,2021-07-30,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Lunod (feat. Zild & Juan Karlos),58,177539,4vAYg1rLGyJiXUiU5LMdg3,"['4DAcJXcjX0zlQAZAPAx4Zb', '7BxbcnOfx5r4d53UQl2I1s', '0a4r2EnsevvHCukoJ1xFwJ']","['Ben&Ben', 'Zild', 'juan karlos']",3,0UeeygFdIo8k7PgxpLEGWI,2021-08-29,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Limasawa Street (Steve Lillywhite Mix),47,226021,7A3polZVo6cZW3CcrMGFvn,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,7xCcuTA3abKwxj8HwgxP7R,2019-05-12,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Pabilin,49,218268,2E1nG0Up60GG4mqx6NLUCL,0rZRTXEmmPmx6gt92tBqIc,Moira Dela Torre,1,2o7AC7FfrVvIl6JoqoKLn1,2021-10-29,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Ipanumpa ko,55,250000,3JQJW9oVjTZcrpV0PPxaYm,6qsz9DiTLG8Rb3Ca86qz1q,Oh! Caraga,1,7uXKIudnLiXnRfLuuOv4Dv,2019-11-22,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Duyan,47,262386,6jcaMepbIb6feaW1huiScm,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,17cPwu5tm8zltul1NUKxzN,2018-04-13,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+"Dito Ka Lang - In My Heart Filipino Version - From ""Flower of Evil""",16,230832,7LmPBkCjXKKxUOJRQuvtu1,0rZRTXEmmPmx6gt92tBqIc,Moira Dela Torre,1,403aLNKZu1JwmLuuHJm6rE,2022-07-01,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+To the Bone,79,344571,3pCt2wRdBDa2kCisIdHWgF,7d86ERlvO5UG44j7Va0Y0C,Pamungkas,1,3QUGmEDo4oijL93sKzlsR4,2019-06-14,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Janice,53,235037,2Zfjp9ZzccGoVOWvxi4fwz,"['6VdE5VTRsauXtI1jhbySpY', '7kDxx4h9b4M2kOjpTRvU73']","['_Dilaw', 'Astral Mind Music']",2,2WqPsphcVY2UiRREx8fpcg,2021-07-01,5a6seQS79Zb75SfqYwsWYa,Chill OPM for Study
+Hindi Ko Kaya,48,196363,5DAVHXdtJfSoz2uyPyzZUo,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,1XMlZH0h8IWOlILf1ylOsN,2021-05-14,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Ikaw Na Ba,43,216130,3DzPFRtIKpCTeeejl0wcja,2SKZZzdGrOcdb8q3IguugV,Le John,1,5YPy0QsbSNAW9LrOkb9mhj,2023-04-20,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Sigurado,55,235471,35unzCfhT0U4gYcCgdf9DX,67IN4cLJ7798gUapyZlmac,Zack Tabudlo,1,3XogEmDvNKbXTIYkoZgG5V,2020-12-04,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Passerby,33,295504,0RwDxYyETCfTaSGeJumGeL,5AXN8PuYHNmH6Cn1al6AQD,Mayarie,1,12nOqjgC8pjZ21nbX0ZwU0,2023-02-09,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+superficial energy,55,175674,2wmbk7U26XVNsS89UUffe5,3L1qgTsUqavkiygkIKfWJD,Denise Julia,1,14clBGWaMoyRGVfI3o7nlQ,2022-08-26,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Why,30,175786,4SesSGKwB589XJGeB6BJWH,2SKZZzdGrOcdb8q3IguugV,Le John,1,5qlL9MkZgRWLc8EesjoJHB,2023-02-09,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Boston,58,215074,2axSXMLQxRlru2cyP7yqD8,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,1,184ZzbrJlpXIA5lsEjJ4il,2021-07-30,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Di Na Mag-iisa,52,277000,3YaKDCOO28ZzQh059eAgdt,5GVk1KCKa1tdHRev4bMw7V,NOBITA,1,4HuBGtjhgsERGqIeanbKfa,2021-10-20,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Panaginip,36,262857,1QTbqyrFjqplGRZeNW1R0A,1ivVBioZ1Pocki7Ccqe3dI,MarCø,1,6MIMj7lIPndwjaCuxw9JT3,2022-11-25,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+An Art Gallery Could Never Be As Unique As You,77,158677,22Nd3GuO7sHopPjdKccRcq,31fsDbpNPKe346urriO4ma,mrld,1,0FRaoawfqep3bJcCqcQZpD,2019-12-11,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Himala,53,261375,3v8EvCxPcfwlStnCKtlzfi,3f0X043zSojego7Qn4Yi6U,Ace Banzuelo,1,11Fm9RQJskICPrsWdIcNaL,2020-01-23,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Pelikula,3,204693,5CHxZuUwZqeK7WU4fAQ0ub,"['09Xydf4dlkr29dH99DmsvQ', '7uDdl5V5AETSFY7K3muu22']","['Janine', 'Arthur Nery']",2,4NkcWiR6GiARbl7ANX9m4u,2021-07-02,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Back to Me,31,183293,1tduDVVOuweAY6bUsNWxwa,2SKZZzdGrOcdb8q3IguugV,Le John,1,0ucDJXtbhvAuorqeK2NgEH,2021-07-30,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Iba (ft. Moira Dela Torre),0,255857,0i1L1kVFgXmxx4oOJ8gnCf,"['67IN4cLJ7798gUapyZlmac', '0rZRTXEmmPmx6gt92tBqIc']","['Zack Tabudlo', 'Moira Dela Torre']",2,7DUZnNUUYG0tMsurTT8HlC,2022-02-10,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Drive,44,222272,2l4ZBEYH67RwM66z0whkAI,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,2twlPZI6mnkHbuC9amSwzy,2021-05-19,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Magpahinga,49,238792,4LBCCdHfmHm9NwerX6hvrz,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,2tHtWKI4qJNpDReAigDKzn,2021-05-14,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+HATDOG (ft. James Reid),47,187843,6xlrgkUrgMxkjK9y1LCRb1,"['67IN4cLJ7798gUapyZlmac', '24fEOzlKhgSNLIcy9NdmwH']","['Zack Tabudlo', 'James Reid']",2,4tHTQhh34jaLf5KrQzeP0L,2022-01-01,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Inevitable,46,241255,5eTytSrtW2P1pchAEfSTta,4DAcJXcjX0zlQAZAPAx4Zb,Ben&Ben,1,2edurmKokP0DDn4YOzqDiL,2021-02-14,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Love Me Like That,70,211363,1lhm29o3syw122xynSKaAK,4BBN286rBKyCWsSPq2cxYO,Sam Kim,1,4MLxdCgljBck6ddj3BKFTi,2021-07-24,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Better Now,42,232578,1JWKLPjQgGKBpjRMzidkhk,2owtRYReKCG1n2AAS5AcpS,Kenaniah,1,0yQTCTjjJ0q5gjL9QKLgZx,2022-01-07,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Sasamahan Kita (Araw-Araw Ng Puso) [Part 2],0,284062,2FNlShWesN6X6LXVTbvk5t,"['021sXp6RH5MQCCp2hmal6q', '3t80c7XZFuKcSUVyvpI6d3', '0WleeEe3UurwlNbDGhb5Yz']","['Jom', 'Crakky', 'ALLMO$T']",3,5eeSI5BjG3mDNhiUrPL9zO,2021-02-14,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+I'll Never Go,0,265952,2X4Hph3lYh9PAQ9AVJ6DvL,2Ev7vtPI38BE2kQvwmH4ce,Arthur Miguel,1,4qrMi9p9TnSzGBTndSqGhy,2021-05-23,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Nang Dumating Ka,3,379804,4k2QXEOnL0epRAwFWJrqJZ,4slXciON4jYY6mqE9LjSFx,Bandang Lapis,1,571kd9SJaWIadwKhqJAnLG,2021-02-14,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+NVMD,76,181224,7ArVzlFsFsQXNseVXmdOyk,3L1qgTsUqavkiygkIKfWJD,Denise Julia,1,7loTzM9oCoxuoHXWs3crbd,2022-02-04,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Bangin,40,227723,0ZVXBU8LCG0HutT5Oa8eI4,5GB0qrWq0mz2OanyfhXGp0,Paul Pablo,1,1v0xYbW5NagAzjMeBWIM5A,2021-02-26,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Dumaloy,51,260580,1X6CvDSqNCsOy0h2pv9Yjd,0jKQrxK2zHqxyOAyIMrUQt,SUD,1,0CPFOWJixO9sorCggeUYy1,2020-11-20,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Kahit Kunwari Man Lang,9,222500,6C2JPPYodebs3deDBizyww,"['2UeuiDT17tm6ljs9D4bSMX', '0rZRTXEmmPmx6gt92tBqIc']","['Agsunta', 'Moira Dela Torre']",2,5nHC92IFAdsDVzpnEsVjoT,2020-11-13,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Whatever This Is,37,187058,0fSBuNmLlfkzulls16EA6T,7KoTRIhjkIQy2L8RjWDpfF,Fern.,1,7dRN2VuLb4m1CDTHDHwz7h,2021-02-26,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Statue,46,273333,4m1BwzoW25MUh7lFQeIMCM,1260cBYXTbcaPim1WPOXFG,Kristel Fulgar,1,36MmefXU6YpTRr6kiiEvTh,2021-02-22,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Happy w u (feat. Jason Dhakal),0,280714,1n94XVEMS40MCW52AyLGDs,"['7uDdl5V5AETSFY7K3muu22', '7Hb2cm4pIeCUKwfzutKyjp']","['Arthur Nery', 'Jason Dhakal']",2,6tNvMkhgMHVnKMgk5FdCvU,2020-12-22,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Tunay,62,247906,2rTZjgC9zLLbo3y0asW8Ao,3OGOEwy4VOWKjSAcdiY8Gf,Lance Santdas,1,4vb7UGEYKldoeWryJ6whPy,2020-12-25,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Sleep Tonight (Tower Sessions Live),31,309000,4lZlcXfH4YK7ZSGJANsBhY,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,3cB6sHUjJdXA95B8ddsf24,2020-07-19,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Before It Sinks In,17,263720,20JlaQj9irFjFb8X0SKKS7,0rZRTXEmmPmx6gt92tBqIc,Moira Dela Torre,1,05rQadwAVYTpNNnBoeTuj0,2018-02-19,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+11:11 (Never Die),8,294021,4f3fDArKdDAjQeqgNq5TEB,5O5BqbcZg7wIZmrOcbOxt1,JF Somido,1,0aJPrRJnsyuS6OfM9x6DIY,2020-05-12,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Sumayaw,41,231403,0AHsckTyaPoefEG6Nkd0E9,2SKZZzdGrOcdb8q3IguugV,Le John,1,4j2X8XYnR8r40JEmnCGlHP,2023-09-14,5L7ipU5e5JTQSjeHXfuwMf,"Chill OPM City Vibes 2023🇵🇭 (IV Of Spades, Zack Tabudlo, Juan Karlos, and more)"
+Sabihin Mo Na,0,284946,3Wc4qBRm3Bs6IYWP9Lb8c8,0mY2BurbGUdEAwjsBG2R3K,Top Suzara,1,0jdwH5ilsTrphmydngcxmx,2006-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Pwede Ba,56,372560,1mJbwP2syhKCz0b84oNdOn,13VRqzYJxIUpx67aASZADe,Soapdish,1,5frYhQPxFxiNZV7fmqybMJ,2005,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Pusong Ligaw,14,246666,14pj36HKHd6c72njvGVPWU,3RpJ6OyOnaXRFRXSirgQa6,Jericho Rosales,1,41S3W52qwH0oEKOx9ByH5t,2009-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Nakapagtataka,0,234813,4z2geuRPJJBlJ4V8C9NgZx,1tXFYQZSAswt4JLB42lpye,Sponge Cola,1,4Jfm8pzDGoeDqWKf6Q5qO6,2013-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Akap,10,336640,3Q6DKhEtaassSjl62Q3EAz,6MXu7TWZnmykwkXiRJeUMh,Imago,1,6mFWJwQ7DXomqr30EIHpnP,2006-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Halaga,1,352120,6pz4tdLoIDJdnpXnisSDCK,2XHTklRsNMOOQT56Zm3WS4,Parokya Ni Edgar,1,58vdgBfvgzQFZ2VreSPGmU,1999-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Spoliarium,60,326760,0I5Z0p0cLWdyJNC6sqMTwD,7374lH6kwx9uQATYQ9H3Cp,Eraserheads,1,616gVbSZhqmxgSBKqmZZ7T,1998-11-27,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Nobela,39,291506,2Dc42FhY3f8oPCCWuRnvWL,70ljCILl0aVXitf3K39YvT,Join The Club,1,7i8bEl9KLLCVrreUG6YS6k,2020-07-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Kung Wala Ka,0,242848,4N4SnTk6rQbLAcARYnjGD9,6Ww3OMFzCaO33ulKh1LBFN,Hale,1,472GgeFZaCdRLcL3cT0IAn,2005-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Dahil Ikaw,0,293506,0JYJu5TaqjPkZjpfMXHZjW,6RV3CKY0UJIPKXyGs85Thm,True Faith,1,7JbgNc2GimrkF9tL6vUpR3,2006-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Di Bale Na Lang,0,586053,1fC1SqMiHjGbyyx3HerSWu,3wNylAjJX1PiCpMKx8Lrfp,Regine Velasquez,1,4ZEtmJPPV4ncgA1IvSI5D3,2004-10-19,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Ang Pag-Ibig Kong Ito,0,248733,3uIJtRUcS9pWirc2ghCjxa,2kZThDGZcHl4klYYFk0v8n,Moonstar88,1,6PgT0UUsqNfS5wFTUoxYkY,2002-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+The Day You Said Goodnight,3,291357,0HZ3OUVrGHxttD2EuHqRm3,6Ww3OMFzCaO33ulKh1LBFN,Hale,1,472GgeFZaCdRLcL3cT0IAn,2005-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Ulan,65,309066,6s97fltVQXax4ZFkZJdGdP,6Xx1uQPrAF37dtVMKEmvx5,Cueshé,1,2BfekCfAeHJHeIEMWXsoXH,2005-06-09,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+You'll Be Safe Here,0,270706,6Y6YLoOlzNez1h3D7iwS72,1zwnNOz4ZtdJ5mINqBSds3,Elmo Magalona,1,1wRLpyLXOjoYzRdHXs96Zm,2016-09-30,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Pasensya Na,58,223986,49pOQUAKwPvjUqQxrZTKfq,6Xx1uQPrAF37dtVMKEmvx5,Cueshé,1,0aesFsBOaeljPfH76CsrN1,2006-08-16,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+"Umaaraw, Umuulan",0,275266,5S5M1oItQTUjJHtliGK3T6,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,1aVOTQ2lFw2vQaU7cX9wDO,2020-09-04,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Sandali Na Lang,0,220280,2jKpbNu2UuhRSvEjpBEpxP,6Ww3OMFzCaO33ulKh1LBFN,Hale,1,3iJ889qoTHVjt3CyqQPflh,2008-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Bakit?,50,289586,7IOhHRFxTZZ4CQjBvESowE,6Xx1uQPrAF37dtVMKEmvx5,Cueshé,1,0aesFsBOaeljPfH76CsrN1,2006-08-16,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Himala,56,246280,3zuJmBQozBPx6KRlfCNUPQ,1ZTdxfZTeztyAgKUJVLxAI,Rivermaya,1,65GkUxR6lYlCiYP4mqyZl1,2001,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Sigurado,0,307846,4pFap8jxyxyVUzl3eXyUxL,6MXu7TWZnmykwkXiRJeUMh,Imago,1,4Bb3de7HSMmI7Ey2HVthaj,2021-02-05,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Broken Sonnet,0,307057,35sJB994fhbchpJa03ydKi,6Ww3OMFzCaO33ulKh1LBFN,Hale,1,472GgeFZaCdRLcL3cT0IAn,2005-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Kung 'Di Na Ako,8,281144,7Do5T0DiWCI3NF55FvXdOo,2UeuiDT17tm6ljs9D4bSMX,Agsunta,1,07944sLhxxp3Qw1zbj7bQh,2019-09-04,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Martyr Nyebera,0,325280,7l77r7rGqag5Y6gL2Oz6Lx,4GBFKKuwmZUnAJt6nBal7A,Kamikazee,1,1QMMXG50CdKyrCsZFMmymj,2006-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Sila - Acoustic,50,319608,2Pelm9xgLSC78mRk0jbOKb,0jKQrxK2zHqxyOAyIMrUQt,SUD,1,1HHK0oozKwo9piao0wO25d,2016-03-18,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Olats,43,227786,6kd4ndAtdYEEfBT99OKlK7,1ZTdxfZTeztyAgKUJVLxAI,Rivermaya,1,05aL6sTD3N4TK9ixy4jfCA,2007-09-24,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+One Hit Combo,0,170173,6sOszLxsF0JhD4ICSy690k,2XHTklRsNMOOQT56Zm3WS4,Parokya Ni Edgar,1,4GAo8Jpsiw7iKopdVwCUcY,2010-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Xgf,0,174746,47VKiNedFU3EGKYGbZF7Hz,"['1tXFYQZSAswt4JLB42lpye', '72VBk3SEsEFPF948CmkHT4', '3hoTXAUM6bci1o5WfWrIPv']","['Sponge Cola', 'Chito Miranda', 'Los Magno']",3,00sEoDATICNEKzYtMwxJjp,2009-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+One Hit Combo,0,209906,5jedEYW9s8hT9jqLbBeloY,"['2XHTklRsNMOOQT56Zm3WS4', '7HJDRQAfEcFiARVehhM6qD']","['Parokya Ni Edgar', 'Gloc-9']",2,3iqBmUSZMRYayQOxw6Byy4,2012-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Kay Tagal Kitang Hinintay,58,280306,0DgmFkzTdM3hpH2WgheJ4b,1tXFYQZSAswt4JLB42lpye,Sponge Cola,1,2iqICXBORRx2CfWew6G07q,2011-01-01,5GtvPvySlpULGipuTFlIFr,Tunog kalye Chill OPM
+Umaasa,0,335624,5eQCWiTUO87l1lerhlCIzs,0DpLoyGVbhOHNR3ht2oO9y,Calein,1,4XCTzKOG36qOVzwWz7cuv8,2019-06-28,0swElvPu1DKiPPe8Y7qYwy,SLOW + CHILL OPM
+Pansamantala,0,277813,1Yd9vD5QKZTMA6yFxFuD1M,4HOEnLufwAqJ2qoJPVnL01,Callalily,1,4TKyn5UuWOyAurOXBRBOpz,2012-01-01,0swElvPu1DKiPPe8Y7qYwy,SLOW + CHILL OPM
+Ikaw Lang,29,211359,3nlgCrFRFZrDSZoJ4UaLRY,6urxZktbtGcTIIqxQZ1d8q,Jireh Lim,1,7cRf9oaE1DEH2CilkoNWPq,2017-10-13,0swElvPu1DKiPPe8Y7qYwy,SLOW + CHILL OPM
+"241 (from the movie ""100 Tula Para Kay Stella"")",0,220277,14lHv6ALg1HB8aIqoHqvox,09Xydf4dlkr29dH99DmsvQ,Janine,1,7ePaUTZ1bXYPJtg8BHQ3D6,2017-07-21,0swElvPu1DKiPPe8Y7qYwy,SLOW + CHILL OPM
+What Are We,54,320915,7JHsx9J7zW5jOeen4OufUT,31fsDbpNPKe346urriO4ma,mrld,1,1C19zBgMZssqTdeYZY2zS3,2020-05-22,0swElvPu1DKiPPe8Y7qYwy,SLOW + CHILL OPM
+Hawak Bitaw,42,301854,7CkuJEJMB0clk0HCBQd9rT,1O2R0tcHg9FlIBXfLmagIh,LaLuna,1,3ialdBDlbaHFeuYBtmFc57,2019-05-31,0swElvPu1DKiPPe8Y7qYwy,SLOW + CHILL OPM
+Solomon,60,378000,2jHHaNZrgt506zDAKlhQr3,"['4eKq7eArL96wSQjaaMg9Ic', '5ebPSE9YI5aLeZ1Z2gkqjn']","['Munimuni', 'Clara Benin']",2,0BDVa2cVDEhfy3telrAIux,2019-07-26,0swElvPu1DKiPPe8Y7qYwy,SLOW + CHILL OPM
+tyl,0,192000,7dNPk5IFBfOkrYXU7TH3iY,3rMkO05Kgt99HDp4P41cbk,kakie,1,2bUg5ANoa4gpKuo0BzlXJc,2019-07-26,0swElvPu1DKiPPe8Y7qYwy,SLOW + CHILL OPM
+Unti-Unti,59,283825,0DdC92EziGIEN6j7kTCKQX,3wbCeEPAW6po7J46netxMT,Up Dharma Down,1,22DhzsGO72BgYKAAXFGsyb,2017-02-14,0swElvPu1DKiPPe8Y7qYwy,SLOW + CHILL OPM
+Midnight Streetlight,0,215748,2QIwQLJPZIb97myimS0HAu,5A3S65hDDjZ2J4t9LqOwtP,Jem Cubil,1,7nFkN2dBWEM1WQ8WpySNEN,2019-11-15,0swElvPu1DKiPPe8Y7qYwy,SLOW + CHILL OPM
