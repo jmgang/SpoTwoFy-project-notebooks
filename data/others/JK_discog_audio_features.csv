@@ -1,0 +1,32 @@
+track_id,track_name,artist_id,artist_name,album_id,duration,release_date,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,album_name
+0Wbz830pfbFJOURtzRJrs0,Sad Songs and Bullshit,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,7H0mDAUmK6BUuGZCy10kcv,227307,2023-09-22,59,0.596,0.699,2,-6.052,1,0.0446,0.0147,0.0,0.131,0.56,130.02,Sad Songs and Bullshit Part 1
+2BLdelIp46CHvKkyWeqZHL,ERE,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,7H0mDAUmK6BUuGZCy10kcv,284812,2023-09-22,76,0.48,0.571,7,-7.818,1,0.042,0.526,0.000213,0.232,0.257,146.051,Sad Songs and Bullshit Part 1
+1Wgrmn9afIi8NCHBIMIk5e,may halaga pa ba ako sayo??,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,7H0mDAUmK6BUuGZCy10kcv,408795,2023-09-22,59,0.43,0.268,1,-9.445,1,0.0383,0.817,5.75e-05,0.0846,0.109,122.403,Sad Songs and Bullshit Part 1
+6AJbNcdXNEsVoMqzikQc90,Manhid,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,7H0mDAUmK6BUuGZCy10kcv,224129,2023-09-22,55,0.599,0.414,0,-9.883,1,0.0304,0.662,0.000572,0.12,0.314,113.515,Sad Songs and Bullshit Part 1
+3FQuH8WQRC5ZJvJLWDZEpa,Paruparo,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,7H0mDAUmK6BUuGZCy10kcv,128130,2023-09-22,56,0.397,0.143,9,-15.249,1,0.0513,0.934,0.0259,0.0914,0.414,82.856,Sad Songs and Bullshit Part 1
+6bRB6pvgrVRAi1VdFz9TJb,Gabi,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,7H0mDAUmK6BUuGZCy10kcv,317975,2023-09-22,64,0.437,0.451,7,-12.281,1,0.0399,0.955,0.00234,0.352,0.28,84.805,Sad Songs and Bullshit Part 1
+6MJZdfRsIqQU0LYpV2LrzZ,Time Machine,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,7H0mDAUmK6BUuGZCy10kcv,300140,2023-09-22,55,0.63,0.752,4,-6.03,1,0.0552,0.0452,0.0,0.07,0.756,132.134,Sad Songs and Bullshit Part 1
+5xc0pk2ddmf1ygHCvhdE9d,Lumisan,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,7H0mDAUmK6BUuGZCy10kcv,211026,2023-09-22,55,0.58,0.463,7,-8.808,1,0.0369,0.852,0.0,0.0853,0.329,81.937,Sad Songs and Bullshit Part 1
+3xsG0nlcW9rnkj8LbL7YEU,Tapusin Na Natin To (feat. Paolo Benjamin of Ben&Ben),0a4r2EnsevvHCukoJ1xFwJ,juan karlos,7H0mDAUmK6BUuGZCy10kcv,183250,2023-09-22,59,0.585,0.189,0,-12.851,1,0.0329,0.936,0.00237,0.0844,0.313,119.875,Sad Songs and Bullshit Part 1
+4lc3mY2nd1bVzBOKe8uMBw,Ulan,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,3WiSoqTB6kQc8Sunmdtcug,270855,2020-03-20,47,0.617,0.439,4,-9.017,0,0.0438,0.628,0.0584,0.119,0.293,143.955,Diwa
+6EYcB9BS4impPFgmFxMy7P,Kalawakan,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,3WiSoqTB6kQc8Sunmdtcug,275500,2020-03-20,55,0.621,0.404,4,-8.232,1,0.0366,0.309,0.00312,0.286,0.595,120.474,Diwa
+1pe3LbZXSvEe5cyvE4t5Wo,Malay,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,3WiSoqTB6kQc8Sunmdtcug,309000,2020-03-20,44,0.504,0.494,4,-8.921,1,0.0445,0.581,0.000691,0.126,0.306,149.977,Diwa
+1LLEuTmZ9uzJQqcbeHA4yd,Pasensya,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,3WiSoqTB6kQc8Sunmdtcug,270250,2020-03-20,38,0.394,0.602,1,-8.577,0,0.0516,0.169,0.193,0.174,0.242,135.954,Diwa
+6bYbqNumzBoQhS1kHuj30K,Sampaguita,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,3WiSoqTB6kQc8Sunmdtcug,295000,2020-03-20,42,0.569,0.729,0,-6.42,1,0.058,0.371,3.04e-06,0.0876,0.365,143.852,Diwa
+37GrO7S96eCqHTZ6T5QfQV,Kulimlim,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,3WiSoqTB6kQc8Sunmdtcug,357000,2020-03-20,45,0.498,0.0641,6,-20.333,0,0.0599,0.935,0.000356,0.356,0.196,121.179,Diwa
+5l89pZ0XzUTwjs5Fl5c6xi,Sistema,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,3WiSoqTB6kQc8Sunmdtcug,406629,2020-03-20,35,0.556,0.586,0,-6.195,1,0.0422,0.152,0.0,0.0989,0.328,123.841,Diwa
+4NWRSsHxiv3tOWeQqkmsXW,Biyak,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,3WiSoqTB6kQc8Sunmdtcug,354172,2020-03-20,36,0.495,0.427,7,-8.862,1,0.0461,0.559,0.0,0.104,0.339,119.071,Diwa
+1VtKLC5oZ6aacOq76eCK4u,Miss You,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,3WiSoqTB6kQc8Sunmdtcug,398300,2020-03-20,50,0.623,0.369,2,-9.368,1,0.0308,0.627,1.58e-06,0.103,0.279,66.987,Diwa
+2u3vcSJ8ianMupkiqrcpJ7,Jenny,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,3WiSoqTB6kQc8Sunmdtcug,329159,2020-03-20,46,0.496,0.641,9,-5.2,1,0.0754,0.369,0.0,0.0591,0.656,147.815,Diwa
+1IfPJPQvgB6WrEQpUB5Kdn,Sana Kung Pwede Lang,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,67vvDiZLNyjNQ1gU6El7GC,190338,2017-01-27,49,0.685,0.672,7,-6.974,0,0.0266,0.0968,0.0,0.121,0.585,114.993,JKL
+1WXs4O7mBxXglHJPwYweHq,Demonyo,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,67vvDiZLNyjNQ1gU6El7GC,218000,2017-01-27,70,0.415,0.508,0,-9.169,1,0.0363,0.0509,0.0162,0.103,0.114,188.744,JKL
+6n8l7JOAJ5qC2jNPWAqA18,Move On,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,67vvDiZLNyjNQ1gU6El7GC,265617,2017-01-27,32,0.785,0.662,9,-9.796,1,0.12,0.106,0.000184,0.111,0.862,116.981,JKL
+0F18RvltuDDZzC31tsYPVW,Here I Am,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,67vvDiZLNyjNQ1gU6El7GC,227716,2017-01-27,46,0.437,0.38,3,-10.544,1,0.0286,0.835,4.3e-05,0.115,0.283,146.371,JKL
+2g9v7F8NGIiaEq5fqFhoBd,Forever,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,67vvDiZLNyjNQ1gU6El7GC,303445,2017-01-27,44,0.623,0.485,8,-9.162,1,0.0242,0.0162,0.000505,0.156,0.304,101.456,JKL
+0F7KF7sAkjGHu03j4EVzmf,Wala Nang Iba,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,67vvDiZLNyjNQ1gU6El7GC,275999,2017-01-27,45,0.521,0.467,9,-8.523,1,0.0265,0.288,0.000451,0.222,0.236,136.029,JKL
+6lkqLVdnvxjpUaw8nZ2uSS,Too Much,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,67vvDiZLNyjNQ1gU6El7GC,228109,2017-01-27,44,0.578,0.538,9,-9.332,0,0.043,0.0714,5.15e-06,0.292,0.18,84.096,JKL
+1MKbLSZ5nEkh6cEFagG50r,Move On - Electric JK Jam,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,67vvDiZLNyjNQ1gU6El7GC,260119,2017-01-27,29,0.809,0.228,9,-9.855,1,0.086,0.872,0.0,0.111,0.41,117.486,JKL
+5f9808hpiCpuNyqqdXmpF2,Buwan,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,2CF1utwLM2yXHMZhwFGVY1,343446,2018-06-22,71,0.631,0.381,7,-11.808,1,0.04,0.447,0.000171,0.0902,0.36,126.008,Singles
+3uWHNTmc2FFYmxlULgJ03E,Shot Puno,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,3TnSVVzQ4WsJfdt8bsuqpd,273500,2022-10-14,67,0.544,0.479,7,-6.664,1,0.0963,0.672,0.0,0.654,0.471,139.575,Singles
+1EyDyYmB9lrAaiLS1WcA4c,Demonyo (Redefined),0a4r2EnsevvHCukoJ1xFwJ,juan karlos,7sprCBdpxhkhpntzwa2Dwq,273708,2018-03-09,62,0.313,0.565,0,-8.292,1,0.0381,0.488,0.000211,0.106,0.106,114.329,Singles
+2axSXMLQxRlru2cyP7yqD8,Boston,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,184ZzbrJlpXIA5lsEjJ4il,215074,2021-07-30,58,0.776,0.103,0,-12.314,1,0.0365,0.825,0.0,0.182,0.302,105.086,Singles
